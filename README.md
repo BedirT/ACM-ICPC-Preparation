@@ -2,9 +2,9 @@
 
 We will share our curriculum follow up here. All questions, solutions etc.
 
-
--Every week we will share what we find as questions and solution that we came up for it.
-
+<ul>
+    <li>Every week we will share what we find as questions and solution that we came up for it.</li>
+</ul>
 
 ## Here is our schedule 
 
@@ -119,3 +119,11 @@ We will share our curriculum follow up here. All questions, solutions etc.
         </ul>
 
 </ul>
+
+### The Contributers
+<ul>
+    <li>Mustafa Bedir Tapkan</li>
+    <li>Nadide Pasali</li>    
+    <li>Talgat Yegizbayev</li>
+</ul>
+
