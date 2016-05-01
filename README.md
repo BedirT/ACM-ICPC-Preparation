@@ -39,7 +39,7 @@ We will share our curriculum follow up here. All questions, solutions etc.
             <li>Long arithmetic - Div, Multiply</li>
         </ul>
 
-    <li>**5.Week**</li>
+    <li><strong>5.Week</strong></li>
 
         <ul>
             <li>DFS</li>
