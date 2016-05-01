@@ -1,4 +1,4 @@
-# Algorithms Curriculum Follow
+# Algorithms Curriculum Follow ### <em>Started at May 1st 2016</em>
 
 We will share our curriculum follow up here. All questions, solutions etc.
 
