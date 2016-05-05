@@ -5,7 +5,12 @@ The first week , first two topics : GCD, LCM - Euclids Therom and Geometry. Here
 
 ## Problems & Solutions
 ##### GCD and LCM Euclid Algorithm
-- First question to solve: [HackerRank, Sherlock and GCD](https://www.hackerrank.com/challenges/sherlock-and-gcd?h_r=internal-search)
-  - [Bedir's Solution]()
-    
-##### Geometry
+  - First question to solve: [HackerRank, Sherlock and GCD](https://www.hackerrank.com/challenges/sherlock-and-gcd?h_r=internal-search)
+    - [Bedir's Solution]()
+
+##### Geometry (_Primitive operations_)
+- Polygon Inside, Outside
+- Implementing CCW
+- Intuition
+- Immutable Point ADT
+- Line intersection
