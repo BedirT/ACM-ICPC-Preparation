@@ -9,8 +9,12 @@ Every week we will share what we find as questions and solution that we came up 
 [**1.Week**](https://github.com/NAU-ACM/AlgorithmsCurriculumFollow/tree/master/Week1)
 
   - GCD and LCD Euklid Algorithm
-  - Geometry
-        
+  - Geometry (_Primitive operations_)
+    - Polygon Inside, Outside
+    - Implementing CCW
+    - Intuition
+    - Immutable Point ADT
+    - Line intersection
 
 **2.Week**
 
