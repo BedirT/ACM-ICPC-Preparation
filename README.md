@@ -6,7 +6,7 @@ Every week we will share what we find as questions and solution that we came up 
 
 ## Here is our schedule 
 
-**1.Week**
+[**1.Week**](https://github.com/NAU-ACM/AlgorithmsCurriculumFollow/tree/master/Week1)
 
   - GCD and LCD Euklid Algorithm
   - Geometry
