@@ -4,10 +4,6 @@
 The first week , first two topics : GCD, LCM - Euclids Therom and Geometry. Here the problems that we found and then their solutions.
 
 ### Problems & Solutions
-<ul>
-    <li>[First question to solve: HackerRank, Sherlock and GCD](https://www.hackerrank.com/challenges/sherlock-and-gcd?h_r=internal-search)</li>
-        <ul>
-            <li>[Bedir's Solution]()</li>
-        </ul>
-</ul>
-
+-[First question to solve: HackerRank, Sherlock and GCD](https://www.hackerrank.com/challenges/sherlock-and-gcd?h_r=internal-search)
+        -[Bedir's Solution]()
+    
