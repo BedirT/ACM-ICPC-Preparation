@@ -2,129 +2,111 @@
 <em>Started at May 1st 2016</em>
 
 We will share our curriculum follow up here. All questions, solutions etc.
-
-<ul>
-    <li>Every week we will share what we find as questions and solution that we came up for it.</li>
-</ul>
+Every week we will share what we find as questions and solution that we came up for it.
 
 ## Here is our schedule 
 
-<ul>
+**1.Week**
 
-    <li><strong>1.Week</strong></li>
+  - GCD and LCD Euklid Algorithm
+  - Geometry
+        
 
-        <ul>
-            <li>GCD and LCD Euklid Algorithm</li>
-            <li>Geometry</li>
-        </ul>
+**2.Week**
 
-    <li><strong>2.Week</strong></li>
+  - Quick sort
+  - Numberic sort(position sort)
 
-        <ul>
-            <li>Quick sort</li>
-            <li>Numberic sort(position sort)</li>
-        </ul>
+**3.Week**
 
-    <li><strong>3.Week</strong></li>
+  - Binary search
+  - Ternar search
 
-        <ul>
-            <li>Binary search</li>
-            <li>Ternar search</li>
-        </ul>
+**4.Week**
 
-    <li><strong>4.Week</strong></li>
+  - Prime Numbers(Sieve of Eratosthenes)
+  - Long arithmetic - Plus, Minus
+  - Long arithmetic - Div, Multiply
+    
 
-        <ul>
-            <li>Prime Numbers(Sieve of Eratosthenes)</li>
-            <li>Long arithmetic - Plus, Minus</li>
-            <li>Long arithmetic - Div, Multiply</li>
-        </ul>
+**5.Week**
 
-    <li><strong>5.Week</strong></li>
 
-        <ul>
-            <li>DFS</li>
-            <li>Djikstra</li>
-            <li>BFS</li>
-        </ul>
+  - DFS
+  - Djikstra
+  - BFS
+    
 
-    <li><strong>6.Week</strong></li>
+**6.Week**
 
-        <ul>
-            <li>Ford Bellman</li>
-            <li>Floyd Wolsher</li>
-        </ul>
+  - Ford Bellman
+  - Floyd Wolsher
+    
 
-    <li><strong>7.Week</strong></li>
+**7.Week**
 
-        <ul>
-            <li>RMQ Multiply</li>
-            <li>RMQ Div</li>
-            <li>RMQ Plus , Minus</li>
-        </ul>
 
-    <li><strong>8.Week</strong></li>
+  - RMQ Multiply
+  - RMQ Div
+  - RMQ Plus , Minus
+    
 
-        <ul>
-            <li>Combinatoric(Theory, math and etc)</li>
-        </ul>
+**8.Week**
 
-    <li><strong>9.Week</strong></li>
 
-        <ul>
-            <li>Dynamic program</li>
-        </ul>
+   - Combinatoric(Theory, math and etc)
+    
 
-    <li><strong>10.Week</strong></li>
+**9.Week**
 
-        <ul>
-            <li>TopSort</li>
-        </ul>
 
-    <li><strong>11.Week</strong></li>
+   - Dynamic program
+    
 
-        <ul>
-            <li>Z-function</li>
-            <li>Hash</li>
-        </ul>
+**10.Week**
 
-    <li><strong>12.Week</strong></li>
 
-        <ul>
-            <li>Z-function</li>
-            <li>Hash</li>
-        </ul>
+   - TopSort
+    
+**11.Week**
 
-    <li><strong>13.Week</strong></li>
 
-        <ul>
-            <li>Game theory</li>
-        </ul>
+  - Z-function
+  - Hash
+    
 
-    <li><strong>14.Week</strong></li>
+**12.Week**
 
-        <ul>
-            <li>Game theory</li>
-        </ul>
 
-    <li><strong>15.Week</strong></li>
+  - Z-function
+  - Hash
 
-        <ul>
-            <li>Heavy Light Decomposition</li>
-        </ul>
+**13.Week**
 
-    <li><strong>16.Week</strong></li>
 
-        <ul>
-            <li>Heavy Light Decomposition</li>
-        </ul>
+  - Game theory
+    
 
-</ul>
+**14.Week**
 
-### The Contributers
-<ul>
-    <li>Mustafa Bedir Tapkan</li>
-    <li>Nadide Pasali</li>    
-    <li>Talgat Yegizbayev</li>
-</ul>
+
+  - Game theory
+    
+
+**15.Week**
+
+
+  - Heavy Light Decomposition
+    
+
+**16.Week**
+
+  - Heavy Light Decomposition
+
+
+#### The Contributers
+- Mustafa Bedir Tapkan[![linkedIn](http://7psh.com/inc.img/linkedin.png)](https://www.linkedin.com/in/bedirtapkan)  [![gitHub](http://cvdlab-cg.github.io/220279/img/icon-github.png)](https://github.com/BedirT)
+- Nadide Pasali [![linkedIn](http://7psh.com/inc.img/linkedin.png)](https://www.linkedin.com/in/nadidepasali)  [![gitHub](http://cvdlab-cg.github.io/220279/img/icon-github.png)](https://github.com/nadide)
+- Talgat Yegizbayev [![linkedIn](http://7psh.com/inc.img/linkedin.png)](https://www.linkedin.com/in/talgat-yegizbayev-8b20b6103/en)  [![gitHub](http://cvdlab-cg.github.io/220279/img/icon-github.png)]()
+
 
