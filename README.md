@@ -9,8 +9,12 @@ Every week we will share what we find as questions and solution that we came up 
 [**1.Week**](https://github.com/NAU-ACM/AlgorithmsCurriculumFollow/tree/master/Week1)
 
   - GCD and LCD Euklid Algorithm
-  - Geometry
-        
+  - Geometry (_Primitive operations_)
+    - Polygon Inside, Outside
+    - Implementing CCW
+    - Intuition
+    - Immutable Point ADT
+    - Line intersection
 
 **2.Week**
 
@@ -105,8 +109,8 @@ Every week we will share what we find as questions and solution that we came up 
 
 
 #### The Contributers
-- Mustafa Bedir Tapkan[![linkedIn](http://7psh.com/inc.img/linkedin.png)](https://www.linkedin.com/in/bedirtapkan)  [![gitHub](http://cvdlab-cg.github.io/220279/img/icon-github.png)](https://github.com/BedirT)
-- Nadide Pasali [![linkedIn](http://7psh.com/inc.img/linkedin.png)](https://www.linkedin.com/pub/nadide-pasali/b6/604/a90)  [![gitHub](http://cvdlab-cg.github.io/220279/img/icon-github.png)](https://github.com/nadide)
-- Talgat Yegizbayev [![linkedIn](http://7psh.com/inc.img/linkedin.png)](https://www.linkedin.com/in/talgat-yegizbayev-8b20b6103/en)  [![gitHub](http://cvdlab-cg.github.io/220279/img/icon-github.png)]()
+- Mustafa Bedir Tapkan . . . .[![linkedIn](http://7psh.com/inc.img/linkedin.png)](https://www.linkedin.com/in/bedirtapkan)  [![gitHub](http://cvdlab-cg.github.io/220279/img/icon-github.png)](https://github.com/BedirT)
+- Nadide Pasali . . . . . . . . . . [![linkedIn](http://7psh.com/inc.img/linkedin.png)](https://www.linkedin.com/pub/nadide-pasali/b6/604/a90)  [![gitHub](http://cvdlab-cg.github.io/220279/img/icon-github.png)](https://github.com/nadide)
+- Talgat Yegizbayev . . . . . . .[![linkedIn](http://7psh.com/inc.img/linkedin.png)](https://www.linkedin.com/in/talgat-yegizbayev-8b20b6103/en)  [![gitHub](http://cvdlab-cg.github.io/220279/img/icon-github.png)]()
 
 
