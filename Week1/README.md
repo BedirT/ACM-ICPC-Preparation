@@ -6,7 +6,7 @@ The first week , first two topics : GCD, LCM - Euclids Therom and Geometry. Here
 ## Problems & Solutions
 ##### GCD and LCM Euclid Algorithm
   - Source Codes
-    - Bedir's - [C](https://github.com/NAU-ACM/AlgorithmsCurriculumFollow/blob/master/Week1/GCD%20and%20LCM%20Euclid%20Algorithm/C/Bedir.c) / [Java](https://github.com/NAU-ACM/AlgorithmsCurriculumFollow/blob/master/Week1/GCD%20and%20LCM%20Euclid%20Algorithm/Java/Bedir_Java.java)
+    - Bedir's - [C](https://github.com/NAU-ACM/AlgorithmsCurriculumFollow/blob/master/Week1/GCD%20and%20LCM%20Euclid%20Algorithm/C/Bedir.c)
   - First question to solve: [HackerRank, Sherlock and GCD](https://www.hackerrank.com/challenges/sherlock-and-gcd?h_r=internal-search)
     - [Bedir's Solution]()
 
