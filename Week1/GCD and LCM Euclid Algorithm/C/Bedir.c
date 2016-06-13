@@ -1,4 +1,4 @@
-#include<stdio.h>
+ #include<stdio.h>
 #include<stdlib.h>
 
 int GCD_division(int a, int b){ //  Great Common Divisor function with division.
