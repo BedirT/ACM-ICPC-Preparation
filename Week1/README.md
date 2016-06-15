@@ -6,15 +6,22 @@ The first week , first two topics : GCD, LCM - Euclids Therom and Geometry. Here
 ## Problems & Solutions
 ##### GCD and LCM Euclid Algorithm
   - Source Codes
-    - [Bedir's](https://github.com/BedirT/AlgorithmsL/blob/master/Algorithms/GCD%20and%20LCM%20Euclid%20Algorithm.cpp)
+    - [Bedir](https://github.com/BedirT/AlgorithmsL/blob/master/Algorithms/GCD%20and%20LCM%20Euclid%20Algorithm.cpp)
   - First question to solve: [HackerRank, Sherlock and GCD](https://www.hackerrank.com/challenges/sherlock-and-gcd?h_r=internal-search)
     - [Bedir's Solution]()
+    - [Nadide's Solution](https://github.com/nadide/ACM-ICPC/blob/master/problems/hackerrank/sherlockAndGCD.c)
 
 ##### Geometry (_Primitive operations_)
 - Polygon Inside, Outside
+    - [Almaz]()
+    - [Bedir]()
+    - [Nadide](https://github.com/nadide/ACM-ICPC/blob/master/codes/geo_polygonInside.cpp)
 - Implementing CCW
 - Intuition
 - Immutable Point ADT
 - Line intersection
   - Source Codes
-    - [Bedir's](https://github.com/BedirT/AlgorithmsL/blob/master/Algorithms/Geometry/geo_lineIntersection.cpp)
+    - [Almaz]()
+    - [Bedir](https://github.com/BedirT/AlgorithmsL/blob/master/Algorithms/Geometry/geo_lineIntersection.cpp)
+    - [Nadide](https://github.com/nadide/ACM-ICPC/blob/master/codes/geo_lineIntersect.cpp)
+  
