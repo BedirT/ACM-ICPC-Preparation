@@ -16,3 +16,5 @@ The first week , first two topics : GCD, LCM - Euclids Therom and Geometry. Here
 - Intuition
 - Immutable Point ADT
 - Line intersection
+  - Source Codes
+    - [Bedir's](https://github.com/BedirT/AlgorithmsL/blob/master/Algorithms/Geometry/geo_lineIntersection.cpp)
