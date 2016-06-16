@@ -14,9 +14,10 @@ The first week , first two topics : GCD, LCM - Euclids Therom and Geometry. Here
 ##### Geometry (_Primitive operations_)
 - Polygon Inside, Outside
     - Sources to study
+      - [GeeksforGeeks](http://www.geeksforgeeks.org/how-to-check-if-a-given-point-lies-inside-a-polygon/)  
     - Source Codes
       - [Almaz]()
-      - [Bedir]()
+      - [Bedir](https://github.com/BedirT/AlgorithmsL/blob/master/Algorithms/Geometry/geo_polygonInsideOrOutside.cpp)
       - [Nadide](https://github.com/nadide/ACM-ICPC/blob/master/codes/geo_polygonInside.cpp)
 - Implementing CCW
 - Intuition
