@@ -111,6 +111,6 @@ Every week we will share what we find as questions and solution that we came up 
 #### The Contributers
 - Mustafa Bedir Tapkan . . . .[![linkedIn](http://7psh.com/inc.img/linkedin.png)](https://www.linkedin.com/in/bedirtapkan)  [![gitHub](http://cvdlab-cg.github.io/220279/img/icon-github.png)](https://github.com/BedirT)
 - Nadide Pasali . . . . . . . . . . [![linkedIn](http://7psh.com/inc.img/linkedin.png)](https://www.linkedin.com/pub/nadide-pasali/b6/604/a90)  [![gitHub](http://cvdlab-cg.github.io/220279/img/icon-github.png)](https://github.com/nadide)
-- Almaz Tukenov . . . . . . .[![linkedIn](http://7psh.com/inc.img/linkedin.png)](https://www.linkedin.com/in/almaz-tukenov-48767a108)  [![gitHub](http://cvdlab-cg.github.io/220279/img/icon-github.png)](https://github.com/atukenov)
+- Almaz Tukenov . . . . . . . . . [![linkedIn](http://7psh.com/inc.img/linkedin.png)](https://www.linkedin.com/in/almaz-tukenov-48767a108)  [![gitHub](http://cvdlab-cg.github.io/220279/img/icon-github.png)](https://github.com/atukenov)
 
 
