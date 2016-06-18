@@ -27,7 +27,10 @@ The first week , first two topics : GCD, LCM - Euclids Therom and Geometry. Here
     - Source Codes
       - [Almaz]()
       - [Bedir](https://github.com/BedirT/AlgorithmsL/blob/master/Algorithms/Geometry/geo_convexHull.cpp)
-      - [Nadide]() 
+      - [Nadide]()
+    - Questions
+      - [Timus asking - Convex Hull <sup>1</sup>](http://acm.timus.ru/problem.aspx?space=1&num=1305) 
+    
 - Intuition
 - Immutable Point ADT
 - Line intersection
@@ -39,3 +42,8 @@ The first week , first two topics : GCD, LCM - Euclids Therom and Geometry. Here
     - [Bedir](https://github.com/BedirT/AlgorithmsL/blob/master/Algorithms/Geometry/geo_lineIntersection.cpp)
     - [Nadide](https://github.com/nadide/ACM-ICPC/blob/master/codes/geo_lineIntersect.cpp)
   
+  
+####References
+  - <sup>1</sup> Problem Source: II Collegiate Students Urals Programming Contest. Yekaterinburg, April 3-4, 1998
+
+
