@@ -16,7 +16,7 @@ Every week we will share what we find as questions and solution that we came up 
     - Immutable Point ADT
     - Line intersection
 
-[**1.Week**](https://github.com/NAU-ACM/AlgorithmsCurriculumFollow/tree/master/Week2)
+[**2.Week**](https://github.com/NAU-ACM/AlgorithmsCurriculumFollow/tree/master/Week2)
 
   - Quick sort
   - Numberic sort(position sort)
