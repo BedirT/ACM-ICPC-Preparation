@@ -19,6 +19,10 @@
 
 ##### Counting sort
   - Sources to study
+    - [Wikipedia](https://en.wikipedia.org/wiki/Counting_sort)
+    - [GeeksforGeeks](http://www.geeksforgeeks.org/counting-sort/)
+    - [Video - Edutechional](https://www.youtube.com/watch?v=zhDmVF_NdjM)
+    - [Video (Silence) - Yusuf Shakeel](https://www.youtube.com/watch?v=TTnvXY82dtM)
   - Source Codes
     - [Bedir]()
     - [Nadide]()
