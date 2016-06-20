@@ -17,7 +17,7 @@
     - [Quicksort 2 - Sorting <sup>2</sup>](https://www.hackerrank.com/challenges/quicksort2)
     - [Quicksort In-Place <sup>3</sup>](https://www.hackerrank.com/challenges/quicksort3)
 
-##### Numberic sort (_Position sort_)
+##### Counting sort
   - Sources to study
   - Source Codes
     - [Bedir]()
