@@ -21,33 +21,30 @@ Every week we will share what we find as questions and solution that we came up 
   - Quick sort
   - Counting Sort
 
-**3.Week**
+[**3.Week**](https://github.com/NAU-ACM/AlgorithmsCurriculumFollow/tree/master/Week3)
 
   - Binary search
   - Ternar search
 
-**4.Week**
+[**4.Week**](https://github.com/NAU-ACM/AlgorithmsCurriculumFollow/tree/master/Week4)
 
   - Prime Numbers(Sieve of Eratosthenes)
   - Long arithmetic - Plus, Minus
   - Long arithmetic - Div, Multiply
     
-
-**5.Week**
-
+[**5.Week**](https://github.com/NAU-ACM/AlgorithmsCurriculumFollow/tree/master/Week5)
 
   - DFS
   - Djikstra
   - BFS
-    
 
-**6.Week**
+[**6.Week**](https://github.com/NAU-ACM/AlgorithmsCurriculumFollow/tree/master/Week6)
 
   - Ford Bellman
   - Floyd Wolsher
     
 
-**7.Week**
+[**7.Week**](https://github.com/NAU-ACM/AlgorithmsCurriculumFollow/tree/master/Week7)
 
 
   - RMQ Multiply
@@ -55,7 +52,7 @@ Every week we will share what we find as questions and solution that we came up 
   - RMQ Plus , Minus
     
 
-**8.Week**
+[**8.Week**](https://github.com/NAU-ACM/AlgorithmsCurriculumFollow/tree/master/Week8)
 
 
    - Combinatoric(Theory, math and etc)
