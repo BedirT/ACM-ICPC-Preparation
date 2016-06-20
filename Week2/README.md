@@ -28,7 +28,11 @@
     - [Nadide]()
     - [Almaz]()
   - Questions
+    - [Counting Sort 1 <sup>4</sup>](https://www.hackerrank.com/challenges/countingsort1)
+    - [Counting Sort 2 <sup>5</sup>](https://www.hackerrank.com/challenges/countingsort2)
+    - [Counting Sort 3 <sup>6</sup>](https://www.hackerrank.com/challenges/countingsort3)
+    - [The Full Counting Sort <sup>7</sup>](https://www.hackerrank.com/challenges/countingsort4)
 
 ####References
-  - <sup>1,2,3</sup> Problem Source: HackerRank
+  - <sup>1,2,3,4,5,6,7</sup> Problem Source: [HackerRank](www.hackerrank.com)
 
