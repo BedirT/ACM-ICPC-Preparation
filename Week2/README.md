@@ -29,8 +29,11 @@
     - [Almaz]()
   - Questions
     - [Counting Sort 1 <sup>4</sup>](https://www.hackerrank.com/challenges/countingsort1)
+      - [Bedir's solution](https://github.com/BedirT/AlgorithmsL/blob/master/Problems/HackerRank/Sorting/Counting%20Sort%201.cpp) 
     - [Counting Sort 2 <sup>5</sup>](https://www.hackerrank.com/challenges/countingsort2)
+      - [Bedir's solution](https://github.com/BedirT/AlgorithmsL/blob/master/Problems/HackerRank/Sorting/Counting%20Sort%202.cpp) 
     - [Counting Sort 3 <sup>6</sup>](https://www.hackerrank.com/challenges/countingsort3)
+      - [Bedir's solution](https://github.com/BedirT/AlgorithmsL/blob/master/Problems/HackerRank/Sorting/Counting%20Sort%203.cpp) 
     - [The Full Counting Sort <sup>7</sup>](https://www.hackerrank.com/challenges/countingsort4)
 
 ####References
