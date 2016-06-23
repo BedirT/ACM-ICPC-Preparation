@@ -14,6 +14,7 @@
     - [Almaz]()
   - Questions 
     - [Quicksort 1 - Partition <sup>1</sup>](https://www.hackerrank.com/challenges/quicksort1)
+      - [Bedir's solution](https://github.com/BedirT/AlgorithmsL/blob/master/Problems/HackerRank/Sorting/Quicksort%201%20-%20Partition.cpp) 
     - [Quicksort 2 - Sorting <sup>2</sup>](https://www.hackerrank.com/challenges/quicksort2)
     - [Quicksort In-Place <sup>3</sup>](https://www.hackerrank.com/challenges/quicksort3)
 
