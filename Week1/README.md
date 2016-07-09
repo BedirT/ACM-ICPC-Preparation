@@ -19,7 +19,6 @@ The first week , first two topics : GCD, LCM - Euclids Therom and Geometry. Here
       - [Almaz]()
       - [Bedir](https://github.com/BedirT/AlgorithmsL/blob/master/Algorithms/Geometry/geo_polygonInsideOrOutside.cpp)
       - [Nadide](https://github.com/nadide/ACM-ICPC/blob/master/codes/geo_polygonInside.cpp)
-- Implementing CCW
 - Convex Hull (Jarvis's Algorithm)
     - Sources to study
       - [GeeksforGeeks](http://www.geeksforgeeks.org/convex-hull-set-1-jarviss-algorithm-or-wrapping/) 
@@ -30,9 +29,6 @@ The first week , first two topics : GCD, LCM - Euclids Therom and Geometry. Here
       - [Nadide]()
     - Questions
       - [Timus asking - Convex Hull <sup>1</sup>](http://acm.timus.ru/problem.aspx?space=1&num=1305) 
-    
-- Intuition
-- Immutable Point ADT
 - Line intersection
   - Sources to study
     - [Small Video](https://www.youtube.com/watch?v=R08OY6yDNy0) (_About 8 min_)  
