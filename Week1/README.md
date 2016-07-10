@@ -7,6 +7,9 @@ The first week , first two topics : GCD, LCM - Euclids Therom and Geometry. Here
 ##### GCD and LCM Euclid Algorithm
   - Source Codes
     - [Bedir](https://github.com/BedirT/AlgorithmsL/blob/master/Algorithms/GCD%20and%20LCM%20Euclid%20Algorithm.cpp)
+    - Nadide
+        - [GCD](https://github.com/nadide/ACM-ICPC/blob/master/codes/math_GCD.cpp)
+        - [LCM](https://github.com/nadide/ACM-ICPC/blob/master/codes/math_LCM.cpp)
   - First question to solve: [HackerRank, Sherlock and GCD](https://www.hackerrank.com/challenges/sherlock-and-gcd?h_r=internal-search)
     - [Bedir's Solution]()
     - [Nadide's Solution](https://github.com/nadide/ACM-ICPC/blob/master/problems/hackerrank/sherlockAndGCD.c)
@@ -26,7 +29,7 @@ The first week , first two topics : GCD, LCM - Euclids Therom and Geometry. Here
     - Source Codes
       - [Almaz]()
       - [Bedir](https://github.com/BedirT/AlgorithmsL/blob/master/Algorithms/Geometry/geo_convexHull.cpp)
-      - [Nadide]()
+      - [Nadide](https://github.com/nadide/ACM-ICPC/blob/master/codes/geo_convexHull.cpp)
     - Questions
       - [Timus asking - Convex Hull <sup>1</sup>](http://acm.timus.ru/problem.aspx?space=1&num=1305) 
 - Line intersection
