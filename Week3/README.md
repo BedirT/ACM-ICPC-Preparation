@@ -17,7 +17,7 @@ We will learn 2 search system. 1st is Binary search and 2nd one is Ternar search
   - Questions
     - Small interview question that will make you practice this topic: [Ordered Set](https://www.interviewcake.com/question/python/find-in-ordered-set)
       - (_)Solution is as same as the normal source code_)
-    - [A bit harder](https://www.interviewcake.com/question/python/find-duplicate-optimize-for-space)
+    - [A bit harder](https://www.interviewcake.com/question/python/find-duplicate-optimize-for-space) _For this question Try_
       - [Bedir's Solution]()
       - [Nadide's Solution]()
 
