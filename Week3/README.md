@@ -20,7 +20,16 @@ We will learn 2 search system. 1st is Binary search and 2nd one is Ternar search
     - [A bit harder](https://www.interviewcake.com/question/python/find-duplicate-optimize-for-space)
       - [Bedir's Solution]()
       - [Nadide's Solution]()
+    - [Search Insert Position](https://leetcode.com/problems/search-insert-position/)
+      - [Bedir's Solution]()
+      - [Nadide's Solution]()
+    - [10 beautiful practice question](http://www.infoarena.ro/blog/binary-search-shortlist)
+      - [Bedir's Solution]()
+      - [Nadide's Solution]()
 
 #### References
-  
+  - http://www.infoarena.ro
+  - https://www.quora.com
+  - https://leetcode.com
+  - www.interviewcake.com
 
