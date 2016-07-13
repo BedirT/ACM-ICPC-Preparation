@@ -14,7 +14,7 @@ A basic solution for finding prime numbers ... And two version of Long Arithmeti
     - [Almaz]()
   - Questions
     - [Just a Small Implementation](https://wiki.haskell.org/99_questions/Solutions/39)
-      - [Bedir's Solution]()
+      - [Bedir's Solution](https://github.com/BedirT/AlgorithmsL/blob/master/Problems/Curriculum%20Q's/Week%204/sieve%20question.cpp)
       - [Nadide's Solution]()
 
 ##### Long arithmetic - Plus, Minus
