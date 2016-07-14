@@ -20,7 +20,9 @@ A basic solution for finding prime numbers ... And two version of Long Arithmeti
 ##### Long arithmetic - Plus, Minus
   - Sources to study
   - Source Codes
-    - [Bedir]()
+    - Bedir
+      - [Summation](https://github.com/BedirT/AlgorithmsL/blob/master/Algorithms/Math/extra_long_sum.cpp)
+      - [Substraction](https://github.com/BedirT/AlgorithmsL/blob/master/Algorithms/Math/extra_long_sub.cpp)
     - [Nadide](https://github.com/nadide/ACM-ICPC/blob/master/codes/math_longArithmatic.c)
     - [Almaz]()
   - Questions
@@ -31,7 +33,7 @@ A basic solution for finding prime numbers ... And two version of Long Arithmeti
 ##### Long arithmetic - Div, Multiply
   - Sources to study
   - Source Codes
-    - [Bedir]()
+    - [Bedir](https://github.com/BedirT/AlgorithmsL/blob/master/Algorithms/Math/extra_long_mult.cpp)
     - [Nadide](https://github.com/nadide/ACM-ICPC/blob/master/codes/math_longArithmatic2.c)
     - [Almaz]()
   - Questions
