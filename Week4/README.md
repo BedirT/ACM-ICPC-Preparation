@@ -25,10 +25,6 @@ A basic solution for finding prime numbers ... And two version of Long Arithmeti
       - [Substraction](https://github.com/BedirT/AlgorithmsL/blob/master/Algorithms/Math/extra_long_sub.cpp)
     - [Nadide](https://github.com/nadide/ACM-ICPC/blob/master/codes/math_longArithmatic.c)
     - [Almaz]()
-  - Questions
-    - []()
-      - [Bedir's Solution]()
-      - [Nadide's Solution]()
 
 ##### Long arithmetic - Div, Multiply
   - Sources to study
