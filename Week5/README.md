@@ -22,7 +22,10 @@ First step to solve graph questions. We are now going to learn three Graph algor
     - [ALL iz Wel](http://www.spoj.com/problems/ALLIZWEL/)
       - [Bedir's Solution]()
       - [Nadide's Solution]()
-
+    - [Prayatna](http://www.spoj.com/problems/CAM5/)
+      - [Bedir's Solution]()
+      - [Nadide's Solution]()
+    
 
 ##### BFS (Breadth First Search)
 
@@ -38,7 +41,7 @@ First step to solve graph questions. We are now going to learn three Graph algor
     - [Herding](http://www.spoj.com/problems/HERDING/)
       - [Bedir's Solution]()
       - [Nadide's Solution]()
-    -[BFS Shortest Reach](https://www.hackerrank.com/challenges/bfsshortreach)
+    - [BFS Shortest Reach](https://www.hackerrank.com/challenges/bfsshortreach)
       - [Bedir's Solution]()
       - [Nadide's Solution]()
 
