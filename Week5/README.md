@@ -20,7 +20,7 @@ First step to solve graph questions. We are now going to learn three Graph algor
       - [Bedir's Solution]()
       - [Nadide's Solution]()
     - [ALL iz Wel](http://www.spoj.com/problems/ALLIZWEL/)
-      - [Bedir's Solution]()
+      - [Bedir's Solution](https://github.com/BedirT/AlgorithmsL/blob/master/Problems/Curriculum%20Q's/Week%205/ALL%20iz%20Wel.cpp)
       - [Nadide's Solution]()
     - [Prayatna](http://www.spoj.com/problems/CAM5/)
       - [Bedir's Solution]()
