@@ -6,7 +6,7 @@ The first week , first two topics : GCD, LCM - Euclids Therom and Geometry. Here
 ## Problems & Solutions
 ##### GCD and LCM Euclid Algorithm
   - Source Codes
-    - [Bedir](https://github.com/BedirT/AlgorithmsL/blob/master/Algorithms/GCD%20and%20LCM%20Euclid%20Algorithm.cpp)
+    - [Bedir](https://github.com/BedirT/AlgorithmsL/blob/master/Algorithms/_Old%20Ones/GCD%20and%20LCM%20Euclid%20Algorithm.cpp)
     - Nadide
         - [GCD](https://github.com/nadide/ACM-ICPC/blob/master/codes/math_GCD.cpp)
         - [LCM](https://github.com/nadide/ACM-ICPC/blob/master/codes/math_LCM.cpp)

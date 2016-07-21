@@ -9,7 +9,7 @@ A basic solution for finding prime numbers ... And two version of Long Arithmeti
     - [Youtube - Region 10 ESC](https://www.youtube.com/watch?v=V08g_lkKj6Q)
     - [GeeksForGeeks](http://www.geeksforgeeks.org/sieve-of-eratosthenes/)
   - Source Codes
-    - [Bedir](https://github.com/BedirT/AlgorithmsL/blob/master/Algorithms/Sieve%20of%20Eratorthenes.cpp)
+    - [Bedir](https://github.com/BedirT/AlgorithmsL/blob/master/Algorithms/Math/Sieve%20of%20Eratorthenes.cpp)
     - [Nadide](https://github.com/nadide/ACM-ICPC/blob/master/codes/math_primeNumbers.c)
     - [Almaz]()
   - Questions
