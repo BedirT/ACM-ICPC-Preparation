@@ -42,7 +42,7 @@ First step to solve graph questions. We are now going to learn three Graph algor
       - [Bedir's Solution]
       - [Nadide's Solution]
     - [BFS Shortest Reach](https://www.hackerrank.com/challenges/bfsshortreach)
-      - [Bedir's Solution]
+      - [Bedir's Solution](https://github.com/BedirT/AlgorithmsL/blob/master/Problems/HackerRank/Graph%20Theory/Breadth%20First%20Search%20_%20Shortest%20Reach.cpp)
       - [Nadide's Solution]
 
 
