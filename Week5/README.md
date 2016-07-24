@@ -11,56 +11,64 @@ First step to solve graph questions. We are now going to learn three Graph algor
     - [Youtube - Joe James](http://www.geeksforgeeks.org/sieve-of-eratosthenes/)( _He Also Explains the paranthesis notation_ )
     - [GeeksForGeeks](http://www.geeksforgeeks.org/depth-first-traversal-for-a-graph/)
     - [VisualAlgo](http://visualgo.net/dfsbfs) ( _Visual Explanation /w your control_ )
+  
   - Source Codes
     - [Bedir](https://github.com/BedirT/AlgorithmsL/blob/master/Algorithms/Graph/dfs.cpp)
-    - [Nadide]
+    - [Nadide](https://github.com/nadide/ACM-ICPC/blob/master/codes/graph_DFS.c)
     - [Almaz]
+  
   - Questions
     - [ALL iz Wel](http://www.spoj.com/problems/ALLIZWEL/)
       - [Bedir's Solution](https://github.com/BedirT/AlgorithmsL/blob/master/Problems/Curriculum%20Q's/Week%205/ALLIZZWELL.cpp)
-      - [Nadide's Solution]
+    
     - [Prayatna](http://www.spoj.com/problems/CAM5/)
       - [Bedir's Solution](https://github.com/BedirT/AlgorithmsL/blob/master/Problems/Curriculum%20Q's/Week%205/Prayatna.cpp)
-      - [Nadide's Solution]
-    - [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)
-      - [Bedir's Solution]
-      - [Nadide's Solution]  
     
+    - [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) 
+    
+    - [Count Luck](https://www.hackerrank.com/challenges/count-luck)
+    
+    - [Connected Cell in a Grid](https://www.hackerrank.com/challenges/connected-cell-in-a-grid)
+      
+    - [Graph Coloring](http://codeforces.com/problemset/problem/662/B)
+    
+
 
 ##### BFS (Breadth First Search)
 
-  - Sources to study
+ - Sources to study
+  
   - Source Codes
     - [Bedir](https://github.com/BedirT/AlgorithmsL/blob/master/Algorithms/Graph/bfs.cpp)
-    - [Nadide]()
-    - [Almaz]()
+    - [Nadide](https://github.com/nadide/ACM-ICPC/blob/master/codes/graph_BFS.c)
+  
   - Questions
     - [Hike](http://www.spoj.com/problems/HIKE/)
-      - [Bedir's Solution]
-      - [Nadide's Solution]
+      
     - [Herding](http://www.spoj.com/problems/HERDING/)
-      - [Bedir's Solution]
-      - [Nadide's Solution]
+    
     - [BFS Shortest Reach](https://www.hackerrank.com/challenges/bfsshortreach)
       - [Bedir's Solution](https://github.com/BedirT/AlgorithmsL/blob/master/Problems/HackerRank/Graph%20Theory/Breadth%20First%20Search%20_%20Shortest%20Reach.cpp)
-      - [Nadide's Solution]
+      - [Nadide's Solution](https://github.com/nadide/ACM-ICPC/blob/master/problems/hackerrank/breadthFirstSearchShortestPath.c)
+
 
 
 ##### Djikstra
 
   - Sources to study
+  
   - Source Codes
-    - [Bedir]
-    - [Nadide]
-    - [Almaz]
+    - [Nadide](https://github.com/nadide/ACM-ICPC/blob/master/codes/graph_Dijkstra.c)
+  
   - Questions
     - [Djikstra Shortest Reach](https://www.hackerrank.com/challenges/dijkstrashortreach)
-      - [Bedir's Solution]
-      - [Nadide's Solution]
+      - [Nadide's Solution](https://github.com/nadide/ACM-ICPC/blob/master/problems/hackerrank/dijkstraShortestPath.c)
+      
     - [Small Quiz by GeeksForGeeks](http://quiz.geeksforgeeks.org/algorithms/graph-shortest-paths/)
+    
     - [Travel cost](http://www.spoj.com/problems/TRVCOST/)
-      - [Bedir's Solution]
-      - [Nadide's Solution]
+
+
 
 #### References
 
