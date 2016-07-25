@@ -10,16 +10,14 @@ The first week , first two topics : GCD, LCM - Euclids Therom and Geometry. Here
     - Nadide
         - [GCD](https://github.com/nadide/ACM-ICPC/blob/master/codes/math_GCD.cpp)
         - [LCM](https://github.com/nadide/ACM-ICPC/blob/master/codes/math_LCM.cpp)
-  - First question to solve: [HackerRank, Sherlock and GCD](https://www.hackerrank.com/challenges/sherlock-and-gcd?h_r=internal-search)
-    - [Bedir's Solution]()
-    - [Nadide's Solution](https://github.com/nadide/ACM-ICPC/blob/master/problems/hackerrank/sherlockAndGCD.c)
+  - [Sherlock and GCD](https://www.hackerrank.com/challenges/sherlock-and-gcd?h_r=internal-search)
+    - [Nadide's Solution](https://github.com/nadide/ACM-ICPC/blob/master/problems/hackerrank/mathematics/sherlockAndGCD.c)
 
 ##### Geometry (_Primitive operations_)
 - Polygon Inside, Outside
     - Sources to study
       - [GeeksforGeeks](http://www.geeksforgeeks.org/how-to-check-if-a-given-point-lies-inside-a-polygon/)  
     - Source Codes
-      - [Almaz]()
       - [Bedir](https://github.com/BedirT/AlgorithmsL/blob/master/Algorithms/Geometry/geo_polygonInsideOrOutside.cpp)
       - [Nadide](https://github.com/nadide/ACM-ICPC/blob/master/codes/geo_polygonInside.cpp)
 - Convex Hull (Jarvis's Algorithm)
@@ -27,7 +25,6 @@ The first week , first two topics : GCD, LCM - Euclids Therom and Geometry. Here
       - [GeeksforGeeks](http://www.geeksforgeeks.org/convex-hull-set-1-jarviss-algorithm-or-wrapping/) 
       - [Explanatory video](https://www.youtube.com/watch?v=wkEZ2gWfSIc)
     - Source Codes
-      - [Almaz]()
       - [Bedir](https://github.com/BedirT/AlgorithmsL/blob/master/Algorithms/Geometry/geo_convexHull.cpp)
       - [Nadide](https://github.com/nadide/ACM-ICPC/blob/master/codes/geo_convexHull.cpp)
     - Questions
@@ -37,7 +34,6 @@ The first week , first two topics : GCD, LCM - Euclids Therom and Geometry. Here
     - [Small Video](https://www.youtube.com/watch?v=R08OY6yDNy0) (_About 8 min_)  
     - [GeeksforGeeks](http://www.geeksforgeeks.org/check-if-two-given-line-segments-intersect/)
   - Source Codes
-    - [Almaz]()
     - [Bedir](https://github.com/BedirT/AlgorithmsL/blob/master/Algorithms/Geometry/geo_lineIntersection.cpp)
     - [Nadide](https://github.com/nadide/ACM-ICPC/blob/master/codes/geo_lineIntersect.cpp)
   
