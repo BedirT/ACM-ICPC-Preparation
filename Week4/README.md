@@ -15,6 +15,7 @@ A basic solution for finding prime numbers ... And two version of Long Arithmeti
     - [Just a Small Implementation](https://wiki.haskell.org/99_questions/Solutions/39)
       - [Bedir's Solution](https://github.com/BedirT/AlgorithmsL/blob/master/Problems/Curriculum%20Q's/Week%204/sieve%20question.cpp)
     - [Distinct Primes](http://www.spoj.com/problems/AMR11E/)
+      - [Bedir's Solution](https://github.com/BedirT/AlgorithmsL/blob/master/Problems/Curriculum%20Q's/Week%204/AMR11E%20-%20Distinct%20Primes.cpp)
 
 ##### Long arithmetic - Plus, Minus
  - Sources to study
