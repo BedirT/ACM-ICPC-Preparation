@@ -20,3 +20,11 @@
       - [Floyd City of Lights](https://www.hackerrank.com/challenges/floyd-city-of-blinding-lights?h_r=internal-search)
           - [Nadide's solution](https://github.com/nadide/ACM-ICPC/blob/master/problems/hackerrank/graph/floydCityOfBlindingLights.c)
           - [Bedir's solution](https://github.com/BedirT/AlgorithmsL/blob/master/Problems/HackerRank/Graph%20Theory/Floyd%20City%20of%20Blinding%20Lights.cpp)
+      - [Arbitrage](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=40)
+      - [API-Maelstrom](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=364)
+
+  - References
+      - www.uva.onlinejudge.org
+      - www.hackerrank.com
+      - blog.cedric.ws
+      - www.geeksforgeeks.org
