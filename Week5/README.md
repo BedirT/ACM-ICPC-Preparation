@@ -39,6 +39,7 @@ First step to solve graph questions. We are now going to learn three Graph algor
 ##### Djikstra
   - Sources to study
     - [Youtube - Santitham Prom-on](https://www.youtube.com/watch?v=WN3Rb9wVYDY)
+    - [Youtube - distanceedjohn](https://www.youtube.com/watch?v=8Ls1RqHCOPw)
     - [GeeksForGeeks](http://www.geeksforgeeks.org/greedy-algorithms-set-6-dijkstras-shortest-path-algorithm/)
   - Source Codes
     - [Nadide](https://github.com/nadide/ACM-ICPC/blob/master/codes/graph_Dijkstra.c)
