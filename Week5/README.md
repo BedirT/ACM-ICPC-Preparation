@@ -7,7 +7,7 @@ First step to solve graph questions. We are now going to learn three Graph algor
 ##### DFS (Depth First Search)
   - Sources to study
     - [Youtube - Michael Seery](https://www.youtube.com/watch?v=bkROCj-BTWE)   [Youtube - Nathaniel Fan](https://www.youtube.com/watch?v=mE_PCK0oFyo) ( _These are just for review, because they are too short. They are well explained but fast._ )
-    - [Youtube - Joe James](http://www.geeksforgeeks.org/sieve-of-eratosthenes/)( _He Also Explains the paranthesis notation_ )
+    - [Youtube - Joe James](https://www.youtube.com/watch?v=tlPuVe5Otio)( _He Also Explains the paranthesis notation_ )
     - [GeeksForGeeks](http://www.geeksforgeeks.org/depth-first-traversal-for-a-graph/)
     - [VisualAlgo](http://visualgo.net/dfsbfs) ( _Visual Explanation /w your control_ )
   - Source Codes
