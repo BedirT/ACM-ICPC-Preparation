@@ -5,6 +5,10 @@ The first week , first two topics : GCD, LCM - Euclids Therom and Geometry. Here
 
 ## Problems & Solutions
 ##### GCD and LCM Euclid Algorithm
+  - Sources to study
+    - [Wikipedia](https://en.wikipedia.org/wiki/Euclidean_algorithm)
+    - [Youtube - Learn Math Tutorials](https://www.youtube.com/watch?v=JUzYl1TYMcU)
+    - [GeeksforGeeks](http://www.geeksforgeeks.org/basic-and-extended-euclidean-algorithms/)
   - Source Codes
     - [Bedir](https://github.com/BedirT/AlgorithmsL/blob/master/Algorithms/_Old%20Ones/GCD%20and%20LCM%20Euclid%20Algorithm.cpp)
     - Nadide
@@ -12,6 +16,7 @@ The first week , first two topics : GCD, LCM - Euclids Therom and Geometry. Here
         - [LCM](https://github.com/nadide/ACM-ICPC/blob/master/codes/math_LCM.cpp)
   - [Sherlock and GCD](https://www.hackerrank.com/challenges/sherlock-and-gcd?h_r=internal-search)
     - [Nadide's Solution](https://github.com/nadide/ACM-ICPC/blob/master/problems/hackerrank/mathematics/sherlockAndGCD.c)
+  - [Complicated GCD](http://codeforces.com/contest/664/problem/A)
 
 ##### Geometry (_Primitive operations_)
 - Polygon Inside, Outside
