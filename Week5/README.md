@@ -50,6 +50,7 @@ First step to solve graph questions. We are now going to learn three Graph algor
       - [Bedir's Solution](https://github.com/BedirT/AlgorithmsL/blob/master/Problems/HackerRank/Graph%20Theory/Dijkstra_Shortest%20Reach%202.cpp)
     - [Small Quiz by GeeksForGeeks](http://quiz.geeksforgeeks.org/algorithms/graph-shortest-paths/)
     - [Travel cost](http://www.spoj.com/problems/TRVCOST/)
+      - [Bedir's Solution](https://github.com/BedirT/AlgorithmsL/blob/master/Problems/Curriculum%20Q's/Week%205/TRVCOST%20-%20Travelling%20cost.cpp) 
 
 
 #### References
