@@ -9,7 +9,6 @@
   - Source Codes
       - [Bedir](https://github.com/BedirT/AlgorithmsL/blob/master/Algorithms/Graph/FBellman_own.cpp)
   - Questions
-      - [Robot Control](http://codeforces.com/problemset/problem/346/D)
 
 
 #### Floyd Warshall (All Pairs Shortest Path)
