@@ -47,6 +47,7 @@ First step to solve graph questions. We are now going to learn three Graph algor
   - Questions
     - [Djikstra Shortest Reach](https://www.hackerrank.com/challenges/dijkstrashortreach)
       - [Nadide's Solution](https://github.com/nadide/ACM-ICPC/blob/master/problems/hackerrank/graph/dijkstraShortestPath.c)
+      - [Bedir's Solution](https://github.com/BedirT/AlgorithmsL/blob/master/Problems/HackerRank/Graph%20Theory/Dijkstra_Shortest%20Reach%202.cpp)
     - [Small Quiz by GeeksForGeeks](http://quiz.geeksforgeeks.org/algorithms/graph-shortest-paths/)
     - [Travel cost](http://www.spoj.com/problems/TRVCOST/)
 
