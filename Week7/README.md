@@ -12,7 +12,9 @@
     - [RMQSQ](http://www.spoj.com/problems/RMQSQ/)
       - [Bedir's Solution](https://github.com/BedirT/AlgorithmsL/blob/master/Problems/Curriculum%20Q's/Week%207/RMQSQ.cpp)
     - [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)
-    - [Range Sum Query](https://leetcode.com/problems/range-sum-query-mutable/)
+      - [Bedir's Solution](https://github.com/BedirT/AlgorithmsL/blob/master/Problems/Curriculum%20Q's/Week%207/Range%20Sum%20Query%20-%20Immutable.cpp)
+    - [Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/)
+      - [Bedir's Solution](https://github.com/BedirT/AlgorithmsL/blob/master/Problems/Curriculum%20Q's/Week%207/Range%20Sum%20Query%20-%20Mutable.cpp)
     - [Housewife Wind](http://poj.org/problem?id=2763)
     - [Distance Queries](http://poj.org/problem?id=1986)
     
