@@ -1,6 +1,27 @@
 # Week 7
 
 ## Problems & Solutions
+#### Tree Data Structure
+  - Sources to study
+    - [Youtube - mycodeschool](https://www.youtube.com/watch?v=qH6yxkw0u78)
+    - [GeeksforGeeks](http://www.geeksforgeeks.org/applications-of-tree-data-structure/)
+    - [Tutorialspoint](http://www.tutorialspoint.com/data_structures_algorithms/tree_data_structure.htm)
+  - Source Codes
+  - Questions ( _All Questions are easy that's why there are a lot of them_ )
+    - [Tree: Preorder Traversal](https://www.hackerrank.com/challenges/tree-preorder-traversal)
+    - [Tree: Postorder Traversal](https://www.hackerrank.com/challenges/tree-postorder-traversal)
+    - [Tree: Inorder Traversal](https://www.hackerrank.com/challenges/tree-inorder-traversal)
+    - [Tree: Height of a Binary Tree](https://www.hackerrank.com/challenges/tree-height-of-a-binary-tree)
+    - [Tree : Top View](https://www.hackerrank.com/challenges/tree-top-view)
+    - [Tree: Level Order Traversal](https://www.hackerrank.com/challenges/tree-level-order-traversal)
+    - [Binary Search Tree : Insertion](https://www.hackerrank.com/challenges/binary-search-tree-insertion)
+    - [Tree: Huffman Decoding](https://www.hackerrank.com/challenges/tree-huffman-decoding)
+    - [Binary Search Tree : Lowest Common Ancestor](https://www.hackerrank.com/challenges/binary-search-tree-lowest-common-ancestor)
+    
+    - BONUS ( _A bit Harder_ ) 
+      - [Swap Nodes [Algo\]](https://www.hackerrank.com/challenges/swap-nodes-algo)
+      - [Is This a Binary Search Tree?](https://www.hackerrank.com/challenges/is-binary-search-tree)
+
 #### Range Minimum Query - RMQ
   - Sources to study
     - [GeeksforGeeks](http://www.geeksforgeeks.org/segment-tree-set-1-range-minimum-query/)

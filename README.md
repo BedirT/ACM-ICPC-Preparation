@@ -46,6 +46,7 @@ Every week we will share what we find as questions and solution that we came up 
 
 [**7.Week**](https://github.com/NAU-ACM/AlgorithmsCurriculumFollow/tree/master/Week7)
 
+  - Tree Data Structure
   - RMQ (Range Minimum Query)
   - LCA (Lowest Common Ancestor)
 
