@@ -10,7 +10,7 @@ The first week , first two topics : GCD, LCM - Euclids Therom and Geometry. Here
     - [Youtube - Learn Math Tutorials](https://www.youtube.com/watch?v=JUzYl1TYMcU)
     - [GeeksforGeeks](http://www.geeksforgeeks.org/basic-and-extended-euclidean-algorithms/)
   - Source Codes
-    - [Bedir](https://github.com/BedirT/AlgorithmsL/blob/master/Algorithms/_Old%20Ones/GCD%20and%20LCM%20Euclid%20Algorithm.cpp)
+    - [Bedir](https://github.com/BedirT/AlgorithmsL/blob/master/Algorithms/Math/GCD%20and%20LCM%20Euclid%20Algorithm.cpp)
     - Nadide
         - [GCD](https://github.com/nadide/ACM-ICPC/blob/master/codes/math_GCD.cpp)
         - [LCM](https://github.com/nadide/ACM-ICPC/blob/master/codes/math_LCM.cpp)
