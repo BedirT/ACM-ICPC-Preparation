@@ -13,7 +13,13 @@
       - [Bedir's Solution](https://github.com/BedirT/AlgorithmsL/blob/master/Problems/Curriculum%20Q's/Week%207/RMQSQ.cpp)
     - [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)
     - [Range Sum Query](https://leetcode.com/problems/range-sum-query-mutable/)
-    - [Query on a Tree II](http://www.spoj.com/problems/QTREE2/)
     - [Housewife Wind](http://poj.org/problem?id=2763)
     - [Distance Queries](http://poj.org/problem?id=1986)
     
+#### Lowest Common Ancestor - LCA
+  - Sources to study
+    - [GeeksforGeeks](http://www.geeksforgeeks.org/lowest-common-ancestor-binary-tree-set-1/)
+    - [Topcoder](https://www.topcoder.com/community/data-science/data-science-tutorials/range-minimum-query-and-lowest-common-ancestor/)
+  - Source Codes
+  - Questions
+    - [Query on a Tree II](http://www.spoj.com/problems/QTREE2/)
