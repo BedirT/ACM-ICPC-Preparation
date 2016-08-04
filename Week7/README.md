@@ -9,7 +9,8 @@
   - Source Codes
     - [Bedir](https://github.com/BedirT/AlgorithmsL/blob/master/Algorithms/Math/RMQ.cpp)
   - Questions
-    - [RMQ](http://www.spoj.com/problems/RMQSQ/)
+    - [RMQSQ](http://www.spoj.com/problems/RMQSQ/)
+      - [Bedir's Solution](https://github.com/BedirT/AlgorithmsL/blob/master/Problems/Curriculum%20Q's/Week%207/RMQSQ.cpp)
     - [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)
     - [Range Sum Query](https://leetcode.com/problems/range-sum-query-mutable/)
     - [Query on a Tree II](http://www.spoj.com/problems/QTREE2/)
