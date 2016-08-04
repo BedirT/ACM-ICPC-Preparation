@@ -46,17 +46,12 @@ Every week we will share what we find as questions and solution that we came up 
 
 [**7.Week**](https://github.com/NAU-ACM/AlgorithmsCurriculumFollow/tree/master/Week7)
 
-
-  - RMQ Multiply
-  - RMQ Div
-  - RMQ Plus , Minus
-    
+  - RMQ (Range Minimum Query)
+  - LCA (Lowest Common Ancestor)
 
 [**8.Week**](https://github.com/NAU-ACM/AlgorithmsCurriculumFollow/tree/master/Week8)
 
-
-   - Combinatoric(Theory, math and etc)
-    
+   - Combinatoric(Theory, math and etc)    
 
 **9.Week**
 
