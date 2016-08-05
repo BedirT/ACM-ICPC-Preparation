@@ -52,6 +52,7 @@
     - [GeeksforGeeks](http://www.geeksforgeeks.org/lowest-common-ancestor-binary-tree-set-1/)
     - [Topcoder](https://www.topcoder.com/community/data-science/data-science-tutorials/range-minimum-query-and-lowest-common-ancestor/)
   - Source Codes
+    - [Bedir](https://github.com/BedirT/AlgorithmsL/blob/master/Algorithms/Graph/Lowest%20Common%20Ancestor.cpp)
   - Questions
     - [Query on a Tree II](http://www.spoj.com/problems/QTREE2/)
     - [Housewife Wind](http://poj.org/problem?id=2763)
