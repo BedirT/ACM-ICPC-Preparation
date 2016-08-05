@@ -5,7 +5,6 @@ We will share our curriculum follow up here. All questions, solutions etc.
 Every week we will share what we find as questions and solution that we came up for it.
 
 ## Here is our schedule 
-<ul><li></li><li></li></ul>
 | Week | Topic |
 | --- | --- |
 |[**1.Week**](https://github.com/NAU-ACM/AlgorithmsCurriculumFollow/tree/master/Week1)|<ul><li>[ ] GCD and LCD Euklid Algorithm</li><li>[ ] Geometry (_Primitive operations_)<ul><li>[ ] Polygon Inside, Outside</li><li>[ ] Implementing CCW</li><li>[ ] Intuition</li><li>[ ] Immutable Point ADT</li><li>[ ] Line intersection</li></ul></li></ul>|
