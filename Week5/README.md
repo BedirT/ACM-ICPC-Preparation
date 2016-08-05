@@ -33,7 +33,7 @@ First step to solve graph questions. We are now going to learn three Graph algor
     - [Hike](http://www.spoj.com/problems/HIKE/)
     - [Herding](http://www.spoj.com/problems/HERDING/)
     - [BFS Shortest Reach](https://www.hackerrank.com/challenges/bfsshortreach)
-      - [Bedir's Solution](https://github.com/BedirT/AlgorithmsL/blob/master/Problems/HackerRank/Graph%20Theory/Breadth%20First%20Search%20_%20Shortest%20Reach.cpp)
+      - [Bedir's Solution](https://github.com/BedirT/AlgorithmsL/blob/master/Problems/HackerRank/Algorithms/Graph%20Theory/Breadth%20First%20Search%20_%20Shortest%20Reach.cpp)
       - [Nadide's Solution](https://github.com/nadide/ACM-ICPC/blob/master/problems/hackerrank/graph/breadthFirstSearchShortestPath.c)
 
 ##### Djikstra
@@ -47,7 +47,7 @@ First step to solve graph questions. We are now going to learn three Graph algor
   - Questions
     - [Djikstra Shortest Reach](https://www.hackerrank.com/challenges/dijkstrashortreach)
       - [Nadide's Solution](https://github.com/nadide/ACM-ICPC/blob/master/problems/hackerrank/graph/dijkstraShortestPath.c)
-      - [Bedir's Solution](https://github.com/BedirT/AlgorithmsL/blob/master/Problems/HackerRank/Graph%20Theory/Dijkstra_Shortest%20Reach%202.cpp)
+      - [Bedir's Solution](https://github.com/BedirT/AlgorithmsL/blob/master/Problems/HackerRank/Algorithms/Graph%20Theory/Dijkstra_Shortest%20Reach%202.cpp)
     - [Small Quiz by GeeksForGeeks](http://quiz.geeksforgeeks.org/algorithms/graph-shortest-paths/)
     - [Travel cost](http://www.spoj.com/problems/TRVCOST/)
       - [Bedir's Solution](https://github.com/BedirT/AlgorithmsL/blob/master/Problems/Curriculum%20Q's/Week%205/TRVCOST%20-%20Travelling%20cost.cpp) 
@@ -59,4 +59,3 @@ First step to solve graph questions. We are now going to learn three Graph algor
 - www.hackerrank.com
 - www.quora.com
 - www.geeksforgeeks.org
-

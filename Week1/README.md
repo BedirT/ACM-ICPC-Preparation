@@ -14,9 +14,10 @@ The first week , first two topics : GCD, LCM - Euclids Therom and Geometry. Here
     - Nadide
         - [GCD](https://github.com/nadide/ACM-ICPC/blob/master/codes/math_GCD.cpp)
         - [LCM](https://github.com/nadide/ACM-ICPC/blob/master/codes/math_LCM.cpp)
-  - [Sherlock and GCD](https://www.hackerrank.com/challenges/sherlock-and-gcd?h_r=internal-search)
-    - [Nadide's Solution](https://github.com/nadide/ACM-ICPC/blob/master/problems/hackerrank/mathematics/sherlockAndGCD.c)
-  - [Complicated GCD](http://codeforces.com/contest/664/problem/A)
+  - Questions    
+    - [Sherlock and GCD](https://www.hackerrank.com/challenges/sherlock-and-gcd?h_r=internal-search)
+        - [Nadide's Solution](https://github.com/nadide/ACM-ICPC/blob/master/problems/hackerrank/mathematics/sherlockAndGCD.c)
+    - [Complicated GCD](http://codeforces.com/contest/664/problem/A)
 
 ##### Geometry (_Primitive operations_)
 - Polygon Inside, Outside
