@@ -8,6 +8,7 @@
   - [Youtube - mycodeschool](https://www.youtube.com/watch?v=qH6yxkw0u78)
   - [GeeksforGeeks](http://www.geeksforgeeks.org/applications-of-tree-data-structure/)
   - [Tutorialspoint](http://www.tutorialspoint.com/data_structures_algorithms/tree_data_structure.htm)
+  - [HackerRank](https://www.hackerrank.com/topics/lowest-common-ancestor)
 
 ######Source Codes
 
@@ -73,3 +74,10 @@
   - [Query on a Tree II](http://www.spoj.com/problems/QTREE2/)
   - [Housewife Wind](http://poj.org/problem?id=2763)
   - [Distance Queries](http://poj.org/problem?id=1986)
+  - [Distance in the Tree](http://acm.timus.ru/problem.aspx?space=1&num=1471)
+  - [Tree 2](http://acm.timus.ru/problem.aspx?space=1&num=1752)
+  - [Turning Turtles](http://acm.timus.ru/problem.aspx?space=1&num=1699)
+  - [LCA](http://www.spoj.com/problems/LCA/)
+  - [Distance Query](http://www.spoj.com/problems/DISQUERY/)
+  - [Fools and Roads](http://codeforces.com/problemset/problem/192/E)
+_You can delete some questions if you think that they re too many of them_
