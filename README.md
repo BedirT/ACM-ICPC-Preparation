@@ -5,105 +5,27 @@ We will share our curriculum follow up here. All questions, solutions etc.
 Every week we will share what we find as questions and solution that we came up for it.
 
 ## Here is our schedule 
-
-[**1.Week**](https://github.com/NAU-ACM/AlgorithmsCurriculumFollow/tree/master/Week1)
-
-  - GCD and LCD Euklid Algorithm
-  - Geometry (_Primitive operations_)
-    - Polygon Inside, Outside
-    - Implementing CCW
-    - Intuition
-    - Immutable Point ADT
-    - Line intersection
-
-[**2.Week**](https://github.com/NAU-ACM/AlgorithmsCurriculumFollow/tree/master/Week2)
-
-  - Quick sort
-  - Counting Sort
-
-[**3.Week**](https://github.com/NAU-ACM/AlgorithmsCurriculumFollow/tree/master/Week3)
-
-  - Binary search
-  - Ternar search
-
-[**4.Week**](https://github.com/NAU-ACM/AlgorithmsCurriculumFollow/tree/master/Week4)
-
-  - Prime Numbers(Sieve of Eratosthenes)
-  - Long arithmetic - Plus, Minus
-  - Long arithmetic - Div, Multiply
-    
-[**5.Week**](https://github.com/NAU-ACM/AlgorithmsCurriculumFollow/tree/master/Week5)
-
-  - DFS
-  - Djikstra
-  - BFS
-
-[**6.Week**](https://github.com/NAU-ACM/AlgorithmsCurriculumFollow/tree/master/Week6)
-
-  - Ford Bellman
-  - Floyd Wolsher
-    
-
-[**7.Week**](https://github.com/NAU-ACM/AlgorithmsCurriculumFollow/tree/master/Week7)
-
-  - Tree Data Structure
-  - RMQ (Range Minimum Query)
-  - LCA (Lowest Common Ancestor)
-
-[**8.Week**](https://github.com/NAU-ACM/AlgorithmsCurriculumFollow/tree/master/Week8)
-
-   - Combinatoric(Theory, math and etc)    
-
-**9.Week**
-
-
-   - Dynamic program
-    
-
-**10.Week**
-
-
-   - TopSort
-    
-**11.Week**
-
-
-  - Z-function
-  - Hash
-    
-
-**12.Week**
-
-
-  - Z-function
-  - Hash
-
-**13.Week**
-
-
-  - Game theory
-    
-
-**14.Week**
-
-
-  - Game theory
-    
-
-**15.Week**
-
-
-  - Heavy Light Decomposition
-    
-
-**16.Week**
-
-  - Heavy Light Decomposition
-
+<ul><li></li><li></li></ul>
+| Week | Topic |
+| --- | --- |
+|[**1.Week**](https://github.com/NAU-ACM/AlgorithmsCurriculumFollow/tree/master/Week1)|<ul><li>[ ] GCD and LCD Euklid Algorithm</li><li>[ ] Geometry (_Primitive operations_)<ul><li>[ ] Polygon Inside, Outside</li><li>[ ] Implementing CCW</li><li>[ ] Intuition</li><li>[ ] Immutable Point ADT</li><li>[ ] Line intersection</li></ul></li></ul>|
+|[**2.Week**](https://github.com/NAU-ACM/AlgorithmsCurriculumFollow/tree/master/Week2)|<ul><li>[ ] Quick sort</li><li>[ ] Counting Sort</li></ul>|
+|[**3.Week**](https://github.com/NAU-ACM/AlgorithmsCurriculumFollow/tree/master/Week3)|<ul><li>[ ] Binary search</li><li>[ ] Ternar search</li></ul>|
+|[**4.Week**](https://github.com/NAU-ACM/AlgorithmsCurriculumFollow/tree/master/Week4)|<ul><li>[ ] Prime Numbers(Sieve of Eratosthenes)</li><li>[ ] Long arithmetic - Plus, Minus</li><li>[ ] Long arithmetic - Div, Multiply</li></ul>|
+|[**5.Week**](https://github.com/NAU-ACM/AlgorithmsCurriculumFollow/tree/master/Week5)|<ul><li>[ ] Depth First Search(DFS)</li><li>[ ] Dijkstra</li><li>[ ] Breadth First Search</li></ul>
+|[**6.Week**](https://github.com/NAU-ACM/AlgorithmsCurriculumFollow/tree/master/Week6)|<ul><li>[ ] Ford Bellman</li><li>[ ] Floyd Wolsher</li></ul>|
+|[**7.Week**](https://github.com/NAU-ACM/AlgorithmsCurriculumFollow/tree/master/Week7)|<ul><li>[ ] Tree Data Structure</li><li>[ ] Range Minimum Query(RMQ)</li><li>[ ] Lowest Common Ancestor(LCA)</li></ul>
+|[**8.Week**](https://github.com/NAU-ACM/AlgorithmsCurriculumFollow/tree/master/Week8)|<ul><li>[ ] Combinatoric(Theory, math and etc)</li></ul>|
+|**9.Week**|<ul><li>[ ] Dynamic program</li></ul>|
+|**10.Week**|<ul><li>[ ] TopSort</li></ul>|
+|**11.Week**|<ul><li>[ ] Z-function</li><li>[ ] Hash</li></ul>|
+|**12.Week**|<ul><li>[ ] Dynamic program</li></ul>|
+|**13.Week**|<ul><li>[ ] Game theory</li></ul>|
+|**14.Week**|<ul><li>[ ] Game theory</li></ul>|
+|**15.Week**|<ul><li>[ ] Heavy Light Decomposition</li></ul>|
+|**16.Week**|<ul><li>[ ] Heavy Light Decomposition</li></ul>|
 
 #### The Contributers
-- Mustafa Bedir Tapkan . . . .[![linkedIn](http://7psh.com/inc.img/linkedin.png)](https://www.linkedin.com/in/bedirtapkan)  [![gitHub](http://cvdlab-cg.github.io/220279/img/icon-github.png)](https://github.com/BedirT)
-- Nadide Pasali . . . . . . . . . . [![linkedIn](http://7psh.com/inc.img/linkedin.png)](https://www.linkedin.com/pub/nadide-pasali/b6/604/a90)  [![gitHub](http://cvdlab-cg.github.io/220279/img/icon-github.png)](https://github.com/nadide)
-- Almaz Tukenov . . . . . . . . . [![linkedIn](http://7psh.com/inc.img/linkedin.png)](https://www.linkedin.com/in/almaz-tukenov-48767a108)  [![gitHub](http://cvdlab-cg.github.io/220279/img/icon-github.png)](https://github.com/atukenov)
-
-
+- Mustafa Bedir Tapkan . . . .[![linkedIn](http://7psh.com/inc.img/linkedin.png)](https://www.linkedin.com/in/bedirtapkan)<a  href = "https://github.com/BedirT"><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/500px-Octicons-mark-github.svg.png" height = "20" ></a>
+- Nadide Pasali . . . . . . . . . . [![linkedIn](http://7psh.com/inc.img/linkedin.png)](https://www.linkedin.com/pub/nadide-pasali/b6/604/a90)<a  href = "https://github.com/nadide"><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/500px-Octicons-mark-github.svg.png" height = "20" ></a>
+- Almaz Tukenov . . . . . . . . . [![linkedIn](http://7psh.com/inc.img/linkedin.png)](https://www.linkedin.com/in/almaz-tukenov-48767a108)<a  href = "https://github.com/atukenov"><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/500px-Octicons-mark-github.svg.png" height = "20" ></a>
