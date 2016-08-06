@@ -27,12 +27,12 @@ In the program there is only guidence, so we did not add many content apart from
 
 In this course we will use some tools for the questions. As I mentioned above all of these questions already exists, we just highlight them so that you can reach better. Here are the websites/tools that we use through this course:
 
-  - [Leetcode](leetcode.com)
-  - [Spoj](spoj.com)
-  - [Hackerrank](hackerrank.com)
-  - [Topcoder](topcoder.com)
-  - [Codeforce](codeforce.com)
-  - [Lightoj](lightoj.com)
+  - [Leetcode](https://leetcode.com)
+  - [Spoj](http://www.spoj.com)
+  - [Hackerrank](https://www.hackerrank.com/domains)
+  - [Topcoder](https://www.topcoder.com)
+  - [Codeforces](http://codeforces.com)
+  - [Lightoj](http://www.lightoj.com)
   - [ACM-Timus](http://acm.timus.ru)
 
 I gave these tools name because you may not be able to submit your solution or display the question for some websites. It would be better if you just sign up. Although it is not neccesary...
@@ -58,7 +58,7 @@ I gave these tools name because you may not be able to submit your solution or d
 |**16.Week**|<ul><li>[ ] Heavy Light Decomposition</li></ul>|
 
 
-#### The Contributers
+### Contributers
 - Mustafa Bedir Tapkan . . . .[![linkedIn](http://7psh.com/inc.img/linkedin.png)](https://www.linkedin.com/in/bedirtapkan) <a  href = "https://github.com/BedirT"><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/500px-Octicons-mark-github.svg.png" height = "20" ></a>
 - Nadide Pasali . . . . . . . . . . [![linkedIn](http://7psh.com/inc.img/linkedin.png)](https://www.linkedin.com/pub/nadide-pasali/b6/604/a90) <a  href = "https://github.com/nadide"><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/500px-Octicons-mark-github.svg.png" height = "20" ></a>
 
