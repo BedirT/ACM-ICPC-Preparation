@@ -22,7 +22,21 @@ In the program there is only guidence, so we did not add many content apart from
   3. When you stuck(You really should try first) or when you done, look at the source codes, and compare it with yours, so that you can see what would be the best approach about that Algorithm. You may not like others, or you may find some of them useful.
   4. After feeling comfortable with the code itself, try to solve the questions
   5. When you done with solving or stuck (Again ...) check others solutions and try to understand your mistake or (if exists) better aproach.
+ 
+## Resources
 
+In this course we will use some tools for the questions. As I mentioned above all of these questions already exists, we just highlight them so that you can reach better. Here are the websites/tools that we use through this course:
+
+  - [Leetcode](leetcode.com)
+  - [Spoj](spoj.com)
+  - [Hackerrank](hackerrank.com)
+  - [Topcoder](topcoder.com)
+  - [Codeforce](codeforce.com)
+  - [Lightoj](lightoj.com)
+  - [ACM-Timus](http://acm.timus.ru)
+
+I gave these tools name because you may not be able to submit your solution or display the question for some websites. It would be better if you just sign up. Although it is not neccesary...
+  
 ## Here is our Curriculum
 | Week | Topic |
 | --- | --- |
