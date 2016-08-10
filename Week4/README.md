@@ -32,7 +32,7 @@ A basic solution for finding prime numbers ... And two version of Long Arithmeti
     - [Nadide](https://github.com/nadide/ACM-ICPC/blob/master/codes/math_longArithmatic_Mult.c)
 - Questions
     - [Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials?h_r=internal-search)
-      - [Bedir's Solution](https://github.com/BedirT/AlgorithmsL/blob/master/Problems/HackerRank/Implementation/Extra%20Long%20Factorial.cpp)
+      - [Bedir's Solution](https://github.com/BedirT/AlgorithmsL/blob/master/Problems/HackerRank/Algorithms/Implementation/Extra%20Long%20Factorial.cpp)
       - [Nadide's Solution](https://github.com/nadide/ACM-ICPC/blob/master/problems/hackerrank/extraLongFactorials.c)
     - [Power of Large numbers](https://www.hackerrank.com/challenges/power-of-large-numbers)
 

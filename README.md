@@ -1,109 +1,69 @@
-# Algorithms Curriculum Follow
-<em>Started at May 1st 2016</em>
+# ACM-ICPC Preparation 
+_Ongoing Project_
 
-We will share our curriculum follow up here. All questions, solutions etc.
-Every week we will share what we find as questions and solution that we came up for it.
+This program developed to learn Algorithms for using in Competitive Prorgamming, **but can be used for:**
+  - Competitive Programming
+  - Practicing for Interviews
+  - Improving Algorithmic Thinking
+  - Practicing for College Class
+  - FUN
 
-## Here is our schedule 
+**The course requires:** 
+  - To know at least one programming language well. (_You have to be able to use the language efficiently._)
+  - You have to be familiarize with some of the basic Data Structures (Array, Stack, Queue, etc.) (_Although if you don't know some of them, you may learn it when you come accross._)
+  
+######_PS: I am saying "Any programming language" but in this course mostly we used C, C++ and some Java. But still you can follow the curriculum without any knowladge of these languages_
 
-[**1.Week**](https://github.com/NAU-ACM/AlgorithmsCurriculumFollow/tree/master/Week1)
+In the program there is only guidence, so we did not add many content apart from that already exist. We just collected good sources to learn in one place, so that one can follow up and learn. The course includes Algorithms and a bit Data Structures. You need to follow the the curriculum week by week.
 
-  - GCD and LCD Euklid Algorithm
-  - Geometry (_Primitive operations_)
-    - Polygon Inside, Outside
-    - Implementing CCW
-    - Intuition
-    - Immutable Point ADT
-    - Line intersection
+**Basic fallowing guide would be to:**
+  1. See the sources to study
+  2. Get the logic and try to code it without looking other codes
+  3. When you stuck(You really should try first) or when you done, look at the source codes, and compare it with yours, so that you can see what would be the best approach about that Algorithm. You may not like others, or you may find some of them useful.
+  4. After feeling comfortable with the code itself, try to solve the questions
+  5. When you done with solving or stuck (Again ...) check others solutions and try to understand your mistake or (if exists) better aproach.
+ 
+## Resources
 
-[**2.Week**](https://github.com/NAU-ACM/AlgorithmsCurriculumFollow/tree/master/Week2)
+In this course we will use some tools for the questions. As I mentioned above all of these questions already exists, we just highlight them so that you can reach better. Here are the websites/tools that we use through this course:
 
-  - Quick sort
-  - Counting Sort
+  - [Leetcode](https://leetcode.com)
+  - [Spoj](http://www.spoj.com)
+  - [Hackerrank](https://www.hackerrank.com/domains)
+  - [Topcoder](https://www.topcoder.com)
+  - [Codeforces](http://codeforces.com)
+  - [Lightoj](http://www.lightoj.com)
+  - [ACM-Timus](http://acm.timus.ru)
 
-[**3.Week**](https://github.com/NAU-ACM/AlgorithmsCurriculumFollow/tree/master/Week3)
-
-  - Binary search
-  - Ternar search
-
-[**4.Week**](https://github.com/NAU-ACM/AlgorithmsCurriculumFollow/tree/master/Week4)
-
-  - Prime Numbers(Sieve of Eratosthenes)
-  - Long arithmetic - Plus, Minus
-  - Long arithmetic - Div, Multiply
-    
-[**5.Week**](https://github.com/NAU-ACM/AlgorithmsCurriculumFollow/tree/master/Week5)
-
-  - DFS
-  - Djikstra
-  - BFS
-
-[**6.Week**](https://github.com/NAU-ACM/AlgorithmsCurriculumFollow/tree/master/Week6)
-
-  - Ford Bellman
-  - Floyd Wolsher
-    
-
-[**7.Week**](https://github.com/NAU-ACM/AlgorithmsCurriculumFollow/tree/master/Week7)
-
-  - Tree Data Structure
-  - RMQ (Range Minimum Query)
-  - LCA (Lowest Common Ancestor)
-
-[**8.Week**](https://github.com/NAU-ACM/AlgorithmsCurriculumFollow/tree/master/Week8)
-
-   - Combinatoric(Theory, math and etc)    
-
-**9.Week**
-
-
-   - Dynamic program
-    
-
-**10.Week**
+I gave these tools name because you may not be able to submit your solution or display the question for some websites. It would be better if you just sign up. Although it is not neccesary...
+  
+## Here is our Curriculum
+| Week | Topic |
+| --- | --- |
+|[**1.Week**](https://github.com/NAU-ACM/AlgorithmsCurriculumFollow/tree/master/Week1)|<ul><li>[ ] GCD and LCD Euklid Algorithm</li><li>[ ] Geometry (_Primitive operations_)<ul><li>[ ] Polygon Inside, Outside</li><li>[ ] Implementing CCW</li><li>[ ] Intuition</li><li>[ ] Immutable Point ADT</li><li>[ ] Line intersection</li></ul></li></ul>|
+|[**2.Week**](https://github.com/NAU-ACM/AlgorithmsCurriculumFollow/tree/master/Week2)|<ul><li>[ ] Quick sort</li><li>[ ] Counting Sort</li></ul>|
+|[**3.Week**](https://github.com/NAU-ACM/AlgorithmsCurriculumFollow/tree/master/Week3)|<ul><li>[ ] Binary search</li><li>[ ] Ternar search</li></ul>|
+|[**4.Week**](https://github.com/NAU-ACM/AlgorithmsCurriculumFollow/tree/master/Week4)|<ul><li>[ ] Prime Numbers(Sieve of Eratosthenes)</li><li>[ ] Long arithmetic - Plus, Minus</li><li>[ ] Long arithmetic - Div, Multiply</li></ul>|
+|[**5.Week**](https://github.com/NAU-ACM/AlgorithmsCurriculumFollow/tree/master/Week5)|<ul><li>[ ] Depth First Search(DFS)</li><li>[ ] Dijkstra</li><li>[ ] Breadth First Search</li></ul>
+|[**6.Week**](https://github.com/NAU-ACM/AlgorithmsCurriculumFollow/tree/master/Week6)|<ul><li>[ ] Ford Bellman</li><li>[ ] Floyd Wolsher</li></ul>|
+|[**7.Week**](https://github.com/NAU-ACM/AlgorithmsCurriculumFollow/tree/master/Week7)|<ul><li>[ ] Tree Data Structure</li><li>[ ] Range Minimum Query(RMQ)</li><li>[ ] Lowest Common Ancestor(LCA)</li></ul>
+|[**8.Week**](https://github.com/NAU-ACM/AlgorithmsCurriculumFollow/tree/master/Week8)|<ul><li>[ ] Combinatoric(Theory, math and etc)</li></ul>|
+|**9.Week**|<ul><li>[ ] Dynamic program</li></ul>|
+|**10.Week**|<ul><li>[ ] TopSort</li></ul>|
+|**11.Week**|<ul><li>[ ] Z-function</li><li>[ ] Hash</li></ul>|
+|**12.Week**|<ul><li>[ ] Dynamic program</li></ul>|
+|**13.Week**|<ul><li>[ ] Game theory</li></ul>|
+|**14.Week**|<ul><li>[ ] Game theory</li></ul>|
+|**15.Week**|<ul><li>[ ] Heavy Light Decomposition</li></ul>|
+|**16.Week**|<ul><li>[ ] Heavy Light Decomposition</li></ul>|
 
 
-   - TopSort
-    
-**11.Week**
+### Contributers
+- Mustafa Bedir Tapkan . . . .[![linkedIn](http://7psh.com/inc.img/linkedin.png)](https://www.linkedin.com/in/bedirtapkan) <a  href = "https://github.com/BedirT"><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/500px-Octicons-mark-github.svg.png" height = "20" ></a>
+- Nadide Pasali . . . . . . . . . . [![linkedIn](http://7psh.com/inc.img/linkedin.png)](https://www.linkedin.com/pub/nadide-pasali/b6/604/a90) <a  href = "https://github.com/nadide"><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/500px-Octicons-mark-github.svg.png" height = "20" ></a>
+
+<!--- Almaz Tukenov . . . . . . . . . [![linkedIn](http://7psh.com/inc.img/linkedin.png)](https://www.linkedin.com/in/almaz-tukenov-48767a108) <a  href = "https://github.com/atukenov"><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/500px-Octicons-mark-github.svg.png" height = "20" ></a>-->
 
 
-  - Z-function
-  - Hash
-    
-
-**12.Week**
-
-
-  - Z-function
-  - Hash
-
-**13.Week**
-
-
-  - Game theory
-    
-
-**14.Week**
-
-
-  - Game theory
-    
-
-**15.Week**
-
-
-  - Heavy Light Decomposition
-    
-
-**16.Week**
-
-  - Heavy Light Decomposition
-
-
-#### The Contributers
-- Mustafa Bedir Tapkan . . . .[![linkedIn](http://7psh.com/inc.img/linkedin.png)](https://www.linkedin.com/in/bedirtapkan)  [![gitHub](http://cvdlab-cg.github.io/220279/img/icon-github.png)](https://github.com/BedirT)
-- Nadide Pasali . . . . . . . . . . [![linkedIn](http://7psh.com/inc.img/linkedin.png)](https://www.linkedin.com/pub/nadide-pasali/b6/604/a90)  [![gitHub](http://cvdlab-cg.github.io/220279/img/icon-github.png)](https://github.com/nadide)
-- Almaz Tukenov . . . . . . . . . [![linkedIn](http://7psh.com/inc.img/linkedin.png)](https://www.linkedin.com/in/almaz-tukenov-48767a108)  [![gitHub](http://cvdlab-cg.github.io/220279/img/icon-github.png)](https://github.com/atukenov)
-
+######A [NAU-ACM](https://nauacmrocks.azurewebsites.net) Project
 
