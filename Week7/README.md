@@ -56,6 +56,7 @@
 ######Source Codes
 
   - [Bedir](https://github.com/BedirT/AlgorithmsL/blob/master/Algorithms/Math/RMQ.cpp)
+  - [Nadide](https://github.com/nadide/ACM-ICPC/blob/master/codes/tree_RMQ.cpp)
 
 ######Questions
 
@@ -76,6 +77,7 @@
 
 ######Source Codes
   - [Bedir](https://github.com/BedirT/AlgorithmsL/blob/master/Algorithms/Graph/Lowest%20Common%20Ancestor.cpp)
+  - [Nadide](https://github.com/nadide/ACM-ICPC/blob/master/codes/tree_LCA.cpp)
 
 ######Questions
   - [Query on a Tree II](http://www.spoj.com/problems/QTREE2/)
