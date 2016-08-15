@@ -1,3 +1,5 @@
+![ACM-ICPC](https://github.com/NAU-ACM/ACM-ICPC-Preparation/blob/master/acm_icpc_prep.jpg "ACM-ICPC")
+
 # ACM-ICPC Preparation 
 _Ongoing Project_
 
