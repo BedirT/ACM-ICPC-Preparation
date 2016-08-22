@@ -38,26 +38,30 @@ In this course we will use some tools for the questions. As I mentioned above al
   - [ACM-Timus](http://acm.timus.ru)
 
 I gave these tools name because you may not be able to submit your solution or display the question for some websites. It would be better if you just sign up. Although it is not neccesary...
-  
+
 ## Here is our Curriculum
-| Week | Topic |
-| --- | --- |
-|[**1.Week**](https://github.com/NAU-ACM/AlgorithmsCurriculumFollow/tree/master/Week1)|<ul><li>[ ] GCD and LCD Euklid Algorithm</li><li>[ ] Geometry (_Primitive operations_)<ul><li>[ ] Polygon Inside, Outside</li><li>[ ] Implementing CCW</li><li>[ ] Intuition</li><li>[ ] Immutable Point ADT</li><li>[ ] Line intersection</li></ul></li></ul>|
-|[**2.Week**](https://github.com/NAU-ACM/AlgorithmsCurriculumFollow/tree/master/Week2)|<ul><li>[ ] Quick sort</li><li>[ ] Counting Sort</li></ul>|
-|[**3.Week**](https://github.com/NAU-ACM/AlgorithmsCurriculumFollow/tree/master/Week3)|<ul><li>[ ] Binary search</li><li>[ ] Ternar search</li></ul>|
-|[**4.Week**](https://github.com/NAU-ACM/AlgorithmsCurriculumFollow/tree/master/Week4)|<ul><li>[ ] Prime Numbers(Sieve of Eratosthenes)</li><li>[ ] Long arithmetic - Plus, Minus</li><li>[ ] Long arithmetic - Div, Multiply</li></ul>|
-|[**5.Week**](https://github.com/NAU-ACM/AlgorithmsCurriculumFollow/tree/master/Week5)|<ul><li>[ ] Depth First Search(DFS)</li><li>[ ] Dijkstra</li><li>[ ] Breadth First Search</li></ul>
-|[**6.Week**](https://github.com/NAU-ACM/AlgorithmsCurriculumFollow/tree/master/Week6)|<ul><li>[ ] Ford Bellman</li><li>[ ] Floyd Wolsher</li></ul>|
-|[**7.Week**](https://github.com/NAU-ACM/AlgorithmsCurriculumFollow/tree/master/Week7)|<ul><li>[ ] Tree Data Structure</li><li>[ ] Range Minimum Query(RMQ)</li><li>[ ] Lowest Common Ancestor(LCA)</li></ul>
-|[**8.Week**](https://github.com/NAU-ACM/AlgorithmsCurriculumFollow/tree/master/Week8)|<ul><li>[ ] Combinatoric(Theory, math and etc)</li></ul>|
-|**9.Week**|<ul><li>[ ] Dynamic program</li></ul>|
-|**10.Week**|<ul><li>[ ] TopSort</li></ul>|
-|**11.Week**|<ul><li>[ ] Z-function</li><li>[ ] Hash</li></ul>|
-|**12.Week**|<ul><li>[ ] Dynamic program</li></ul>|
-|**13.Week**|<ul><li>[ ] Game theory</li></ul>|
-|**14.Week**|<ul><li>[ ] Game theory</li></ul>|
-|**15.Week**|<ul><li>[ ] Heavy Light Decomposition</li></ul>|
-|**16.Week**|<ul><li>[ ] Heavy Light Decomposition</li></ul>|
+|Week|Topics|Optional Topics|
+| --- | --- | --- |
+|[**1.Week**](https://github.com/NAU-ACM/AlgorithmsCurriculumFollow/tree/master/Week1)|<ul><li>Prime Numbers (Sieve of Eratosthenes)</li><li>Efficient Prime Factorization</li><li>Modular Exponentiation</li></ul><ul></ul>|
+|[**2.Week**](https://github.com/NAU-ACM/AlgorithmsCurriculumFollow/tree/master/Week2)|<ul><li>GCD and LCM Euclid’s Algorithm</li><li>Long arithmetic (Multi, Sum, Div, Sub)</li></ul>|<ul><li>C++ STL:Vector</li><li>C++ STL:Pairs</li><li>C++ STL:Iterators</li></ul>|
+|[**3.Week**](https://github.com/NAU-ACM/AlgorithmsCurriculumFollow/tree/master/Week3)|<ul><li>QuickSort</li><li>Counting Sort</li></ul>|<ul><li>C++ STL:String</li><li>C++ STL:Set</li><li>C++ STL:Map</li></ul>|
+|[**4.Week**](https://github.com/NAU-ACM/AlgorithmsCurriculumFollow/tree/master/Week4)|<ul><li>Merge Sort</li><li>Binary Search</li></ul>|<ul><li>Ternary Search</li></ul>|
+|[**5.Week**](https://github.com/NAU-ACM/AlgorithmsCurriculumFollow/tree/master/Week5)|<ul><li>Queue (DS)</li><li>Stack (DS)</li><li>Breadth First Search</li><li>Depth First Search</li></ul>|<ul><li>C++ STL: Queue</li><li>C++ STL: Stack</li></ul>|
+|[**6.Week**](https://github.com/NAU-ACM/AlgorithmsCurriculumFollow/tree/master/Week6)|<ul><li>Linked List (DS)</li><li>Dijkstra’s Shortest Path</li><li>Minimum Spanning Tree (MST)</li><li>Floyd Warshall</li></ul><ul></ul>|
+|[**7.Week**](https://github.com/NAU-ACM/AlgorithmsCurriculumFollow/tree/master/Week7)|<ul><li>Knapsack</li><li>Coin Change</li><li>Kadane</li></ul>|
+|[**8.Week**](https://github.com/NAU-ACM/AlgorithmsCurriculumFollow/tree/master/Week8)|**Questions from previous topics**|
+|**9.Week**|<ul><li>Trees (DS)</li><li>Segment Trees (DS)</li><li>Range Minimum Query (RMQ)</li><li>Lowest Common Ancestor (LCA)</li></ul><ul><li>Topological Sorting</li></ul>|
+|**10.Week**|<ul><li>Ford Bellman</li><li>Max Flow / Min Cut</li><li>Longest increasing Subsequence (with RMQ)</li></ul>|<ul><li>Heavy Light Decomposition</li></ul>|
+|**11.Week**|<ul><li>Primitive Operations<ul><li>Intuition</li><li>Polygon Inside, Outside</li><li>Implementing CCW</li><li>Immutable Point ADT</li></ul></li><li>Convex Hull</li><li>Closest pair problem</li><li>Line intersection</li></ul>|
+|**12.Week**|<ul><li>Tries (DS)</li><li>Suffix Trees/Arrays (DS)</li><li>Knuth-Morris-Pratt Algorithm (KMP)</li><li>Rabin-Karp Algorithm</li></ul>|
+|**13.Week**|<ul><li>Heaps (DS)</li><li>Priority queue (DS)</li><li>Combinatorics</li></ul>|
+|**14.Week**|<ul><li>Z algorithm</li><li>Hash</li><li>Disjoint Data Structure (DS)</li></ul>|
+|**15.Week**|<ul><li>Matrix chain multiplication</li><li>SQRT Decomposition (DS)</li></ul>|<ul><li>Mo's Algorithm</li><li>Rod Cutting</li></ul>|
+|**16.Week**|**Questions from previous topics**|
+|**17.Week**|<ul><li>Nim game</li><li>Grundy numbers</li></ul>|
+|**18.Week**|<ul><li>Sprague-Grundy theorem</li><li>Fenwick tree or Binary indexed trees (DS)</li></ul>|
+|**19.Week**|<ul><li>Bit Manipulation</li></ul>|<ul><li>Palindromic Tree</li><li>AVL Trees</li></ul>|
+|**20.Week**|<ul><li>Heavy Light Decomposition</li><li>Dynamic Programming by Profile</li></ul>|<ul><li>Graph Coloring</li></ul>|
 
 
 ### Contributers
