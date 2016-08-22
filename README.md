@@ -39,37 +39,136 @@ In this course we will use some tools for the questions. As I mentioned above al
 
 I gave these tools name because you may not be able to submit your solution or display the question for some websites. It would be better if you just sign up. Although it is not neccesary...
 
+## Topics
+
+Here are the topics we included in this curriculum.
+
+### DS
+ 
+  - Stacks
+  - Queues
+  - Priority queue
+  - Hashmap
+  - Linked List
+  - Trees
+  - Heaps
+  - Advanced Trees 
+    - Tries
+    - Segment trees
+    - Fenwick tree or Binary indexed trees
+    - RMQ
+  - SQRT Decomposition
+  - Disjoint Data Structure
+  - C++ STL (optional)
+
+### Algo
+  
+  - Number Theory 
+    - Prime Numbers (Sieve of Eratosthenes)
+    - GCD and LCM Euclid’s Algorithm
+    - Modular Exponentiation
+    - Long arithmetic (Multi, Add)
+    - Efficient Prime Factorization
+
+  - Combinatorics(Probability-Combinations-Permutations-Matrix..)
+
+
+  - Computational geometry
+    - Primitive Operations
+      - Intuition
+      - Polygon Inside, Outside
+      - Implementing CCW
+      - Immutable Point ADT
+    - Convex Hull
+    - Closest pair problem
+    - Line intersection
+
+
+  - Sorting
+    - QuickSort
+    - Counting Sort
+    - Merge Sort
+
+  - Searching
+    - Binary Search
+    - Ternary Search
+
+  - Graph Theory
+    - Depth First Search (DFS)
+    - Breadth First Search (BFS)
+    - Dijkstra’s Shortest Path
+    - Minimum Spanning Tree 
+    - Ford Bellman
+    - Floyd Warshall
+    - LCA (Lowest Common Ancestor)
+    - Max Flow / Min Cut
+
+  - Dynamic programming
+    - Knapsack
+    - Matrix chain multiplication
+    - Coin Change
+    - Kadane
+    - Longest increasing Subsequence (with RMQ)
+
+  - Strings
+    - Z algorithm
+    - Suffix Trees/Arrays
+    - Knuth-Morris-Pratt Algorithm (KMP)
+    - Rabin-Karp Algorithm
+    - Hash
+
+  - Bit Manipulation
+
+  - Game theory
+    - Nim game
+    - Grundy numbers
+    - Sprague-Grundy theorem
+
+  - **Optional Advanced Algorithms**
+    - AVL Trees
+    - Graph Coloring
+    - Mo's Algorithm
+    - Palindromic Tree
+    - Heavy Light Decomposition
+    - Dynamic Programming by Profile
+    - Rod Cutting
+    - Topological Sorting
+    - DP with Bitmask - Dynamic Programming
+    - Diobhantine Equation - Math
+    - Flood Fill - Graph
+
+
 ## Here is our Curriculum
 |Week|Topics|Optional Topics|
 | --- | --- | --- |
-|[**1.Week**](https://github.com/NAU-ACM/AlgorithmsCurriculumFollow/tree/master/Week1)|<ul><li>Prime Numbers (Sieve of Eratosthenes)</li><li>Efficient Prime Factorization</li><li>Modular Exponentiation</li></ul><ul></ul>|
-|[**2.Week**](https://github.com/NAU-ACM/AlgorithmsCurriculumFollow/tree/master/Week2)|<ul><li>GCD and LCM Euclid’s Algorithm</li><li>Long arithmetic (Multi, Sum, Div, Sub)</li></ul>|<ul><li>C++ STL:Vector</li><li>C++ STL:Pairs</li><li>C++ STL:Iterators</li></ul>|
-|[**3.Week**](https://github.com/NAU-ACM/AlgorithmsCurriculumFollow/tree/master/Week3)|<ul><li>QuickSort</li><li>Counting Sort</li></ul>|<ul><li>C++ STL:String</li><li>C++ STL:Set</li><li>C++ STL:Map</li></ul>|
-|[**4.Week**](https://github.com/NAU-ACM/AlgorithmsCurriculumFollow/tree/master/Week4)|<ul><li>Merge Sort</li><li>Binary Search</li></ul>|<ul><li>Ternary Search</li></ul>|
-|[**5.Week**](https://github.com/NAU-ACM/AlgorithmsCurriculumFollow/tree/master/Week5)|<ul><li>Queue (DS)</li><li>Stack (DS)</li><li>Breadth First Search</li><li>Depth First Search</li></ul>|<ul><li>C++ STL: Queue</li><li>C++ STL: Stack</li></ul>|
-|[**6.Week**](https://github.com/NAU-ACM/AlgorithmsCurriculumFollow/tree/master/Week6)|<ul><li>Linked List (DS)</li><li>Dijkstra’s Shortest Path</li><li>Minimum Spanning Tree (MST)</li><li>Floyd Warshall</li></ul><ul></ul>|
-|[**7.Week**](https://github.com/NAU-ACM/AlgorithmsCurriculumFollow/tree/master/Week7)|<ul><li>Knapsack</li><li>Coin Change</li><li>Kadane</li></ul>|
-|[**8.Week**](https://github.com/NAU-ACM/AlgorithmsCurriculumFollow/tree/master/Week8)|**Questions from previous topics**|
-|**9.Week**|<ul><li>Trees (DS)</li><li>Segment Trees (DS)</li><li>Range Minimum Query (RMQ)</li><li>Lowest Common Ancestor (LCA)</li></ul><ul><li>Topological Sorting</li></ul>|
-|**10.Week**|<ul><li>Ford Bellman</li><li>Max Flow / Min Cut</li><li>Longest increasing Subsequence (with RMQ)</li></ul>|<ul><li>Heavy Light Decomposition</li></ul>|
-|**11.Week**|<ul><li>Primitive Operations<ul><li>Intuition</li><li>Polygon Inside, Outside</li><li>Implementing CCW</li><li>Immutable Point ADT</li></ul></li><li>Convex Hull</li><li>Closest pair problem</li><li>Line intersection</li></ul>|
-|**12.Week**|<ul><li>Tries (DS)</li><li>Suffix Trees/Arrays (DS)</li><li>Knuth-Morris-Pratt Algorithm (KMP)</li><li>Rabin-Karp Algorithm</li></ul>|
-|**13.Week**|<ul><li>Heaps (DS)</li><li>Priority queue (DS)</li><li>Combinatorics</li></ul>|
-|**14.Week**|<ul><li>Z algorithm</li><li>Hash</li><li>Disjoint Data Structure (DS)</li></ul>|
-|**15.Week**|<ul><li>Matrix chain multiplication</li><li>SQRT Decomposition (DS)</li></ul>|<ul><li>Mo's Algorithm</li><li>Rod Cutting</li></ul>|
-|**16.Week**|**Questions from previous topics**|
-|**17.Week**|<ul><li>Nim game</li><li>Grundy numbers</li></ul>|
-|**18.Week**|<ul><li>Sprague-Grundy theorem</li><li>Fenwick tree or Binary indexed trees (DS)</li></ul>|
-|**19.Week**|<ul><li>Bit Manipulation</li></ul>|<ul><li>Palindromic Tree</li><li>AVL Trees</li></ul>|
-|**20.Week**|<ul><li>Heavy Light Decomposition</li><li>Dynamic Programming by Profile</li></ul>|<ul><li>Graph Coloring</li></ul>|
+|[**1.Week**](https://github.com/NAU-ACM/ACM-ICPC-Preparation/tree/master/Week1)|<ul><li>Prime Numbers (Sieve of Eratosthenes)</li><li>Efficient Prime Factorization</li><li>Modular Exponentiation</li></ul><ul></ul>|
+|[**2.Week**](https://github.com/NAU-ACM/ACM-ICPC-Preparation/tree/master/Week2)|<ul><li>GCD and LCM Euclid’s Algorithm</li><li>Long arithmetic (Multi, Sum, Div, Sub)</li></ul>|<ul><li>C++ STL:Vector</li><li>C++ STL:Pairs</li><li>C++ STL:Iterators</li></ul>|
+|[**3.Week**](https://github.com/NAU-ACM/ACM-ICPC-Preparation/tree/master/Week3)|<ul><li>QuickSort</li><li>Counting Sort</li></ul>|<ul><li>C++ STL:String</li><li>C++ STL:Set</li><li>C++ STL:Map</li></ul>|
+|[**4.Week**](https://github.com/NAU-ACM/ACM-ICPC-Preparation/tree/master/Week4)|<ul><li>Merge Sort</li><li>Binary Search</li></ul>|<ul><li>Ternary Search</li></ul>|
+|[**5.Week**](https://github.com/NAU-ACM/ACM-ICPC-Preparation/tree/master/Week5)|<ul><li>Queue (DS)</li><li>Stack (DS)</li><li>Breadth First Search</li><li>Depth First Search</li></ul>|<ul><li>C++ STL: Queue</li><li>C++ STL: Stack</li></ul>|
+|[**6.Week**](https://github.com/NAU-ACM/ACM-ICPC-Preparation/tree/master/Week6)|<ul><li>Linked List (DS)</li><li>Dijkstra’s Shortest Path</li><li>Minimum Spanning Tree (MST)</li><li>Floyd Warshall</li></ul><ul></ul>|
+|[**7.Week**](https://github.com/NAU-ACM/ACM-ICPC-Preparation/tree/master/Week7)|<ul><li>Knapsack</li><li>Coin Change</li><li>Kadane</li></ul>|
+|[**8.Week**](https://github.com/NAU-ACM/ACM-ICPC-Preparation/tree/master/Week8)|**Questions from previous topics**|
+|[**9.Week**](https://github.com/NAU-ACM/ACM-ICPC-Preparation/tree/master/Week9)|<ul><li>Trees (DS)</li><li>Segment Trees (DS)</li><li>Range Minimum Query (RMQ)</li><li>Lowest Common Ancestor (LCA)</li></ul><ul><li>Topological Sorting</li></ul>|
+|[**10.Week**](https://github.com/NAU-ACM/ACM-ICPC-Preparation/tree/master/Week10)|<ul><li>Ford Bellman</li><li>Max Flow / Min Cut</li><li>Longest increasing Subsequence (with RMQ)</li></ul>|<ul><li>Heavy Light Decomposition</li></ul>|
+|[**11.Week**](https://github.com/NAU-ACM/ACM-ICPC-Preparation/tree/master/Week11)|<ul><li>Primitive Operations<ul><li>Intuition</li><li>Polygon Inside, Outside</li><li>Implementing CCW</li><li>Immutable Point ADT</li></ul></li><li>Convex Hull</li><li>Closest pair problem</li><li>Line intersection</li></ul>|
+|[**12.Week**](https://github.com/NAU-ACM/ACM-ICPC-Preparation/tree/master/Week12)|<ul><li>Tries (DS)</li><li>Suffix Trees/Arrays (DS)</li><li>Knuth-Morris-Pratt Algorithm (KMP)</li><li>Rabin-Karp Algorithm</li></ul>|
+|[**13.Week**](https://github.com/NAU-ACM/ACM-ICPC-Preparation/tree/master/Week13)|<ul><li>Heaps (DS)</li><li>Priority queue (DS)</li><li>Combinatorics</li></ul>|
+|[**14.Week**](https://github.com/NAU-ACM/ACM-ICPC-Preparation/tree/master/Week14)|<ul><li>Z algorithm</li><li>Hash</li><li>Disjoint Data Structure (DS)</li></ul>|
+|[**15.Week**](https://github.com/NAU-ACM/ACM-ICPC-Preparation/tree/master/Week15)|<ul><li>Matrix chain multiplication</li><li>SQRT Decomposition (DS)</li></ul>|<ul><li>Mo's Algorithm</li><li>Rod Cutting</li></ul>|
+|[**16.Week**](https://github.com/NAU-ACM/ACM-ICPC-Preparation/tree/master/Week16)|**Questions from previous topics**|
+|[**17.Week**](https://github.com/NAU-ACM/ACM-ICPC-Preparation/tree/master/Week17)|<ul><li>Nim game</li><li>Grundy numbers</li></ul>|
+|[**18.Week**](https://github.com/NAU-ACM/ACM-ICPC-Preparation/tree/master/Week18)|<ul><li>Sprague-Grundy theorem</li><li>Fenwick tree or Binary indexed trees (DS)</li></ul>|
+|[**19.Week**](https://github.com/NAU-ACM/ACM-ICPC-Preparation/tree/master/Week19)|<ul><li>Bit Manipulation</li></ul>|<ul><li>Palindromic Tree</li><li>AVL Trees</li></ul>|
+|[**20.Week**](https://github.com/NAU-ACM/ACM-ICPC-Preparation/tree/master/Week20)|<ul><li>Heavy Light Decomposition</li><li>Dynamic Programming by Profile</li></ul>|<ul><li>Graph Coloring</li></ul>|
 
 
 ### Contributers
-- Mustafa Bedir Tapkan . . . .[![linkedIn](http://7psh.com/inc.img/linkedin.png)](https://www.linkedin.com/in/bedirtapkan) <a  href = "https://github.com/BedirT"><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/500px-Octicons-mark-github.svg.png" height = "20" ></a>
-- Nadide Pasali . . . . . . . . . . [![linkedIn](http://7psh.com/inc.img/linkedin.png)](https://www.linkedin.com/pub/nadide-pasali/b6/604/a90) <a  href = "https://github.com/nadide"><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/500px-Octicons-mark-github.svg.png" height = "20" ></a>
+- Mustafa Bedir Tapkan . . . .[<a  href = "https://www.linkedin.com/in/bedirtapkan"><img src = "https://www.aliconferences.com/wp-content/uploads/2015/03/LinkedIn-Logo.png" height = "20" ></a> <a  href = "https://github.com/BedirT"><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/500px-Octicons-mark-github.svg.png" height = "20" ></a>
+- Nadide Pasali . . . . . . . . . . <a  href = "https://www.linkedin.com/pub/nadide-pasali/b6/604/a90"><img src = "https://www.aliconferences.com/wp-content/uploads/2015/03/LinkedIn-Logo.png" height = "20" ></a> <a  href = "https://github.com/nadide"><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/500px-Octicons-mark-github.svg.png" height = "20" ></a>
 
 <!--- Almaz Tukenov . . . . . . . . . [![linkedIn](http://7psh.com/inc.img/linkedin.png)](https://www.linkedin.com/in/almaz-tukenov-48767a108) <a  href = "https://github.com/atukenov"><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/500px-Octicons-mark-github.svg.png" height = "20" ></a>-->
-
+https://www.aliconferences.com/wp-content/uploads/2015/03/LinkedIn-Logo.png
 
 ######A [NAU-ACM](https://nauacmrocks.azurewebsites.net) Project
 
