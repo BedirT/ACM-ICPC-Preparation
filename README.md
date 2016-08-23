@@ -72,7 +72,6 @@ Here are the topics we included in this curriculum.
 
   - Combinatorics(Probability-Combinations-Permutations-Matrix..)
 
-
   - Computational geometry
     - Primitive Operations
       - Intuition
@@ -82,7 +81,6 @@ Here are the topics we included in this curriculum.
     - Convex Hull
     - Closest pair problem
     - Line intersection
-
 
   - Sorting
     - QuickSort
