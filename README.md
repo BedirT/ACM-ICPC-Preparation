@@ -164,11 +164,10 @@ Here are the topics we included in this curriculum.
 
 
 ### Contributers
-- Mustafa Bedir Tapkan . . . .[<a  href = "https://www.linkedin.com/in/bedirtapkan"><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/2000px-Linkedin_icon.svg.png" height = "21" ></a> <a  href = "https://github.com/BedirT"><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/500px-Octicons-mark-github.svg.png" height = "20" ></a>
+- Mustafa Bedir Tapkan . . . .<a  href = "https://www.linkedin.com/in/bedirtapkan"><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/2000px-Linkedin_icon.svg.png" height = "21" ></a> <a  href = "https://github.com/BedirT"><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/500px-Octicons-mark-github.svg.png" height = "20" ></a>
 - Nadide Pasali . . . . . . . . . . <a  href = "https://www.linkedin.com/pub/nadide-pasali/b6/604/a90"><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/2000px-Linkedin_icon.svg.png" height = "21" ></a> <a  href = "https://github.com/nadide"><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/500px-Octicons-mark-github.svg.png" height = "20" ></a>
 
 <!--- Almaz Tukenov . . . . . . . . . [![linkedIn](http://7psh.com/inc.img/linkedin.png)](https://www.linkedin.com/in/almaz-tukenov-48767a108) <a  href = "https://github.com/atukenov"><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/500px-Octicons-mark-github.svg.png" height = "20" ></a>-->
-https://www.aliconferences.com/wp-content/uploads/2015/03/LinkedIn-Logo.png
 
 ######A [NAU-ACM](https://nauacmrocks.azurewebsites.net) Project
 
