@@ -1,9 +1,9 @@
 # Week 10
 
-----------
+
 ## Bellman Ford
 
-> [Tutorial]()
+#### [Tutorial]()
 
 #### Other Study Sources
 - [Youtube - Michael Sambol - Theory](https://www.youtube.com/watch?v=9PHkk0UavIM)   [Youtube - Michael Sambol - Example](https://www.youtube.com/watch?v=obWXjtg0L64)
@@ -19,10 +19,10 @@
 - [Instant View of Big Bang](http://www.lightoj.com/volume_showproblem.php?problem=1108)
 
 
-----------
+
 ## Max Flow / Min Cut
 
-> [Tutorial]()
+#### [Tutorial]()
 
 #### Other Study Sources
  
@@ -31,10 +31,10 @@
 #### Questions
 
 
-----------
+
 ## Longest increasing Subsequence (with RMQ)
 
-> [Tutorial]()
+#### [Tutorial]()
 
 #### Other Study Sources
  

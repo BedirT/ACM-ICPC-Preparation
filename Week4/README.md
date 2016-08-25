@@ -1,9 +1,8 @@
 # Week 4
 
-----------
 ## Merge Sort
 
-> [Tutorial]()
+#### [Tutorial]()
 
 #### Other Study Sources
  
@@ -12,10 +11,9 @@
 #### Questions
 
 
-----------
 ## Binary Search
 
-> [Tutorial]()
+#### [Tutorial]()
 
 #### Other Study Sources
 - [Youtube - Reallearning](https://www.youtube.com/watch?v=vohuRrwbTT4) (_Recommended_)

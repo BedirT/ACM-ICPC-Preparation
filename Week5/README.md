@@ -1,24 +1,24 @@
 # Week 5
 
-----------
+
 ## Queue
 
-> [Tutorial]()
+#### [Tutorial]()
 
 #### Other Study Sources
 
 
 ## Stack
 
-> [Tutorial]()
+#### [Tutorial]()
 
 #### Other Study Sources
 
 
-----------
+
 ## Breadth First Search
 
-> [Tutorial]()
+#### [Tutorial]()
 
 #### Other Study Sources
  
@@ -34,10 +34,10 @@
 - [Herding](http://www.spoj.com/problems/HERDING/)
 
 
-----------
+
 ## Depth First Search
 
-> [Tutorial]()
+#### [Tutorial]()
 
 #### Other Study Sources
 - [Youtube - Michael Seery](https://www.youtube.com/watch?v=bkROCj-BTWE)   [Youtube - Nathaniel Fan](https://www.youtube.com/watch?v=mE_PCK0oFyo)

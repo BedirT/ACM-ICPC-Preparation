@@ -1,17 +1,17 @@
 # Week 6
 
-----------
+
 ## Linked List 
 
-> [Tutorial]()
+#### [Tutorial]()
 
 #### Other Study Sources
 
 
-----------
+
 ## Dijkstra’s Shortest Path
 
-> [Tutorial]()
+#### [Tutorial]()
 
 #### Other Study Sources
 - [Youtube - Santitham Prom-on](https://www.youtube.com/watch?v=WN3Rb9wVYDY)
@@ -31,10 +31,10 @@
 - [Small Quiz by GeeksForGeeks](http://quiz.geeksforgeeks.org/algorithms/graph-shortest-paths/)
 
 
-----------
+
 ## Minimum Spanning Tree (MST)
 
-> [Tutorial]()
+#### [Tutorial]()
 
 #### Other Study Sources
  
@@ -43,10 +43,9 @@
 #### Questions
 
 
-----------
 ## Floyd Warshall (All Pairs Shortest Path)
 
-> [Tutorial]()
+#### [Tutorial]()
 
 #### Other Study Sources
 - [GeeksForGeeks](http://www.geeksforgeeks.org/dynamic-programming-set-16-floyd-warshall-algorithm/)

@@ -1,9 +1,8 @@
 # Week 3
 
-----------
 ## QuickSort
 
-> [Tutorial]()
+#### [Tutorial]()
  
 #### Other Study Sources
 - [Logic Explanatory text - mathbits.com](http://mathbits.com/MathBits/CompSci/Arrays/Quick.htm) 
@@ -26,10 +25,9 @@
 	- [Nadide's solution](https://github.com/nadide/ACM-ICPC/blob/master/problems/hackerrank/sorting/quickSort_inPlace.c)
 
 
-----------
 ## Counting Sort
 
-> [Tutorial]()
+#### [Tutorial]()
 
 #### Other Study Sources
 - [Wikipedia](https://en.wikipedia.org/wiki/Counting_sort)

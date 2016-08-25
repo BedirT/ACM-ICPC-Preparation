@@ -1,9 +1,9 @@
 # Week 11
 
-----------
+
 ## Geometry (Primitive Operations)
 
-> [Tutorial]()
+#### [Tutorial]()
 
 #### Other Study Sources
 - [Geometric Algorithms Slayt](https://www.cs.princeton.edu/~rs/AlgsDS07/16Geometric.pdf)
@@ -27,10 +27,10 @@
 - Nadide - [C++](https://github.com/nadide/ACM-ICPC/blob/master/codes/geo_polygonInside.cpp)
 
 
-----------
+
 ## Convex Hull (Jarvis's Algorithm)
 
-> [Tutorial]()
+#### [Tutorial]()
 
 #### Other Study Sources
 - [GeeksforGeeks](http://www.geeksforgeeks.org/convex-hull-set-1-jarviss-algorithm-or-wrapping/) 
@@ -43,10 +43,11 @@
 #### Questions
 - [Timus asking - Convex Hull ](http://acm.timus.ru/problem.aspx?space=1&num=1305)
 
-----------
+
+
 ## Closest pair problem
 
-> [Tutorial]()
+#### [Tutorial]()
 
 #### Other Study Sources
  

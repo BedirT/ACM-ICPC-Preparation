@@ -1,9 +1,8 @@
 # Week 2
 
-----------
 ## GCD and LCM Euclid’s Algorithm
 
-> [Tutorial]() 
+#### [Tutorial]() 
 
 #### Other Study Sources
 - [Wikipedia](https://en.wikipedia.org/wiki/Euclidean_algorithm)
@@ -34,10 +33,12 @@
 #### Questions
 
 
-----------
+
 ## Long Arithmetic (Multi, Sum, Div, Sub)
 
-> [Tutorial]()
+#### [Tutorial]()
+
+#### Other Study Sources
 
 
 ### Summation
@@ -58,6 +59,7 @@
 #### Source Codes
 - Bedir - [C++](https://github.com/BedirT/AlgorithmsL/blob/master/Algorithms/Math/extra_long_mult.cpp)
 - Nadide - [C](https://github.com/nadide/ACM-ICPC/blob/master/codes/math_longArithmatic_Mult.c)
+
 #### Questions
 - [Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials?h_r=internal-search)
 	- [Bedir's Solution](https://github.com/BedirT/AlgorithmsL/blob/master/Problems/HackerRank/Algorithms/Implementation/Extra%20Long%20Factorial.cpp)

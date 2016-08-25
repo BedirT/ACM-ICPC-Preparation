@@ -1,6 +1,6 @@
 # Week 7
 
-----------
+
 ## Knapsack
 
 > [Tutorial]()
@@ -12,7 +12,7 @@
 #### Questions
 
 
-----------
+
 ## Coin Change
 
 > [Tutorial]()
@@ -24,7 +24,7 @@
 #### Questions
 
 
-----------
+
 ## Kadane
 
 > [Tutorial]()

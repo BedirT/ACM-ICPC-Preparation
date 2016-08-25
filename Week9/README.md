@@ -1,9 +1,9 @@
 # Week 9
 
-----------
+
 ## Trees 
 
-> [Tutorial]()
+#### [Tutorial]()
 
 #### Other Study Sources
 - [Youtube - mycodeschool](https://www.youtube.com/watch?v=qH6yxkw0u78)
@@ -46,7 +46,7 @@
 
 ## Segment Trees (DS)
 
-> [Tutorial]()
+#### [Tutorial]()
 
 #### Other Study Sources
  
@@ -55,10 +55,10 @@
 #### Questions
 
 
-----------
+
 ## Range Minimum Query (RMQ)
 
-> [Tutorial]()
+#### [Tutorial]()
 
 #### Other Study Sources
 - [GeeksforGeeks](http://www.geeksforgeeks.org/segment-tree-set-1-range-minimum-query/)
@@ -79,10 +79,10 @@
 - [Mstick](https://discuss.codechef.com/questions/9722/mstick-editorial)
   
   
-----------
+
 ## Lowest Common Ancestor (LCA)
 
-> [Tutorial]()
+#### [Tutorial]()
 
 #### Other Study Sources
 - [GeeksforGeeks](http://www.geeksforgeeks.org/lowest-common-ancestor-binary-tree-set-1/)
@@ -103,10 +103,10 @@
 - [Fools and Roads](http://codeforces.com/problemset/problem/192/E)
 
 
-----------
+
 ## Topological Sorting
 
-> [Tutorial]()
+#### [Tutorial]()
 
 #### Other Study Sources
  

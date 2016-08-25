@@ -1,9 +1,9 @@
 # Week 1
 
-----------
+
 ## Prime Numbers (Sieve of Eratosthenes)
 
-> [Tutorial]() 
+#### [Tutorial]() 
 
 #### Other Study Sources
 - [Youtube - Region 10 ESC](https://www.youtube.com/watch?v=V08g_lkKj6Q)
@@ -20,10 +20,10 @@
 	- [Bedir's Solution](https://github.com/BedirT/AlgorithmsL/blob/master/Problems/Curriculum%20Q's/Week%204/AMR11E%20-%20Distinct%20Primes.cpp)
 
 
-----------
+
 ## Efficient Prime Factorization
 
-> [Tutorial]()
+#### [Tutorial]()
 
 #### Other Study Sources
  
@@ -32,10 +32,10 @@
 #### Questions
 
 
-----------
+
 ## Modular Exponentiation
 
-> [Tutorial]()
+#### [Tutorial]()
  
 #### Other Study Sources
  
