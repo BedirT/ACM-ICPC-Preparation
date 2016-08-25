@@ -64,7 +64,7 @@
 - [GeeksforGeeks](http://www.geeksforgeeks.org/segment-tree-set-1-range-minimum-query/)
 - [Topcoder](https://www.topcoder.com/community/data-science/data-science-tutorials/range-minimum-query-and-lowest-common-ancestor/)
 - [Wikipedia](https://en.wikipedia.org/wiki/Range_minimum_query)
- 
+
 #### Source Codes
 - Bedir - [C++](https://github.com/BedirT/AlgorithmsL/blob/master/Algorithms/Math/RMQ.cpp)
 - Nadide - [C++](https://github.com/nadide/ACM-ICPC/blob/master/codes/tree_RMQ.cpp)
@@ -87,6 +87,7 @@
 #### Other Study Sources
 - [GeeksforGeeks](http://www.geeksforgeeks.org/lowest-common-ancestor-binary-tree-set-1/)
 - [Topcoder](https://www.topcoder.com/community/data-science/data-science-tutorials/range-minimum-query-and-lowest-common-ancestor/) 
+
 #### Source Codes
 - Bedir - [C++](https://github.com/BedirT/AlgorithmsL/blob/master/Algorithms/Graph/Lowest%20Common%20Ancestor.cpp)
 - Nadide - [C++](https://github.com/nadide/ACM-ICPC/blob/master/codes/tree_LCA.cpp)
