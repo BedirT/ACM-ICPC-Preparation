@@ -1,34 +1,56 @@
 # Week 3
-<em>July 9th</em>
 
-We will learn 2 search system. 1st is Binary search and 2nd one is Ternar search.
+----------
+## QuickSort
 
-## Problems & Solutions
-##### Binary Search
-  - Sources to study
-    - [Youtube - Reallearning](https://www.youtube.com/watch?v=vohuRrwbTT4) (_Recommended_)
-    - [Topcoder](https://www.topcoder.com/community/data-science/data-science-tutorials/binary-search/)
-    - [Wikipedia](https://en.wikipedia.org/wiki/Binary_search_algorithm)
-    - [Interview Cake](https://www.interviewcake.com/concept/java/binary-search) 
-  - Source Codes
-    - [Bedir](https://github.com/BedirT/AlgorithmsL/blob/master/Algorithms/Searching/binarySearch.cpp)
-    - [Nadide](https://github.com/nadide/ACM-ICPC/blob/master/codes/search_binarySearch.c)
-  - Questions
-    - Small interview question that will make you practice this topic: [Ordered Set](https://www.interviewcake.com/question/python/find-in-ordered-set)
-      - ( _Solution is as same as the normal source code_ )
-    - [Search Insert Position](https://leetcode.com/problems/search-insert-position/)
-      - [Bedir's Solution](https://github.com/BedirT/AlgorithmsL/blob/master/Problems/Curriculum%20Q's/Week%203/Search%20Insert%20Position.cpp)
-      - [Nadide's Solution](https://github.com/nadide/ACM-ICPC/blob/master/problems/other/insertPosition.c)
-    - [10 beautiful practice question](http://www.infoarena.ro/blog/binary-search-shortlist)
-      - [Bedir's Solutions](https://github.com/BedirT/AlgorithmsL/tree/master/Problems/Curriculum%20Q's/Week%203/Binary%20Search%20Shortlist)
-    - [Ice Cream Parlor](https://www.hackerrank.com/challenges/icecream-parlor)
-      - [Nadide's solution](https://github.com/nadide/ACM-ICPC/blob/master/problems/hackerrank/X_iceCreamParlor.c)
-    - [Maximum Subarray Sum](https://www.hackerrank.com/challenges/maximum-subarray-sum)
-      - [Nadide's solution](https://github.com/nadide/ACM-ICPC/blob/master/problems/hackerrank/X_maximumSubarraySum.cpp)
-      
-#### References
-  - http://www.infoarena.ro
-  - https://www.quora.com
-  - https://leetcode.com
-  - www.interviewcake.com
+> [Tutorial]()
+ 
+#### Other Study Sources
+- [Logic Explanatory text - mathbits.com](http://mathbits.com/MathBits/CompSci/Arrays/Quick.htm) 
+- [Logic Explanatory text - algolist.net](http://www.algolist.net/Algorithms/Sorting/Quicksort) 
+- [GeeksforGeeks](http://quiz.geeksforgeeks.org/quick-sort/)
+- [Video - CS50](https://www.youtube.com/watch?v=aQiWF4E8flQ)
+ 
+#### Source Codes
+- Bedir - [C++](https://github.com/BedirT/AlgorithmsL/blob/master/Algorithms/Sorting/qSort.cpp)
+- Nadide - [C](https://github.com/nadide/ACM-ICPC/blob/master/codes/sort_quickSort.c)
 
+#### Questions
+- [Quicksort 1 - Partition](https://www.hackerrank.com/challenges/quicksort1)
+	- [Bedir's solution](https://github.com/BedirT/AlgorithmsL/blob/master/Problems/HackerRank/Algorithms/Sorting/Quicksort%201%20-%20Partition.cpp) 
+	- [Nadide's solution](https://github.com/nadide/ACM-ICPC/blob/master/problems/hackerrank/sorting/quickSort1_partition.c)
+- [Quicksort 2 - Sorting](https://www.hackerrank.com/challenges/quicksort2)
+	- [Bedir's solution](https://github.com/BedirT/AlgorithmsL/blob/master/Problems/HackerRank/Algorithms/Sorting/Quicksort%202%20-%20Sorting.cpp)
+	- [Nadide's solution](https://github.com/nadide/ACM-ICPC/blob/master/problems/hackerrank/sorting/quickSort2_sorting.c)
+- [Quicksort In-Place ](https://www.hackerrank.com/challenges/quicksort3)
+	- [Nadide's solution](https://github.com/nadide/ACM-ICPC/blob/master/problems/hackerrank/sorting/quickSort_inPlace.c)
+
+
+----------
+## Counting Sort
+
+> [Tutorial]()
+
+#### Other Study Sources
+- [Wikipedia](https://en.wikipedia.org/wiki/Counting_sort)
+- [GeeksforGeeks](http://www.geeksforgeeks.org/counting-sort/)
+- [Video - Edutechional](https://www.youtube.com/watch?v=zhDmVF_NdjM)
+- [Video (Silence) - Yusuf Shakeel](https://www.youtube.com/watch?v=TTnvXY82dtM)
+ 
+#### Source Codes
+Bedir - [C++](https://github.com/BedirT/AlgorithmsL/blob/master/Algorithms/Sorting/countingSort.cpp)
+Nadide - [C](https://github.com/nadide/ACM-ICPC/blob/master/codes/sort_countingSort.c)
+
+#### Questions
+- [Counting Sort 1](https://www.hackerrank.com/challenges/countingsort1)
+	- [Bedir's solution](https://github.com/BedirT/AlgorithmsL/blob/master/Problems/HackerRank/Algorithms/Sorting/Counting%20Sort%201.cpp)
+	- [Nadide's solution](https://github.com/nadide/ACM-ICPC/blob/master/problems/hackerrank/sorting/countingSort1.c)
+- [Counting Sort 2](https://www.hackerrank.com/challenges/countingsort2)
+	- [Bedir's solution](https://github.com/BedirT/AlgorithmsL/blob/master/Problems/HackerRank/Algorithms/Sorting/Counting%20Sort%202.cpp)
+	- [Nadide's solution](https://github.com/nadide/ACM-ICPC/blob/master/problems/hackerrank/sorting/countingSort2.c)   
+- [Counting Sort 3](https://www.hackerrank.com/challenges/countingsort3)
+	 - [Bedir's solution](https://github.com/BedirT/AlgorithmsL/blob/master/Problems/HackerRank/Algorithms/Sorting/Counting%20Sort%203.cpp)
+	 - [Nadide's solution](https://github.com/nadide/ACM-ICPC/blob/master/problems/hackerrank/sorting/countingSort3.c)
+- [The Full Counting Sort](https://www.hackerrank.com/challenges/countingsort4)
+	 - [Bedir's solution](https://github.com/BedirT/AlgorithmsL/blob/master/Problems/HackerRank/Algorithms/Sorting/CountingSort4.java)
+	 - [Nadide's solution](https://github.com/nadide/ACM-ICPC/blob/master/problems/hackerrank/sorting/theFullCountingSort.c)

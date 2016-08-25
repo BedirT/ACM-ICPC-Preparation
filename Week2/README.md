@@ -1,49 +1,65 @@
 # Week 2
-<em>Started just now</em>
 
-## Problems & Solutions
-##### Quick sort
-  - Sources to study
-    - [Logic Explanatory text - mathbits.com](http://mathbits.com/MathBits/CompSci/Arrays/Quick.htm) 
-    - [Logic Explanatory text - algolist.net](http://www.algolist.net/Algorithms/Sorting/Quicksort) 
-    - [GeeksforGeeks](http://quiz.geeksforgeeks.org/quick-sort/)
-    - [Video - CS50](https://www.youtube.com/watch?v=aQiWF4E8flQ)
-  - Source Codes
-    - [Bedir](https://github.com/BedirT/AlgorithmsL/blob/master/Algorithms/Sorting/qSort.cpp)
-    - [Nadide](https://github.com/nadide/ACM-ICPC/blob/master/codes/sort_quickSort.c)
-  - Questions 
-    - [Quicksort 1 - Partition <sup>1</sup>](https://www.hackerrank.com/challenges/quicksort1)
-      - [Bedir's solution](https://github.com/BedirT/AlgorithmsL/blob/master/Problems/HackerRank/Algorithms/Sorting/Quicksort%201%20-%20Partition.cpp) 
-      - [Nadide's solution](https://github.com/nadide/ACM-ICPC/blob/master/problems/hackerrank/sorting/quickSort1_partition.c)
-    - [Quicksort 2 - Sorting <sup>2</sup>](https://www.hackerrank.com/challenges/quicksort2)
-      - [Bedir's solution](https://github.com/BedirT/AlgorithmsL/blob/master/Problems/HackerRank/Algorithms/Sorting/Quicksort%202%20-%20Sorting.cpp)
-      - [Nadide's solution](https://github.com/nadide/ACM-ICPC/blob/master/problems/hackerrank/sorting/quickSort2_sorting.c)
-    - [Quicksort In-Place <sup>3</sup>](https://www.hackerrank.com/challenges/quicksort3)
-        - [Nadide's solution](https://github.com/nadide/ACM-ICPC/blob/master/problems/hackerrank/sorting/quickSort_inPlace.c)
+----------
+## GCD and LCM Euclid’s Algorithm
 
-##### Counting sort
- - Sources to study
-    - [Wikipedia](https://en.wikipedia.org/wiki/Counting_sort)
-    - [GeeksforGeeks](http://www.geeksforgeeks.org/counting-sort/)
-    - [Video - Edutechional](https://www.youtube.com/watch?v=zhDmVF_NdjM)
-    - [Video (Silence) - Yusuf Shakeel](https://www.youtube.com/watch?v=TTnvXY82dtM)
- - Source Codes
-    - [Bedir](https://github.com/BedirT/AlgorithmsL/blob/master/Algorithms/Sorting/countingSort.cpp)
-    - [Nadide](https://github.com/nadide/ACM-ICPC/blob/master/codes/sort_countingSort.c)
- - Questions
-    - [Counting Sort 1 <sup>4</sup>](https://www.hackerrank.com/challenges/countingsort1)
-      - [Bedir's solution](https://github.com/BedirT/AlgorithmsL/blob/master/Problems/HackerRank/Algorithms/Sorting/Counting%20Sort%201.cpp)
-      - [Nadide's solution](https://github.com/nadide/ACM-ICPC/blob/master/problems/hackerrank/sorting/countingSort1.c)
-    - [Counting Sort 2 <sup>5</sup>](https://www.hackerrank.com/challenges/countingsort2)
-      - [Bedir's solution](https://github.com/BedirT/AlgorithmsL/blob/master/Problems/HackerRank/Algorithms/Sorting/Counting%20Sort%202.cpp) 
-      - [Nadide's solution](https://github.com/nadide/ACM-ICPC/blob/master/problems/hackerrank/sorting/countingSort2.c)   
-    - [Counting Sort 3 <sup>6</sup>](https://www.hackerrank.com/challenges/countingsort3)
-      - [Bedir's solution](https://github.com/BedirT/AlgorithmsL/blob/master/Problems/HackerRank/Algorithms/Sorting/Counting%20Sort%203.cpp) 
-      - [Nadide's solution](https://github.com/nadide/ACM-ICPC/blob/master/problems/hackerrank/sorting/countingSort3.c)
-    - [The Full Counting Sort <sup>7</sup>](https://www.hackerrank.com/challenges/countingsort4)
-      - [Bedir's solution](https://github.com/BedirT/AlgorithmsL/blob/master/Problems/HackerRank/Algorithms/Sorting/CountingSort4.java)
-      - [Nadide's solution](https://github.com/nadide/ACM-ICPC/blob/master/problems/hackerrank/sorting/theFullCountingSort.c)
+> [Tutorial]() 
 
-####References
-  - <sup>1,2,3,4,5,6,7</sup> Problem Source: [HackerRank](www.hackerrank.com)
+#### Other Study Sources
+- [Wikipedia](https://en.wikipedia.org/wiki/Euclidean_algorithm)
+- [Youtube - Learn Math Tutorials](https://www.youtube.com/watch?v=JUzYl1TYMcU)
+- [GeeksforGeeks](http://www.geeksforgeeks.org/basic-and-extended-euclidean-algorithms/)
 
+
+### Greatest Common Division (GCD)
+
+#### Source Codes
+- Bedir - [C++](https://github.com/BedirT/AlgorithmsL/blob/master/Algorithms/Math/GCD%20and%20LCM%20Euclid%20Algorithm.cpp)
+- Nadide - [C++](https://github.com/nadide/ACM-ICPC/blob/master/codes/math_GCD.cpp)
+
+#### Questions    
+- [Sherlock and GCD](https://www.hackerrank.com/challenges/sherlock-and-gcd?h_r=internal-search)
+    - [Nadide's Solution](https://github.com/nadide/ACM-ICPC/blob/master/problems/hackerrank/mathematics/sherlockAndGCD.c)
+    - [Bedir's Solution](https://github.com/BedirT/AlgorithmsL/blob/master/Problems/HackerRank/Math/Sherlock%20and%20GCD.cpp)
+- [Complicated GCD](http://codeforces.com/contest/664/problem/A)
+    - [Bedir's Solution](https://github.com/BedirT/AlgorithmsL/blob/master/Problems/Curriculum%20Q's/Week%201/Complicated%20GCD.cpp)   
+
+
+### Least Common Multiple (LCM)
+
+#### Source Codes
+- Bedir - [C++](https://github.com/BedirT/AlgorithmsL/blob/master/Algorithms/Math/GCD%20and%20LCM%20Euclid%20Algorithm.cpp)
+- Nadide - [C++](https://github.com/nadide/ACM-ICPC/blob/master/codes/math_LCM.cpp)
+
+#### Questions
+
+
+----------
+## Long Arithmetic (Multi, Sum, Div, Sub)
+
+> [Tutorial]()
+
+
+### Summation
+ 
+#### Source Codes
+- Bedir - [C++](https://github.com/BedirT/AlgorithmsL/blob/master/Algorithms/Math/extra_long_sum.cpp)
+- Nadide - [C](https://github.com/nadide/ACM-ICPC/blob/master/codes/math_longArithmatic_Add.c)
+
+
+### Substraction
+
+#### Source Codes
+- Bedir - [C++](https://github.com/BedirT/AlgorithmsL/blob/master/Algorithms/Math/extra_long_sub.cpp)
+
+
+### Multiplication
+
+#### Source Codes
+- Bedir - [C++](https://github.com/BedirT/AlgorithmsL/blob/master/Algorithms/Math/extra_long_mult.cpp)
+- Nadide - [C](https://github.com/nadide/ACM-ICPC/blob/master/codes/math_longArithmatic_Mult.c)
+#### Questions
+- [Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials?h_r=internal-search)
+	- [Bedir's Solution](https://github.com/BedirT/AlgorithmsL/blob/master/Problems/HackerRank/Algorithms/Implementation/Extra%20Long%20Factorial.cpp)
+	- [Nadide's Solution](https://github.com/nadide/ACM-ICPC/blob/master/problems/hackerrank/extraLongFactorials.c)
+- [Power of Large numbers](https://www.hackerrank.com/challenges/power-of-large-numbers)

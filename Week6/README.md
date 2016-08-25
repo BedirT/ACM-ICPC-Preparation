@@ -1,37 +1,66 @@
 # Week 6
 
-## Problems & Solutions
-#### Bellman-Ford
-  - Sources to study
-      - [Youtube - Michael Sambol - Theory](https://www.youtube.com/watch?v=9PHkk0UavIM)   [Youtube - Michael Sambol - Example](https://www.youtube.com/watch?v=obWXjtg0L64)
-      - [GeeksforGeeks](http://www.geeksforgeeks.org/dynamic-programming-set-23-bellman-ford-algorithm/)
-      - [Stackoverflow - Difference Between Djikstra & Bellman Ford](http://stackoverflow.com/questions/16273092/difference-between-bellman-ford-and-dijkstras-algorithm)
-  - Source Codes
-      - [Bedir](https://github.com/BedirT/AlgorithmsL/blob/master/Algorithms/Graph/FBellman_own.cpp)
-      - [Nadide](https://github.com/nadide/ACM-ICPC/blob/master/codes/dynamic_bellmanFord.cpp)
-  - Questions
-      - [Travel Company](http://www.lightoj.com/volume_showproblem.php?problem=1221)
-      - [Instant View of Big Bang](http://www.lightoj.com/volume_showproblem.php?problem=1108)
+----------
+## Linked List 
+
+> [Tutorial]()
+
+#### Other Study Sources
 
 
-#### Floyd Warshall (All Pairs Shortest Path)
-  - Sources to study
-      - [GeeksForGeeks](http://www.geeksforgeeks.org/dynamic-programming-set-16-floyd-warshall-algorithm/)
-      - [Youtube - Romesh Malinga Perera](https://www.youtube.com/watch?v=9QV6QpyhN0o)( _No Sound_ ) 
-      - [Youtube - Quinston Pimenta](https://www.youtube.com/watch?v=K6rI0umX-28)
-      - [Cédric Verstraeten's Blog](https://blog.cedric.ws/c-floyd-warshall-shortest-distance-explanation-code) ( _Recommended_ )
-  - Source Codes
-      - [Nadide](https://github.com/nadide/ACM-ICPC/blob/master/codes/graph_FloydWarshall.c)
-      - [Bedir](https://github.com/BedirT/AlgorithmsL/blob/master/Algorithms/Dynamic/Floyd%20Wolsher.c)
-  - Questions
-      - [Floyd City of Lights](https://www.hackerrank.com/challenges/floyd-city-of-blinding-lights?h_r=internal-search)
-          - [Nadide's solution](https://github.com/nadide/ACM-ICPC/blob/master/problems/hackerrank/graph/floydCityOfBlindingLights.c)
-          - [Bedir's solution](https://github.com/BedirT/AlgorithmsL/blob/master/Problems/HackerRank/Algorithms/Graph%20Theory/Floyd%20City%20of%20Blinding%20Lights.cpp)
-      - [Arbitrage](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=40)
-      - [API-Maelstrom](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=364)
+----------
+## Dijkstra’s Shortest Path
 
-  - References
-      - www.uva.onlinejudge.org
-      - www.hackerrank.com
-      - blog.cedric.ws
-      - www.geeksforgeeks.org
+> [Tutorial]()
+
+#### Other Study Sources
+- [Youtube - Santitham Prom-on](https://www.youtube.com/watch?v=WN3Rb9wVYDY)
+- [Youtube - distanceedjohn](https://www.youtube.com/watch?v=8Ls1RqHCOPw)
+- [GeeksForGeeks](http://www.geeksforgeeks.org/greedy-algorithms-set-6-dijkstras-shortest-path-algorithm/)
+ 
+#### Source Codes
+- Bedir - [C++](https://github.com/BedirT/AlgorithmsL/blob/master/Algorithms/Graph/djikstra.cpp)
+- Nadide - [C](https://github.com/nadide/ACM-ICPC/blob/master/codes/graph_Dijkstra.c)
+
+#### Questions
+- [Djikstra Shortest Reach](https://www.hackerrank.com/challenges/dijkstrashortreach)
+	- [Nadide's Solution](https://github.com/nadide/ACM-ICPC/blob/master/problems/hackerrank/graph/dijkstraShortestPath.c)
+	- [Bedir's Solution](https://github.com/BedirT/AlgorithmsL/blob/master/Problems/HackerRank/Algorithms/Graph%20Theory/Dijkstra_Shortest%20Reach%202.cpp)
+- [Travel cost](http://www.spoj.com/problems/TRVCOST/)
+	- [Bedir's Solution](https://github.com/BedirT/AlgorithmsL/blob/master/Problems/Curriculum%20Q's/Week%205/TRVCOST%20-%20Travelling%20cost.cpp) 
+- [Small Quiz by GeeksForGeeks](http://quiz.geeksforgeeks.org/algorithms/graph-shortest-paths/)
+
+
+----------
+## Minimum Spanning Tree (MST)
+
+> [Tutorial]()
+
+#### Other Study Sources
+ 
+#### Source Codes
+
+#### Questions
+
+
+----------
+## Floyd Warshall (All Pairs Shortest Path)
+
+> [Tutorial]()
+
+#### Other Study Sources
+- [GeeksForGeeks](http://www.geeksforgeeks.org/dynamic-programming-set-16-floyd-warshall-algorithm/)
+- [Youtube - Romesh Malinga Perera](https://www.youtube.com/watch?v=9QV6QpyhN0o)
+- [Youtube - Quinston Pimenta](https://www.youtube.com/watch?v=K6rI0umX-28)
+- [Cédric Verstraeten's Blog](https://blog.cedric.ws/c-floyd-warshall-shortest-distance-explanation-code) 
+ 
+#### Source Codes
+- Bedir - [C](https://github.com/BedirT/AlgorithmsL/blob/master/Algorithms/Dynamic/Floyd%20Wolsher.c)
+- Nadide - [C](https://github.com/nadide/ACM-ICPC/blob/master/codes/graph_FloydWarshall.c)
+
+#### Questions
+- [Floyd City of Lights](https://www.hackerrank.com/challenges/floyd-city-of-blinding-lights?h_r=internal-search)
+	- [Nadide's solution](https://github.com/nadide/ACM-ICPC/blob/master/problems/hackerrank/graph/floydCityOfBlindingLights.c)
+	- [Bedir's solution](https://github.com/BedirT/AlgorithmsL/blob/master/Problems/HackerRank/Algorithms/Graph%20Theory/Floyd%20City%20of%20Blinding%20Lights.cpp)
+- [Arbitrage](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=40)
+- [API-Maelstrom](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=364)

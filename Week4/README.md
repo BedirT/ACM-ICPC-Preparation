@@ -1,42 +1,42 @@
 # Week 4
-<em>July 10th</em>
 
-A basic solution for finding prime numbers ... And two version of Long Arithmetic algorithms, Plus-Minus and Division-Multiplication.
+----------
+## Merge Sort
 
-## Problems & Solutions
-##### Sieve of Eratosthenes (Prime Numbers)
-  - Sources to study
-    - [Youtube - Region 10 ESC](https://www.youtube.com/watch?v=V08g_lkKj6Q)
-    - [GeeksForGeeks](http://www.geeksforgeeks.org/sieve-of-eratosthenes/)
-  - Source Codes
-    - [Bedir](https://github.com/BedirT/AlgorithmsL/blob/master/Algorithms/Math/Sieve%20of%20Eratorthenes.cpp)
-    - [Nadide](https://github.com/nadide/ACM-ICPC/blob/master/codes/math_primeNumbers.c)
-  - Questions
-    - [Just a Small Implementation](https://wiki.haskell.org/99_questions/Solutions/39)
-      - [Bedir's Solution](https://github.com/BedirT/AlgorithmsL/blob/master/Problems/Curriculum%20Q's/Week%204/sieve%20question.cpp)
-    - [Distinct Primes](http://www.spoj.com/problems/AMR11E/)
-      - [Bedir's Solution](https://github.com/BedirT/AlgorithmsL/blob/master/Problems/Curriculum%20Q's/Week%204/AMR11E%20-%20Distinct%20Primes.cpp)
+> [Tutorial]()
 
-##### Long arithmetic - Plus, Minus
- - Sources to study
- - Source Codes
-    - Bedir
-      - [Summation](https://github.com/BedirT/AlgorithmsL/blob/master/Algorithms/Math/extra_long_sum.cpp)
-      - [Substraction](https://github.com/BedirT/AlgorithmsL/blob/master/Algorithms/Math/extra_long_sub.cpp)
-    - [Nadide](https://github.com/nadide/ACM-ICPC/blob/master/codes/math_longArithmatic_Add.c)
+#### Other Study Sources
+ 
+#### Source Codes
 
-##### Long arithmetic - Div, Multiply
-- Sources to study
-- Source Codes
-    - [Bedir](https://github.com/BedirT/AlgorithmsL/blob/master/Algorithms/Math/extra_long_mult.cpp)
-    - [Nadide](https://github.com/nadide/ACM-ICPC/blob/master/codes/math_longArithmatic_Mult.c)
-- Questions
-    - [Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials?h_r=internal-search)
-      - [Bedir's Solution](https://github.com/BedirT/AlgorithmsL/blob/master/Problems/HackerRank/Algorithms/Implementation/Extra%20Long%20Factorial.cpp)
-      - [Nadide's Solution](https://github.com/nadide/ACM-ICPC/blob/master/problems/hackerrank/extraLongFactorials.c)
-    - [Power of Large numbers](https://www.hackerrank.com/challenges/power-of-large-numbers)
+#### Questions
 
 
-#### References
-  
+----------
+## Binary Search
 
+> [Tutorial]()
+
+#### Other Study Sources
+- [Youtube - Reallearning](https://www.youtube.com/watch?v=vohuRrwbTT4) (_Recommended_)
+- [Topcoder](https://www.topcoder.com/community/data-science/data-science-tutorials/binary-search/)
+- [Wikipedia](https://en.wikipedia.org/wiki/Binary_search_algorithm)
+- [Interview Cake](https://www.interviewcake.com/concept/java/binary-search) 
+ 
+#### Source Codes
+- Bedir - [C++](https://github.com/BedirT/AlgorithmsL/blob/master/Algorithms/Searching/binarySearch.cpp)
+- Nadide- [C](https://github.com/nadide/ACM-ICPC/blob/master/codes/search_binarySearch.c)
+
+#### Questions
+- Small interview question that will make you practice this topic: [Ordered Set](https://www.interviewcake.com/question/python/find-in-ordered-set)
+	- ( _Solution is as same as the normal source code_ )
+- [Search Insert Position](https://leetcode.com/problems/search-insert-position/)
+	- [Bedir's Solution](https://github.com/BedirT/AlgorithmsL/blob/master/Problems/Curriculum%20Q's/Week%203/Search%20Insert%20Position.cpp)
+	- [Nadide's Solution](https://github.com/nadide/ACM-ICPC/blob/master/problems/other/insertPosition.c)
+- [10 beautiful practice question](http://www.infoarena.ro/blog/binary-search-shortlist)
+	- [Bedir's Solutions](https://github.com/BedirT/AlgorithmsL/tree/master/Problems/Curriculum%20Q's/Week%203/Binary%20Search%20Shortlist)
+- [Ice Cream Parlor](https://www.hackerrank.com/challenges/icecream-parlor)
+	- [Nadide's solution](https://github.com/nadide/ACM-ICPC/blob/master/problems/hackerrank/X_iceCreamParlor.c)
+- [Maximum Subarray Sum](https://www.hackerrank.com/challenges/maximum-subarray-sum)
+	- [Nadide's solution](https://github.com/nadide/ACM-ICPC/blob/master/problems/hackerrank/X_maximumSubarraySum.cpp)
+      
