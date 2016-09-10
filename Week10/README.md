@@ -29,6 +29,9 @@
 #### Source Codes
 
 #### Questions
+- [Arya Revenge](/Problems/Min-Cut_Max-Flow-01.pdf)
+- [Internet Bandwidth](/Problems/Min-Cut_Max-Flow-02.pdf)
+- [March of the Penguins](/Problems/Min-Cut_Max-Flow-03.pdf)
 
 
 
