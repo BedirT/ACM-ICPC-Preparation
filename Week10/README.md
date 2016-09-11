@@ -25,6 +25,7 @@
 #### [Tutorial]()
 
 #### Other Study Sources
+- [Youtube - Introduction to Network Flow and Ford-Fulkerson Algorithm](https://www.youtube.com/watch?v=_G6_-ljgmXE)
  
 #### Source Codes
 
