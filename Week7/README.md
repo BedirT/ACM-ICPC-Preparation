@@ -41,3 +41,5 @@
 - [Garbage Heap](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1696)
 - [Hotels Along the Croatian Coast](http://www.spoj.com/problems/HOTELS/)
 - [Maximum Sum](http://acm.timus.ru/problem.aspx?space=1&num=1146)
+- [Maximum Subrarray](https://www.hackerrank.com/challenges/maxsubarray)
+ - [Bedir's Solution](https://github.com/BedirT/Algorithms_and_DS/blob/master/Problems/HackerRank/Algorithms/Dynamic%20Programming/Maximum%20Subarray.cpp)
