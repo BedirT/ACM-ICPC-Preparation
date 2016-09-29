@@ -32,16 +32,18 @@
 
 
 
-## Minimum Spanning Tree (MST)
+## Prim's Minimum Spanning Tree (MST)
 
-#### [Tutorial]()
+#### [Tutorial](http://nadide.github.io/Minimum-Spanning-Tree-Algo/)
 
 #### Other Study Sources
 - [GeeksForGeeks](http://www.geeksforgeeks.org/greedy-algorithms-set-2-kruskals-minimum-spanning-tree-mst/) 
 
 #### Source Codes
+- Nadide - [C++](https://github.com/nadide/ACM-ICPC/blob/master/codes/graph_primMST2.cpp)
 
 #### Questions
+- [Prim's (MST) : Special Subtree](https://www.hackerrank.com/contests/master/challenges/primsmstsub?h_r=internal-search)
 
 
 ## Floyd Warshall (All Pairs Shortest Path)
