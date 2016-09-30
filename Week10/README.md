@@ -49,5 +49,6 @@
 
 #### Questions
 - [The Longest Increasing Subsequence](https://www.hackerrank.com/challenges/longest-increasing-subsequent)
+ - [Bedir's Solution](https://github.com/BedirT/Algorithms_and_DS/blob/master/Problems/HackerRank/Algorithms/Dynamic%20Programming/The%20Longest%20Increasing%20Subsequence.cpp)
 - [Another Longest Increasing Subsequence Problem](http://www.spoj.com/problems/LIS2/)
 - [Longest Increasing Subsequences](https://www.codechef.com/problems/MAKELIS)
