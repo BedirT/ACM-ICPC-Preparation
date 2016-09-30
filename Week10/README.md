@@ -41,7 +41,13 @@
 #### [Tutorial]()
 
 #### Other Study Sources
+- [GeeksforGeeks](http://www.geeksforgeeks.org/dynamic-programming-set-3-longest-increasing-subsequence/)
  
 #### Source Codes
+- [Bedir - Dynamic solution](https://github.com/BedirT/Algorithms_and_DS/blob/master/Algorithms/Dynamic/LIS_Dynamic.cpp) _Complexity is O(n^2)_
+- [Bedir - O(nlogn) solution](https://github.com/BedirT/Algorithms_and_DS/blob/master/Algorithms/Dynamic/LIS_nLogn.cpp) _This is not a Dynamic approach but it is more efficient_
 
 #### Questions
+- [The Longest Increasing Subsequence](https://www.hackerrank.com/challenges/longest-increasing-subsequent)
+- [Another Longest Increasing Subsequence Problem](http://www.spoj.com/problems/LIS2/)
+- [Longest Increasing Subsequences](https://www.codechef.com/problems/MAKELIS)
