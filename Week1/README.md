@@ -3,7 +3,7 @@
 
 ## Prime Numbers (Sieve of Eratosthenes)
 
-#### [Tutorial]() 
+#### [Tutorial](https://github.com/NAU-ACM/ACM-ICPC-Preparation/blob/master/Week1/Sieve-of-Eretosthenes/README.md) 
 
 #### Other Study Sources
 - [Youtube - Region 10 ESC](https://www.youtube.com/watch?v=V08g_lkKj6Q)
