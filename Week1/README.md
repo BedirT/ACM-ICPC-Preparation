@@ -12,6 +12,7 @@
 #### Source Codes
 - Bedir - [C++](https://github.com/BedirT/AlgorithmsL/blob/master/Algorithms/Math/Sieve%20of%20Eratorthenes.cpp)
 - Nadide - [C](https://github.com/nadide/ACM-ICPC/blob/master/codes/math_primeNumbers.c)
+- Almaz - [C++](https://github.com/NAU-ACM/ACM-ICPC-Preparation/tree/master/Week1/Sieve-of-Eretosthenes)
 
 #### Questions
 - [Just a Small Implementation](https://wiki.haskell.org/99_questions/Solutions/39)
