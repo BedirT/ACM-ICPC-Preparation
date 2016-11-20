@@ -18,6 +18,8 @@
 	- [Bedir's Solution](https://github.com/BedirT/AlgorithmsL/blob/master/Problems/Curriculum%20Q's/Week%204/sieve%20question.cpp)
 - [Distinct Primes](http://www.spoj.com/problems/AMR11E/)
 	- [Bedir's Solution](https://github.com/BedirT/AlgorithmsL/blob/master/Problems/Curriculum%20Q's/Week%204/AMR11E%20-%20Distinct%20Primes.cpp)
+- [Noldbach problem] (http://codeforces.com/problemset/problem/17/A?locale=en)
+	- [Almaz's Solution] (I will add later =D)
 
 
 
