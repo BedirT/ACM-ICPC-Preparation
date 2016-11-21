@@ -21,19 +21,25 @@
 	- [Bedir's Solution](https://github.com/BedirT/AlgorithmsL/blob/master/Problems/Curriculum%20Q's/Week%204/AMR11E%20-%20Distinct%20Primes.cpp)
 - [Noldbach problem](http://codeforces.com/problemset/problem/17/A?locale=en)
 	- [Almaz's Solution](I will add later =D)
+	- [Bedir's Solution](https://github.com/NAU-ACM/Competitive-Programming/blob/master/CodeForces/Practices/Noldbach%20problem.cpp)
 
 
 
 ## Efficient Prime Factorization
 
-#### [Tutorial]()
+#### [Tutorial](http://bedirtapkan.me/Prime-Number-Factorization/)
 
 #### Other Study Sources
+- [Stackoverflow - Check Answers](http://stackoverflow.com/questions/26344081/efficient-prime-factorization-for-large-numbers)
+- [Competitive Programming 3 by Steven & Felix Halim - Page 212](https://www.amazon.com/Competitive-Programming-3rd-Steven-Halim/dp/B00FG8MNN8)
  
 #### Source Codes
 - Bedir - [C++](https://github.com/NAU-ACM/ACM-ICPC-Preparation/tree/master/Week1/Prime-Factorization/primeFactorization.cpp)
 
 #### Questions
+- [Medium Factorization](http://www.spoj.com/problems/FACTCG2/)
+	- [Bedir's Solution](https://github.com/NAU-ACM/Competitive-Programming/blob/master/SPOJ/Medium%20Factorization.cpp)
+- [Factorization](https://www.codechef.com/problems/FACTORIZ)
 
 
 
