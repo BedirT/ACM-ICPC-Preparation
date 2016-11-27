@@ -50,5 +50,6 @@
 #### Other Study Sources
  
 #### Source Codes
+- Nadide - [C++](https://github.com/nadide/ACM-ICPC/blob/master/codes/math_modExponent.cpp)
 
 #### Questions
