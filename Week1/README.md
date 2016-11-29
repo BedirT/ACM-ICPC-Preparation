@@ -45,11 +45,14 @@
 
 ## Modular Exponentiation
 
-#### [Tutorial]()
+#### [Tutorial](http://nadide.github.io/Modular-Exponentiation/)
  
 #### Other Study Sources
- 
+- [Topcoder](https://www.topcoder.com/community/data-science/data-science-tutorials/primality-testing-non-deterministic-algorithms/) 
+- [Video Tutorial](https://www.youtube.com/watch?v=nO7_qu2kd1Q)
+
 #### Source Codes
 - Nadide - [C++](https://github.com/nadide/ACM-ICPC/blob/master/codes/math_modExponent.cpp)
 
 #### Questions
+- [Power of Large Numbers](https://www.hackerrank.com/challenges/power-of-large-numbers)
