@@ -14,16 +14,16 @@ This program developed to learn Algorithms for using in Competitive Prorgamming,
   - To know at least one programming language well. (_You have to be able to use the language efficiently._)
   - You have to be familiarize with some of the basic Data Structures (Array, Stack, Queue, etc.) (_Although if you don't know some of them, you may learn it when you come accross._)
   
-######_PS: I am saying "Any programming language" but in this course mostly we used C, C++ and some Java. But still you can follow the curriculum without any knowladge of these languages_
+######_PS: I am saying "Any programming language" but in this course mostly we used C, C++ and some Java. But still you can follow the curriculum without any knowledge of these languages_
 
 In the program there is only guidence, so we did not add many content apart from that already exist. We just collected good sources to learn in one place, so that one can follow up and learn. The course includes Algorithms and a bit Data Structures. You need to follow the the curriculum week by week.
 
 **Basic fallowing guide would be to:**
   1. See the sources to study
   2. Get the logic and try to code it without looking other codes
-  3. When you stuck(You really should try first) or when you done, look at the source codes, and compare it with yours, so that you can see what would be the best approach about that Algorithm. You may not like others, or you may find some of them useful.
-  4. After feeling comfortable with the code itself, try to solve the questions
-  5. When you done with solving or stuck (Again ...) check others solutions and try to understand your mistake or (if exists) better aproach.
+  3. When you are stuck(you really should try first) or when you are done, look at the source codes, and compare it with yours so that you can see what would be the best approach for that Algorithm. You may not like others, or you may find some of them useful.
+  4. After feeling comfortable with the code itself, try to solve the questions.
+  5. When you are done with solving or are stuck(again ...) check other solutions and try to understand your mistake or if a better aproach exists.
  
 ## Resources
 
