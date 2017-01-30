@@ -27,7 +27,7 @@
 
 ## Efficient Prime Factorization
 
-#### [Tutorial](http://bedirtapkan.me/Prime-Number-Factorization/)
+#### [Tutorial](http://bedirtapkan.com/Prime-Number-Factorization/)
 
 #### Other Study Sources
 - [Stackoverflow - Check Answers](http://stackoverflow.com/questions/26344081/efficient-prime-factorization-for-large-numbers)
