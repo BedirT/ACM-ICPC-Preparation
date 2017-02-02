@@ -27,13 +27,13 @@
 
 ## Counting Sort
 
-#### [Tutorial]()
+#### [Tutorial](http://bedirtapkan.com/counting-sort/)
 
 #### Other Study Sources
 - [Wikipedia](https://en.wikipedia.org/wiki/Counting_sort)
 - [GeeksforGeeks](http://www.geeksforgeeks.org/counting-sort/)
 - [Video - Edutechional](https://www.youtube.com/watch?v=zhDmVF_NdjM)
-- [Video (Silence) - Yusuf Shakeel](https://www.youtube.com/watch?v=TTnvXY82dtM)
+- [Video (Silent) - Yusuf Shakeel](https://www.youtube.com/watch?v=TTnvXY82dtM)
  
 #### Source Codes
 Bedir - [C++](https://github.com/BedirT/AlgorithmsL/blob/master/Algorithms/Sorting/countingSort.cpp)
