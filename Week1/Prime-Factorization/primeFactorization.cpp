@@ -15,7 +15,7 @@ void sieve(int size) {
 	for (int i = 2; i <= size; i++) 
   		if (was[i]) {
   			primes.push_back(i);
-	    	for (int j = i * i; j <= size; j += i) was[j] = 0;
+	    		for (int j = i * i; j <= size; j += i) was[j] = 0;
   		}
 }
 
