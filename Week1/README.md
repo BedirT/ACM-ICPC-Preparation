@@ -40,9 +40,6 @@
 #### Questions
 - [Medium Factorization](http://www.spoj.com/problems/FACTCG2/)
 	- [Bedir's Solution](https://github.com/NAU-ACM/Competitive-Programming/blob/master/SPOJ/Medium%20Factorization.cpp)
-- [Factorization](https://www.codechef.com/problems/FACTORIZ)
-
-
 
 ## Modular Exponentiation
 
