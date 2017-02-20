@@ -34,6 +34,7 @@
 - [10 beautiful practice question](http://www.infoarena.ro/blog/binary-search-shortlist)
 	- [Bedir's Solutions](https://github.com/BedirT/AlgorithmsL/tree/master/Problems/Curriculum%20Q's/Week%203/Binary%20Search%20Shortlist)
 - [Ice Cream Parlor](https://www.hackerrank.com/challenges/icecream-parlor)
+    - [Bedir's solution](https://github.com/NAU-ACM/Competitive-Programming/blob/master/HackerRank/Practices/Algorithms/Search/Ice%20Cream%20Parlor.cpp)
 	- [Nadide's solution](https://github.com/nadide/ACM-ICPC/blob/master/problems/hackerrank/X_iceCreamParlor.c)
 - [Maximum Subarray Sum](https://www.hackerrank.com/challenges/maximum-subarray-sum)
 	- [Nadide's solution](https://github.com/nadide/ACM-ICPC/blob/master/problems/hackerrank/X_maximumSubarraySum.cpp)
