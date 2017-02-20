@@ -57,3 +57,4 @@
 
 #### Questions
 - [Power of Large Numbers](https://www.hackerrank.com/challenges/power-of-large-numbers)
+	- [Bedir's Solution](https://github.com/NAU-ACM/Competitive-Programming/blob/master/HackerRank/Practices/Math/PowerOfLargeNumbers.py)
