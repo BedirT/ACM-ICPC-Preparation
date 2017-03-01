@@ -57,7 +57,7 @@
 - [Cédric Verstraeten's Blog](https://blog.cedric.ws/c-floyd-warshall-shortest-distance-explanation-code) 
  
 #### Source Codes
-- Bedir - [C](https://github.com/BedirT/AlgorithmsL/blob/master/Algorithms/Dynamic/Floyd%20Wolsher.c)
+- Bedir - [C++](https://github.com/BedirT/Algorithms_and_DS/blob/master/Algorithms/Dynamic/Floyd%20Warshall.cpp)
 - Nadide - [C](https://github.com/nadide/ACM-ICPC/blob/master/codes/graph_FloydWarshall.c)
 
 #### Questions
