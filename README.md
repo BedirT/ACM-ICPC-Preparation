@@ -14,7 +14,7 @@ This program developed to learn Algorithms for using in Competitive Prorgamming,
   - To know at least one programming language well. (_You have to be able to use the language efficiently._)
   - You have to be familiarize with some of the basic Data Structures (Array, Stack, Queue, etc.) (_Although if you don't know some of them, you may learn it when you come accross._)
   
-######_PS: I am saying "Any programming language" but in this course mostly we used C, C++ and some Java. But still you can follow the curriculum without any knowledge of these languages_
+###### _PS: I am saying "Any programming language" but in this course mostly we used C, C++ and some Java. But still you can follow the curriculum without any knowledge of these languages_
 
 In the program there is only guidence, so we did not add many content apart from that already exist. We just collected good sources to learn in one place, so that one can follow up and learn. The course includes Algorithms and a bit Data Structures. You need to follow the the curriculum week by week.
 
@@ -167,5 +167,5 @@ Here are the topics we included in this curriculum.
 - Almaz Tukenov . . . . . . . . . .<a  href = "https://www.linkedin.com/in/atukenov"><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/2000px-Linkedin_icon.svg.png" height = "21" ></a> <a  href = "https://github.com/atukenov"><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/500px-Octicons-mark-github.svg.png" height = "20" ></a>
 - Inamullah Rasuna Muhammad . . . .<a  href = "https://www.linkedin.com/in/inamullahmuhammad"><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/2000px-Linkedin_icon.svg.png" height = "21" ></a> <a  href = "https://github.com/irasuna"><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/500px-Octicons-mark-github.svg.png" height = "20" ></a>
 
-######A [NAU-ACM](https://nauacmrocks.azurewebsites.net) Project
+###### A [NAU-ACM](https://nauacmrocks.azurewebsites.net) Project
 
