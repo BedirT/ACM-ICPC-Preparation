@@ -66,7 +66,7 @@
 - [Wikipedia](https://en.wikipedia.org/wiki/Range_minimum_query)
 
 #### Source Codes
-- Bedir - [C++](https://github.com/BedirT/AlgorithmsL/blob/master/Algorithms/Math/RMQ.cpp)
+- Bedir - [C++](https://github.com/BedirT/Algorithms_and_DS/blob/master/Algorithms/Graph/RMQ.cpp)
 - Nadide - [C++](https://github.com/nadide/ACM-ICPC/blob/master/codes/tree_RMQ.cpp)
 
 #### Questions
