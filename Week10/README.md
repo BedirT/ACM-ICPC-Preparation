@@ -42,6 +42,7 @@
 
 #### Other Study Sources
 - [GeeksforGeeks](http://www.geeksforgeeks.org/dynamic-programming-set-3-longest-increasing-subsequence/)
+- [GeeksforGeeks-nlogn](http://www.geeksforgeeks.org/longest-monotonically-increasing-subsequence-size-n-log-n/)
  
 #### Source Codes
 - [Bedir - Dynamic solution](https://github.com/BedirT/Algorithms_and_DS/blob/master/Algorithms/Dynamic/LIS_Dynamic.cpp) _Complexity is O(n^2)_
