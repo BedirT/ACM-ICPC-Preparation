@@ -6,11 +6,15 @@
 > [Tutorial]()
 
 #### Other Study Sources
- 
+- [GeeksforGeeks](http://www.geeksforgeeks.org/dynamic-programming-set-10-0-1-knapsack-problem/)
+- [Youtube - CS Dojo](https://www.youtube.com/watch?v=xOlhR_2QCXY)
+
 #### Source Codes
+- [BedirT - Optimized Knapsack](https://github.com/BedirT/Algorithms_and_DS/blob/master/Algorithms/Dynamic/Optimized%20Knapsack.cpp)
+- [BedirT - Knapsack](https://github.com/BedirT/Algorithms_and_DS/blob/master/Algorithms/Dynamic/Knapsack%20Algorithm.cpp)
 
 #### Questions
-
+- [13-Dots](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1760)
 
 
 ## Coin Change
