@@ -22,11 +22,14 @@
 > [Tutorial]()
 
 #### Other Study Sources
- 
+- [Youtube - ONeill Code](https://www.youtube.com/watch?v=jaNZ83Q3QGc&t=205s)
+
 #### Source Codes
+- [BedirT](https://github.com/NAU-ACM/ICPC-Question-Solving/blob/master/BedirT/Chapter%203/UVa%20-%2000357.cpp)
 
 #### Questions
-
+- [Let me count the ways](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=293)
+ - [Bedir's solution](https://github.com/NAU-ACM/ICPC-Question-Solving/blob/master/BedirT/Chapter%203/UVa%20-%2000357.cpp)
 
 
 ## Kadane
