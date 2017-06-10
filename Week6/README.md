@@ -40,7 +40,8 @@
 - [GeeksForGeeks](http://www.geeksforgeeks.org/greedy-algorithms-set-2-kruskals-minimum-spanning-tree-mst/) 
 
 #### Source Codes
-- Nadide - [C++](https://github.com/nadide/ACM-ICPC/blob/master/codes/graph_primMST2.cpp)
+- Nadide - [C++, Prim's Algo](https://github.com/nadide/ACM-ICPC/blob/master/codes/graph_primMST2.cpp)
+- Bedir - [C++, Kruskal's Algo](https://github.com/BedirT/Algorithms_and_DS/blob/master/Algorithms/Graph/MST%20-%20Kruskal's%20Algo.cpp)
 
 #### Questions
 - [Prim's (MST) : Special Subtree](https://www.hackerrank.com/contests/master/challenges/primsmstsub?h_r=internal-search)
@@ -66,3 +67,14 @@
 	- [Bedir's solution](https://github.com/BedirT/AlgorithmsL/blob/master/Problems/HackerRank/Algorithms/Graph%20Theory/Floyd%20City%20of%20Blinding%20Lights.cpp)
 - [Arbitrage](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=40)
 - [API-Maelstrom](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=364)
+
+## Extra - Cycle Detection (Union Find)
+
+#### [Tutorial]()
+
+#### Other Study Sources
+- [GeeksForGeeks - Part 1, Implementing](http://www.geeksforgeeks.org/union-find/)
+- [GeeksForGeeks - Part 2, Improving](http://www.geeksforgeeks.org/union-find-algorithm-set-2-union-by-rank/)
+
+#### Source Codes
+- [Source Code, BedirT(C++)](https://github.com/BedirT/Algorithms_and_DS/blob/master/Algorithms/Graph/Cycle%20Detection%20-%20Union%20Find%20(Improved).cpp)
