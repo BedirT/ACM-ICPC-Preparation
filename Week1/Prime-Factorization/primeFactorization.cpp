@@ -39,7 +39,7 @@ vector<int> primeFactors(int N){
 		f = primes[++idx]; // Comment this for using other method (iterator)
 		//
 	}
-	if(N != 1) vc.push_back(N); // This case is for prime numbers itself.
+	if(N != 1) vc.push_back(N); // This case is for prime numbers or having factor greater than sqrt(N).
 	return vc;
 }
 
