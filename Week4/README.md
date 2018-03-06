@@ -6,6 +6,7 @@
 
 #### Other Study Sources
 
+- [CommonLounge - Nicetut](https://www.commonlounge.com/discussion/fe6ac441785c44d6a959eab662f15adc)
 - [GeeksforGeeks](https://www.geeksforgeeks.org/merge-sort/)
 - [Hackerrank (Video)](https://www.youtube.com/watch?v=KF2j-9iSf4Q)
 - [Youtube - Michael Sambol (3 min)](https://www.youtube.com/watch?v=4VqmGXwpLqc)
