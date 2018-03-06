@@ -5,10 +5,18 @@
 #### [Tutorial]()
 
 #### Other Study Sources
- 
+
+- [GeeksforGeeks](https://www.geeksforgeeks.org/merge-sort/)
+- [Hackerrank (Video)](https://www.youtube.com/watch?v=KF2j-9iSf4Q)
+- [Youtube - Michael Sambol (3 min)](https://www.youtube.com/watch?v=4VqmGXwpLqc)
+- [CS50 (Video)](https://www.youtube.com/watch?v=Pr2Jf83_kG0)
+
 #### Source Codes
 
 #### Questions
+
+- [MERGESORT](http://www.spoj.com/problems/MERGSORT/)
+- [Merge Sort](https://www.codechef.com/problems/MRGSRT)
 
 
 ## Binary Search
@@ -20,7 +28,7 @@
 - [Topcoder](https://www.topcoder.com/community/data-science/data-science-tutorials/binary-search/)
 - [Wikipedia](https://en.wikipedia.org/wiki/Binary_search_algorithm)
 - [Interview Cake](https://www.interviewcake.com/concept/java/binary-search) 
- 
+
 #### Source Codes
 - Bedir - [C++](https://github.com/BedirT/AlgorithmsL/blob/master/Algorithms/Searching/binarySearch.cpp)
 - Nadide- [C](https://github.com/nadide/ACM-ICPC/blob/master/codes/search_binarySearch.c)
@@ -38,4 +46,4 @@
 	- [Nadide's solution](https://github.com/nadide/ACM-ICPC/blob/master/problems/hackerrank/X_iceCreamParlor.c)
 - [Maximum Subarray Sum](https://www.hackerrank.com/challenges/maximum-subarray-sum)
 	- [Nadide's solution](https://github.com/nadide/ACM-ICPC/blob/master/problems/hackerrank/X_maximumSubarraySum.cpp)
-      
+    
