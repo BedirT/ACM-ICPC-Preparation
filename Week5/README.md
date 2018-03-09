@@ -1,29 +1,28 @@
 # Week 5
 
-
-## Queue
-
-#### [Tutorial]()
-
-#### Other Study Sources
-
-
-## Stack
+## Stack & Queue
 
 #### [Tutorial]()
 
 #### Other Study Sources
-
-
+- [GeeksforGeeks - Queue](https://www.geeksforgeeks.org/queue-set-1introduction-and-array-implementation/)
+- [GeeksforGeeks - Stack](https://www.geeksforgeeks.org/stack-data-structure-introduction-program/)
+- [HackerRank - Video](https://www.youtube.com/watch?v=wjI1WNcIntg)
 
 ## Breadth First Search
 
 #### [Tutorial]()
 
 #### Other Study Sources
+- [Youtube - abhinav tripathi](https://www.youtube.com/watch?v=bIA8HEEUxZI)
+- [KhanAcademy](https://www.khanacademy.org/computing/computer-science/algorithms/breadth-first-search/a/the-breadth-first-search-algorithm)
+- [GeeksforGeeks](https://www.geeksforgeeks.org/breadth-first-traversal-for-a-graph/)
+- [HackerEarth](https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/tutorial/)
  
 #### Source Codes
-- Bedir - [C++](https://github.com/BedirT/AlgorithmsL/blob/master/Algorithms/Graph/bfs.cpp)
+- Bedir 
+	- [C++](https://github.com/BedirT/AlgorithmsL/blob/master/Algorithms/Graph/bfs.cpp)
+	- [C++ (Simpler version)](https://github.com/BedirT/Algorithms_and_DS/blob/master/Algorithms/Graph/bfs_simple.cpp)	
 - Nadide - [C](https://github.com/nadide/ACM-ICPC/blob/master/codes/graph_BFS.c)
 
 #### Questions
