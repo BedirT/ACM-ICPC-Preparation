@@ -139,16 +139,16 @@ Here are the topics we included in this curriculum.
 ## Here is our Curriculum
 |Week|Topics|Optional Topics|
 | --- | --- | --- |
-|[**Heads Up **](https://github.com/NAU-ACM/ACM-ICPC-Preparation/tree/master/Week0)|<ul><li>Big O Notation</li></ul>||
-|[**1.Week**](https://github.com/NAU-ACM/ACM-ICPC-Preparation/tree/master/Week1)|<ul><li>Prime Numbers (Sieve of Eratosthenes)</li><li>Efficient Prime Factorization</li><li>Modular Exponentiation</li></ul>||
-|[**2.Week**](https://github.com/NAU-ACM/ACM-ICPC-Preparation/tree/master/Week2)|<ul><li>GCD and LCM Euclid’s Algorithm</li><li>Long arithmetic (Multi, Sum, Div, Sub)</li></ul>|<ul><li>C++ STL:Vector</li><li>C++ STL:Pairs</li><li>C++ STL:Iterators</li></ul>|
-|[**3.Week**](https://github.com/NAU-ACM/ACM-ICPC-Preparation/tree/master/Week3)|<ul><li>QuickSort</li><li>Counting Sort</li></ul>|<ul><li>C++ STL:String</li><li>C++ STL:Set</li><li>C++ STL:Map</li></ul>|
-|[**4.Week**](https://github.com/NAU-ACM/ACM-ICPC-Preparation/tree/master/Week4)|<ul><li>Merge Sort</li><li>Binary Search</li></ul>|<ul><li>Ternary Search</li></ul>|
-|[**5.Week**](https://github.com/NAU-ACM/ACM-ICPC-Preparation/tree/master/Week5)|<ul><li>Queue (DS)</li><li>Stack (DS)</li><li>Breadth First Search</li><li>Depth First Search</li></ul>|<ul><li>C++ STL: Queue</li><li>C++ STL: Stack</li></ul>|
-|[**6.Week**](https://github.com/NAU-ACM/ACM-ICPC-Preparation/tree/master/Week6)|<ul><li>Linked List (DS)</li><li>Dijkstra’s Shortest Path</li><li>Minimum Spanning Tree (MST)</li><li>Floyd Warshall</li></ul><ul></ul>||
-|[**7.Week**](https://github.com/NAU-ACM/ACM-ICPC-Preparation/tree/master/Week7)|<ul><li>Knapsack</li><li>Coin Change</li><li>Kadane</li></ul>||
-|[**8.Week**](https://github.com/NAU-ACM/ACM-ICPC-Preparation/tree/master/Week8)|**Questions from previous topics**||
-|[**9.Week**](https://github.com/NAU-ACM/ACM-ICPC-Preparation/tree/master/Week9)|<ul><li>Trees (DS)</li><li>Segment Trees (DS)</li><li>Range Minimum Query (RMQ)</li><li>Lowest Common Ancestor (LCA)</li></ul>|<ul><li>Topological Sorting</li></ul>|
+|[**Heads Up **](https://github.com/NAU-ACM/ACM-ICPC-Preparation/tree/master/Week00)|<ul><li>Big O Notation</li></ul>||
+|[**1.Week**](https://github.com/NAU-ACM/ACM-ICPC-Preparation/tree/master/Week01)|<ul><li>Prime Numbers (Sieve of Eratosthenes)</li><li>Efficient Prime Factorization</li><li>Modular Exponentiation</li></ul>||
+|[**2.Week**](https://github.com/NAU-ACM/ACM-ICPC-Preparation/tree/master/Week02)|<ul><li>GCD and LCM Euclid’s Algorithm</li><li>Long arithmetic (Multi, Sum, Div, Sub)</li></ul>|<ul><li>C++ STL:Vector</li><li>C++ STL:Pairs</li><li>C++ STL:Iterators</li></ul>|
+|[**3.Week**](https://github.com/NAU-ACM/ACM-ICPC-Preparation/tree/master/Week03)|<ul><li>QuickSort</li><li>Counting Sort</li></ul>|<ul><li>C++ STL:String</li><li>C++ STL:Set</li><li>C++ STL:Map</li></ul>|
+|[**4.Week**](https://github.com/NAU-ACM/ACM-ICPC-Preparation/tree/master/Week04)|<ul><li>Merge Sort</li><li>Binary Search</li></ul>|<ul><li>Ternary Search</li></ul>|
+|[**5.Week**](https://github.com/NAU-ACM/ACM-ICPC-Preparation/tree/master/Week05)|<ul><li>Queue (DS)</li><li>Stack (DS)</li><li>Breadth First Search</li><li>Depth First Search</li></ul>|<ul><li>C++ STL: Queue</li><li>C++ STL: Stack</li></ul>|
+|[**6.Week**](https://github.com/NAU-ACM/ACM-ICPC-Preparation/tree/master/Week06)|<ul><li>Linked List (DS)</li><li>Dijkstra’s Shortest Path</li><li>Minimum Spanning Tree (MST)</li><li>Floyd Warshall</li></ul><ul></ul>||
+|[**7.Week**](https://github.com/NAU-ACM/ACM-ICPC-Preparation/tree/master/Week07)|<ul><li>Knapsack</li><li>Coin Change</li><li>Kadane</li></ul>||
+|[**8.Week**](https://github.com/NAU-ACM/ACM-ICPC-Preparation/tree/master/Week08)|**Questions from previous topics**||
+|[**9.Week**](https://github.com/NAU-ACM/ACM-ICPC-Preparation/tree/master/Week09)|<ul><li>Trees (DS)</li><li>Segment Trees (DS)</li><li>Range Minimum Query (RMQ)</li><li>Lowest Common Ancestor (LCA)</li></ul>|<ul><li>Topological Sorting</li></ul>|
 |[**10.Week**](https://github.com/NAU-ACM/ACM-ICPC-Preparation/tree/master/Week10)|<ul><li>Ford Bellman</li><li>Max Flow / Min Cut</li><li>Longest increasing Subsequence (with RMQ)</li></ul>|<ul><li>Heavy Light Decomposition</li></ul>|
 |[**11.Week**](https://github.com/NAU-ACM/ACM-ICPC-Preparation/tree/master/Week11)|<ul><li>Primitive Operations<ul><li>Intuition</li><li>Polygon Inside, Outside</li><li>Implementing CCW</li><li>Immutable Point ADT</li></ul></li><li>Convex Hull</li><li>Closest pair problem</li><li>Line intersection</li></ul>||
 |[**12.Week**](https://github.com/NAU-ACM/ACM-ICPC-Preparation/tree/master/Week12)|<ul><li>Tries (DS)</li><li>Suffix Trees/Arrays (DS)</li><li>Knuth-Morris-Pratt Algorithm (KMP)</li><li>Rabin-Karp Algorithm</li></ul>||
