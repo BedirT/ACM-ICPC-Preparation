@@ -145,7 +145,7 @@ Here are the topics we included in this curriculum.
 |[**3.Week**](https://github.com/NAU-ACM/ACM-ICPC-Preparation/tree/master/Week03)|<ul><li>QuickSort</li><li>Counting Sort</li></ul>|<ul><li>C++ STL:String</li><li>C++ STL:Set</li><li>C++ STL:Map</li></ul>|
 |[**4.Week**](https://github.com/NAU-ACM/ACM-ICPC-Preparation/tree/master/Week04)|<ul><li>Merge Sort</li><li>Binary Search</li></ul>|<ul><li>Ternary Search</li></ul>|
 |[**5.Week**](https://github.com/NAU-ACM/ACM-ICPC-Preparation/tree/master/Week05)|<ul><li>Queue (DS)</li><li>Stack (DS)</li><li>Breadth First Search</li><li>Depth First Search</li></ul>|<ul><li>C++ STL: Queue</li><li>C++ STL: Stack</li></ul>|
-|[**6.Week**](https://github.com/NAU-ACM/ACM-ICPC-Preparation/tree/master/Week06)|<ul><li>Linked List (DS)</li><li>Dijkstra’s Shortest Path</li><li>Minimum Spanning Tree (MST)</li><li>Floyd Warshall</li></ul><ul></ul>||
+|[**6.Week**](https://github.com/NAU-ACM/ACM-ICPC-Preparation/tree/master/Week06)|<ul><li>Linked List (DS)</li><li>Dijkstra’s Shortest Path</li><li>Minimum Spanning Tree (MST)</li><li>Floyd Warshall</li></ul>|<ul><li>Cycle Detection (Union Find)</li></ul>|
 |[**7.Week**](https://github.com/NAU-ACM/ACM-ICPC-Preparation/tree/master/Week07)|<ul><li>Knapsack</li><li>Coin Change</li><li>Kadane</li></ul>||
 |[**8.Week**](https://github.com/NAU-ACM/ACM-ICPC-Preparation/tree/master/Week08)|**Questions from previous topics**||
 |[**9.Week**](https://github.com/NAU-ACM/ACM-ICPC-Preparation/tree/master/Week09)|<ul><li>Trees (DS)</li><li>Segment Trees (DS)</li><li>Range Minimum Query (RMQ)</li><li>Lowest Common Ancestor (LCA)</li></ul>|<ul><li>Topological Sorting</li></ul>|

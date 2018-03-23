@@ -6,8 +6,15 @@
 #### [Tutorial]()
 
 #### Other Study Sources
+- [GeeksForGeeks - Introduction to Linked List](https://www.geeksforgeeks.org/linked-list-set-1-introduction/)
+- [CS CMU](https://www.cs.cmu.edu/~adamchik/15-121/lectures/Linked%20Lists/linked%20lists.html)
+- [Tutorialpoint](https://www.tutorialspoint.com/data_structures_algorithms/linked_list_algorithms.htm)
+- [Youtube - Hackerrank](https://www.youtube.com/watch?v=njTh_OwMljA)
 
-
+#### Questions
+- [Print the Elements of a Linked List](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem)
+- [Delete a Node](https://www.hackerrank.com/challenges/delete-a-node-from-a-linked-list/problem)
+- [Merge two sorted linked lists](https://www.hackerrank.com/challenges/merge-two-sorted-linked-lists/problem)
 
 ## Dijkstra’s Shortest Path
 
