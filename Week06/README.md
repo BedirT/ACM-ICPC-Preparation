@@ -62,7 +62,6 @@
 - [GeeksForGeeks](http://www.geeksforgeeks.org/dynamic-programming-set-16-floyd-warshall-algorithm/)
 - [Youtube - Romesh Malinga Perera](https://www.youtube.com/watch?v=9QV6QpyhN0o)
 - [Youtube - Quinston Pimenta](https://www.youtube.com/watch?v=K6rI0umX-28)
-- [Cédric Verstraeten's Blog](https://blog.cedric.ws/c-floyd-warshall-shortest-distance-explanation-code) 
  
 #### Source Codes
 - Bedir - [C++](https://github.com/BedirT/Algorithms_and_DS/blob/master/Algorithms/Dynamic/Floyd%20Warshall.cpp)
