@@ -26,7 +26,7 @@
 - [GeeksForGeeks](http://www.geeksforgeeks.org/greedy-algorithms-set-6-dijkstras-shortest-path-algorithm/)
  
 #### Source Codes
-- Bedir - [C++](https://github.com/BedirT/AlgorithmsL/blob/master/Algorithms/Graph/djikstra.cpp)
+- Bedir - [C++](https://github.com/BedirT/AlgorithmsL/blob/master/Algorithms/Graph/dijkstra.cpp)
 - Nadide - [C](https://github.com/nadide/ACM-ICPC/blob/master/codes/graph_Dijkstra.c)
 
 #### Questions
