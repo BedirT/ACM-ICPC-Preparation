@@ -39,6 +39,10 @@ In this course we will use some tools for the questions. As I mentioned above al
 
 I gave these tools name because you may not be able to submit your solution or display the question for some websites. It would be better if you just sign up. Although it is not neccesary...
 
+## Contribution
+
+We are open to any support. If you have anything to add, do not hesitate to offer! For further information you can check [Code of Conduct](CODE_OF_CONDUCT.md)
+
 ## Topics
 
 Here are the topics we included in this curriculum.
