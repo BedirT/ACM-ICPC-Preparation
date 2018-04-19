@@ -3,7 +3,7 @@
 
 ## Big O notation
 
-#### [Tutorial](https://github.com/NAU-ACM/ACM-ICPC-Preparation/blob/master/Week01/Sieve-of-Eretosthenes/README.md) 
+#### [Tutorial](https://github.com/NAU-ACM/ACM-ICPC-Preparation/blob/master/Week1/Sieve-of-Eretosthenes/README.md) 
 
 #### Other Study Sources
 - [Youtube - Undefined Behavior](https://www.youtube.com/watch?v=MyeV2_tGqvw)
