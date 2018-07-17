@@ -14,6 +14,7 @@
 - Nadide - [C](https://github.com/nadide/ACM-ICPC/blob/master/codes/math_primeNumbers.c)
 - Almaz - [C++](https://github.com/NAU-ACM/ACM-ICPC-Preparation/tree/master/Week1/Sieve-of-Eretosthenes)
 - Michael - [Python](https://github.com/MichaelMMeskhi/Algorithms/blob/master/ACM-ICPC%20Preparation/Week%201/sieveOfEratosthenes.py)
+- Rajat - [Java](https://github.com/rajat123456/Number-Theory/blob/master/Sieve%20of%20Eratosthenes/Sieve%20of%20Eratosthenes.java)
 
 #### Questions
 - [Just a Small Implementation](https://wiki.haskell.org/99_questions/Solutions/39)
