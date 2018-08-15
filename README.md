@@ -3,31 +3,31 @@
 # ACM-ICPC Preparation 
 ![](https://img.shields.io/badge/NAU-in%20progress-blue.svg) ![](https://img.shields.io/badge/licence-MIT-green.svg) ![](https://img.shields.io/badge/Weeks%20Completed-8%2F20-orange.svg)
 
-This program developed to learn Algorithms for using in Competitive Prorgamming, **but can be used for:**
+This program has been developed to learn Algorithms for use in Competitive Prorgamming, **but can be used for:**
   - Competitive Programming
   - Practicing for Interviews
   - Improving Algorithmic Thinking
-  - Practicing for College Class
+  - Practicing for College Classes
   - FUN
 
 **The course requires:** 
   - To know at least one programming language well. (_You have to be able to use the language efficiently._)
-  - You have to be familiarize with some of the basic Data Structures (Array, Stack, Queue, etc.) (_Although if you don't know some of them, you may learn it when you come accross._)
+  - You have to be familiar with some of the basic Data Structures (Array, Stack, Queue, etc.) (_Although if you don't know one of them, you may learn it when you come across it._)
 
-###### _PS: I am saying "Any programming language" but in this course mostly we used C, C++ and some Java. But still you can follow the curriculum without any knowledge of these languages_
+###### _PS: I am saying "Any programming language" but in this course mostly we used C, C++ and some Java, but you can still follow the curriculum without any knowledge of these languages_
 
-In the program there is only guidence, so we did not add many content apart from that already exist. We just collected good sources to learn in one place, so that one can follow up and learn. The course includes Algorithms and a bit Data Structures. You need to follow the the curriculum week by week.
+In the program there is only direction to resources, we did not add much content apart from what already existed. We just collected good sources to learn in one place, so that one can follow up and learn. The course includes algorithms and a bit data structures. You need to follow the the curriculum week by week.
 
-**Basic fallowing guide would be to:**
+**Basic following guide would be to:**
   1. See the sources to study
-  2. Get the logic and try to code it without looking other codes
-  3. When you are stuck(you really should try first) or when you are done, look at the source codes, and compare it with yours so that you can see what would be the best approach for that Algorithm. You may not like others, or you may find some of them useful.
-  4. After feeling comfortable with the code itself, try to solve the questions.
-  5. When you are done with solving or are stuck(again ...) check other solutions and try to understand your mistake or if a better aproach exists.
+  2. Get the logic and try to code it without looking other code
+  3. When you are stuck(you really should try first) or when you are done, look at the source code, and compare it with yours so that you can see what would be the best approach for that algorithm. You may not like others, or you may find some of them useful.
+  4. After you feel comforatable with the code, try to solve the questions.
+  5. When you are done with solving or are stuck(again ...) check other solutions and try to understand your mistake or to see if a better aproach exists.
 
 ## Resources
 
-In this course we will use some tools for the questions. As I mentioned above all of these questions already exists, we just highlight them so that you can reach better. Here are the websites/tools that we use through this course:
+In this course we will use some tools for the questions. As I mentioned above all of these questions already exist, we just highlight them so that you can reach them easier. Here are the websites/tools that we use through this course:
 
   - [Leetcode](https://leetcode.com)
   - [Spoj](http://www.spoj.com)
