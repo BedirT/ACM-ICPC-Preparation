@@ -29,7 +29,7 @@
 
 #### Question  
 - [GCD2](https://www.codechef.com/problems/GCD2)
-          -[Java Solution](https://github.com/rajat123456/General-Competitive-Programming-Questions/blob/master/Codechef(GCD2).java)
+    - [Java Solution](https://github.com/rajat123456/General-Competitive-Programming-Questions/blob/master/Codechef(GCD2).java)
 
 ### Least Common Multiple (LCM)
 
