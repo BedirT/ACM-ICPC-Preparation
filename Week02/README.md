@@ -28,7 +28,7 @@
 #### [Study Source](https://www.geeksforgeeks.org/gcd-of-two-numbers-when-one-of-them-can-be-very-large-2/)
 
 #### Question  
-     -[GCD 2](https://www.codechef.com/problems/GCD2)
+     -[GCD2](https://www.codechef.com/problems/GCD2)
           -[Java Solution](https://github.com/rajat123456/General-Competitive-Programming-Questions/blob/master/Codechef(GCD2).java)
 
 ### Least Common Multiple (LCM)
