@@ -70,7 +70,7 @@
       -[Java Solution](https://github.com/rajat123456/Dynamic-Programming/tree/master/Number%20Of%20Balanced%20BTs)
  
 - [Modular GCD](https://www.codechef.com/AUG18B/problems/GCDMOD)
-      -Will Provide soon :) 
+      -Will Provide Solution soon :) 
       
 - [GCD of Large Number](https://www.codechef.com/problems/GCD2)
       -[Java Solution](https://github.com/rajat123456/General-Competitive-Programming-Questions/blob/master/Advanced%20GCD.java)
