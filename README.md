@@ -7,7 +7,7 @@ This program has been developed to learn Algorithms for use in Competitive Prorg
   - Competitive Programming
   - Practicing for Interviews
   - Improving Algorithmic Thinking
-  - Practicing for College Class
+  - Practicing for College Classes
   - FUN
 
 **The course requires:** 
