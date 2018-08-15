@@ -3,7 +3,7 @@
 # ACM-ICPC Preparation 
 ![](https://img.shields.io/badge/NAU-in%20progress-blue.svg) ![](https://img.shields.io/badge/licence-MIT-green.svg) ![](https://img.shields.io/badge/Weeks%20Completed-8%2F20-orange.svg)
 
-This program has been developed to learn Algorithms for using in Competitive Prorgamming, **but can be used for:**
+This program has been developed to learn Algorithms for use in Competitive Prorgamming, **but can be used for:**
   - Competitive Programming
   - Practicing for Interviews
   - Improving Algorithmic Thinking
