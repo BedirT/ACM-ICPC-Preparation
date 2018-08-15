@@ -23,6 +23,12 @@
 - [Complicated GCD](http://codeforces.com/contest/664/problem/A)
     - [Bedir's Solution](https://github.com/BedirT/AlgorithmsL/blob/master/Problems/Curriculum%20Q's/Week%201/Complicated%20GCD.cpp)   
 
+### Advanced GCD
+
+#### [Tutorial](https://www.geeksforgeeks.org/gcd-of-two-numbers-when-one-of-them-can-be-very-large-2/)
+#### Question  
+     -[GCD 2](https://www.codechef.com/problems/GCD2)
+          -[Java Solution](https://github.com/rajat123456/General-Competitive-Programming-Questions/blob/master/Codechef(GCD2).java)
 
 ### Least Common Multiple (LCM)
 
