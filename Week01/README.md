@@ -59,3 +59,18 @@
 #### Questions
 - [Power of Large Numbers](https://www.hackerrank.com/challenges/power-of-large-numbers)
 	- [Bedir's Solution](https://github.com/NAU-ACM/Competitive-Programming/blob/master/HackerRank/Practices/Math/PowerOfLargeNumbers.py)
+
+## Modulo Arithmetic
+
+#### Study Sources
+- [HackerEarth](https://www.hackerearth.com/practice/notes/get-the-modulo-of-a-very-large-number-that-cannot-be-stored-in-any-data-type-in-cc-1/) 
+
+#### Questions
+- [Balanced Binary Trees of Height h](https://www.geeksforgeeks.org/count-balanced-binary-trees-height-h/)
+      -[Java Solution](https://github.com/rajat123456/Dynamic-Programming/tree/master/Number%20Of%20Balanced%20BTs)
+ 
+- [Modular GCD](https://www.codechef.com/AUG18B/problems/GCDMOD)
+      -[Solution](Will Provide soon :) )
+      
+- [GCD of Large Number](https://www.codechef.com/problems/GCD2)
+      -[Solution](https://github.com/rajat123456/General-Competitive-Programming-Questions/blob/master/Advanced%20GCD.java)
