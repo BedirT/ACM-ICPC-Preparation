@@ -12,7 +12,7 @@ This program has been developed to learn Algorithms for use in Competitive Prorg
 
 **The course requires:** 
   - To know at least one programming language well. (_You have to be able to use the language efficiently._)
-  - You have to be familiarize with some of the basic Data Structures (Array, Stack, Queue, etc.) (_Although if you don't know some of them, you may learn it when you come accross._)
+  - You have to be familiar with some of the basic Data Structures (Array, Stack, Queue, etc.) (_Although if you don't know one of them, you may learn it when you come across it._)
 
 ###### _PS: I am saying "Any programming language" but in this course mostly we used C, C++ and some Java, but you can still follow the curriculum without any knowledge of these languages_
 
