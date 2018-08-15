@@ -16,7 +16,7 @@ This program has been developed to learn Algorithms for use in Competitive Prorg
 
 ###### _PS: I am saying "Any programming language" but in this course mostly we used C, C++ and some Java, but you can still follow the curriculum without any knowledge of these languages_
 
-In the program there is only guidence, so we did not add much content apart from what already existed. We just collected good sources to learn in one place, so that one can follow up and learn. The course includes algorithms and a bit data structures. You need to follow the the curriculum week by week.
+In the program there is only direction to resources, we did not add much content apart from what already existed. We just collected good sources to learn in one place, so that one can follow up and learn. The course includes algorithms and a bit data structures. You need to follow the the curriculum week by week.
 
 **Basic following guide would be to:**
   1. See the sources to study
