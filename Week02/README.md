@@ -61,7 +61,7 @@
 - [Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials?h_r=internal-search)
 	- [Bedir's Solution](https://github.com/BedirT/AlgorithmsL/blob/master/Problems/HackerRank/Algorithms/Implementation/Extra%20Long%20Factorial.cpp)
 	- [Nadide's Solution](https://github.com/nadide/ACM-ICPC/blob/master/problems/hackerrank/extraLongFactorials.c)
-
 - [GCD of Large Number](https://www.codechef.com/problems/GCD2)
-        - [Java Solution](https://github.com/rajat123456/General-Competitive-Programming-Questions/blob/master/Advanced%20GCD.java)
+        - [Study Source](https://www.geeksforgeeks.org/gcd-of-two-numbers-when-one-of-them-can-be-very-large-2/)
+        - [Online Judge](https://www.codechef.com/problems/GCD2)
 - [Modular GCD](https://www.codechef.com/AUG18B/problems/GCDMOD)
