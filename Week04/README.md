@@ -18,6 +18,8 @@
 
 - [MERGESORT](http://www.spoj.com/problems/MERGSORT/)
 - [Merge Sort](https://www.codechef.com/problems/MRGSRT)
+- [Counting Inversions in an Array](https://www.spoj.com/problems/INVCNT/)
+      -[Java Solution](https://github.com/rajat123456/General-Competitive-Programming-Questions/blob/master/SPOJ(INVCNT).java)
 
 
 ## Binary Search
