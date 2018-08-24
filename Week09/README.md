@@ -42,6 +42,8 @@
 - [Tree: Huffman Decoding](https://www.hackerrank.com/challenges/tree-huffman-decoding)
 - [Swap Nodes (Algo)](https://www.hackerrank.com/challenges/swap-nodes-algo)
 - [Is This a Binary Search Tree?](https://www.hackerrank.com/challenges/is-binary-search-tree)
+- [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/)
+	- [Java Solution](https://github.com/rajat123456/General-Competitive-Programming-Questions/blob/master/LeetCode(Balanced%20Binary%20Tree).java)
 
 
 ## Segment Trees (DS)
