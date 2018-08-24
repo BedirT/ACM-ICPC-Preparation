@@ -23,14 +23,6 @@
 - [Complicated GCD](http://codeforces.com/contest/664/problem/A)
     - [Bedir's Solution](https://github.com/BedirT/AlgorithmsL/blob/master/Problems/Curriculum%20Q's/Week%201/Complicated%20GCD.cpp)   
 
-### Advanced GCD
-
-#### [Tutorial](https://www.geeksforgeeks.org/gcd-of-two-numbers-when-one-of-them-can-be-very-large-2/)
-
-#### Question  
-- [GCD2](https://www.codechef.com/problems/GCD2)
-    - [Java Solution](https://github.com/rajat123456/General-Competitive-Programming-Questions/blob/master/Codechef(GCD2).java)
-
 ### Least Common Multiple (LCM)
 
 #### Source Codes
@@ -70,5 +62,5 @@
 	- [Bedir's Solution](https://github.com/BedirT/AlgorithmsL/blob/master/Problems/HackerRank/Algorithms/Implementation/Extra%20Long%20Factorial.cpp)
 	- [Nadide's Solution](https://github.com/nadide/ACM-ICPC/blob/master/problems/hackerrank/extraLongFactorials.c)
 - [GCD of Large Number](https://www.codechef.com/problems/GCD2)
-      - [Java Solution](https://github.com/rajat123456/General-Competitive-Programming-Questions/blob/master/Advanced%20GCD.java)
+        - [Java Solution](https://github.com/rajat123456/General-Competitive-Programming-Questions/blob/master/Advanced%20GCD.java)
 - [Modular GCD](https://www.codechef.com/AUG18B/problems/GCDMOD)
