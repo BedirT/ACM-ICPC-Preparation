@@ -166,11 +166,7 @@ Here are the topics we included in this curriculum.
 |[**20.Week**](https://github.com/NAU-ACM/ACM-ICPC-Preparation/tree/master/Week20)|<ul><li>Heavy Light Decomposition</li><li>Dynamic Programming by Profile</li></ul>|<ul><li>Graph Coloring</li></ul>|
 
 
-### Contributers
-- Mustafa Bedir Tapkan . . . .<a  href = "https://www.linkedin.com/in/bedirtapkan"><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/2000px-Linkedin_icon.svg.png" height = "21" ></a> <a  href = "https://github.com/BedirT"><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/500px-Octicons-mark-github.svg.png" height = "20" ></a>
-- Nadide Pasali . . . . . . . . . . <a  href = "https://www.linkedin.com/pub/nadide-pasali/b6/604/a90"><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/2000px-Linkedin_icon.svg.png" height = "21" ></a> <a  href = "https://github.com/nadide"><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/500px-Octicons-mark-github.svg.png" height = "20" ></a>
-- Almaz Tukenov . . . . . . . . . .<a  href = "https://www.linkedin.com/in/atukenov"><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/2000px-Linkedin_icon.svg.png" height = "21" ></a> <a  href = "https://github.com/atukenov"><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/500px-Octicons-mark-github.svg.png" height = "20" ></a>
-- Inamullah Rasuna Muhammad . . . .<a  href = "https://www.linkedin.com/in/inamullahmuhammad"><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/2000px-Linkedin_icon.svg.png" height = "21" ></a> <a  href = "https://github.com/irasuna"><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/500px-Octicons-mark-github.svg.png" height = "20" ></a>
+### [Contributers](https://github.com/NAU-ACM/ACM-ICPC-Preparation/graphs/contributors)
 
 ###### A [NAU-ACM](https://nauacmrocks.azurewebsites.net) Project
 
