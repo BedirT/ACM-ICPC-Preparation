@@ -65,3 +65,4 @@
         - [Editorial](https://www.geeksforgeeks.org/gcd-of-two-numbers-when-one-of-them-can-be-very-large-2/)
 - [Modular GCD](https://www.codechef.com/AUG18B/problems/GCDMOD)
 - [Number of Balanced Binary Trees of Height h](https://www.geeksforgeeks.org/count-balanced-binary-trees-height-h/)
+        - [Java Solution](https://github.com/rajat123456/Dynamic-Programming/blob/master/Number%20Of%20Balanced%20BTs/Brute%20Force%20Recursive.java)
