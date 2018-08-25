@@ -16,15 +16,16 @@
 - [Delete a Node](https://www.hackerrank.com/challenges/delete-a-node-from-a-linked-list/problem)
 - [Merge two sorted linked lists](https://www.hackerrank.com/challenges/merge-two-sorted-linked-lists/problem)
 - [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/)
-        [Java Solution](https://github.com/rajat123456/General-Competitive-Programming-Questions/blob/master/LeetCode(Reverse%20Nodes%20in%20k-Group).java)
+  - [Java Solution](https://github.com/rajat123456/General-Competitive-Programming-Questions/blob/master/LeetCode(Reverse%20Nodes%20in%20k-Group).java)
 - [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)
-        [Java Solution](https://github.com/rajat123456/General-Competitive-Programming-Questions/blob/master/LeetCode(Remove%20Duplicates%20from%20Sorted%20List).java)
-- [Add_1_to_number_represented_in_linked_list](https://github.com/rajat123456/LinkedList-in-Java/blob/master/Add_1_to_number_represented_in_linked_list.java)
-- [Sort_a_linked_list_of_0s_1s_and_2s](https://github.com/rajat123456/LinkedList-in-Java/blob/master/Sort_a_linked_list_of_0s_1s_and_2s.java)
-- Check Loop in Link List
-        -[Approach 1](https://github.com/rajat123456/LinkedList-in-Java/blob/master/CheckLoopInLinkList1.java)
-        -[Approach 2](https://github.com/rajat123456/LinkedList-in-Java/blob/master/CheckLoopInLinkList2.java)
-        -[Appoach 3](https://github.com/rajat123456/LinkedList-in-Java/blob/master/CheckLoopInLinkList3.java)
+  - [Java Solution](https://github.com/rajat123456/General-Competitive-Programming-Questions/blob/master/LeetCode(Remove%20Duplicates%20from%20Sorted%20List).java)
+- [Add 1 to number represented in linked list](https://github.com/rajat123456/LinkedList-in-Java/blob/master/Add_1_to_number_represented_in_linked_list.java)
+- [Sort a linked list of 0s 1s and 2s](https://www.careercup.com/question?id=14578074)
+  - [Java Solution](https://github.com/rajat123456/LinkedList-in-Java/blob/master/Sort_a_linked_list_of_0s_1s_and_2s.java)
+- [Check Loop in Link List](https://www.hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cycle/problem)
+  - [Approach 1](https://github.com/rajat123456/LinkedList-in-Java/blob/master/CheckLoopInLinkList1.java)
+  - [Approach 2](https://github.com/rajat123456/LinkedList-in-Java/blob/master/CheckLoopInLinkList2.java)
+  - [Appoach 3](https://github.com/rajat123456/LinkedList-in-Java/blob/master/CheckLoopInLinkList3.java)
 
 ## Dijkstra’s Shortest Path
 
@@ -41,7 +42,7 @@
 
 #### Questions
 - [Djikstra Shortest Reach](https://www.hackerrank.com/challenges/dijkstrashortreach)
-	- [Nadide's Solution](https://github.com/nadide/ACM-ICPC/blob/master/problems/hackerrank/graph/dijkstraShortestPath.c)
+	- [Nadide's Solution](https://github.com/nadide/ACM-ICPC/blob/master/problems/hackerrank/graph/dijkstraShortestPath.c) 
 	- [Bedir's Solution](https://github.com/BedirT/AlgorithmsL/blob/master/Problems/HackerRank/Algorithms/Graph%20Theory/Dijkstra_Shortest%20Reach%202.cpp)
 - [Travel cost](http://www.spoj.com/problems/TRVCOST/)
 	- [Bedir's Solution](https://github.com/BedirT/AlgorithmsL/blob/master/Problems/Curriculum%20Q's/Week%205/TRVCOST%20-%20Travelling%20cost.cpp) 
