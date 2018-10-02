@@ -9,6 +9,7 @@
 - [Logic Explanatory text - algolist.net](http://www.algolist.net/Algorithms/Sorting/Quicksort) 
 - [GeeksforGeeks](http://quiz.geeksforgeeks.org/quick-sort/)
 - [Video - CS50](https://www.youtube.com/watch?v=aQiWF4E8flQ)
+- [Topcoder](https://www.topcoder.com/community/competitive-programming/tutorials/sorting/)
  
 #### Source Codes
 - Bedir - [C++](https://github.com/BedirT/AlgorithmsL/blob/master/Algorithms/Sorting/qSort.cpp)
