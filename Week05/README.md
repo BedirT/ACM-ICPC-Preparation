@@ -18,7 +18,7 @@
 - [KhanAcademy](https://www.khanacademy.org/computing/computer-science/algorithms/breadth-first-search/a/the-breadth-first-search-algorithm)
 - [GeeksforGeeks](https://www.geeksforgeeks.org/breadth-first-traversal-for-a-graph/)
 - [HackerEarth](https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/tutorial/)
--[Topcoder](https://www.topcoder.com/community/competitive-programming/tutorials/introduction-to-graphs-and-their-data-structures-section-2/#breadth)
+- [Topcoder](https://www.topcoder.com/community/competitive-programming/tutorials/introduction-to-graphs-and-their-data-structures-section-2/#breadth)
  
 #### Source Codes
 - Bedir 
