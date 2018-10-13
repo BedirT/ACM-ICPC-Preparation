@@ -24,6 +24,7 @@
 - [Youtube - Santitham Prom-on](https://www.youtube.com/watch?v=WN3Rb9wVYDY)
 - [Youtube - distanceedjohn](https://www.youtube.com/watch?v=8Ls1RqHCOPw)
 - [GeeksForGeeks](http://www.geeksforgeeks.org/greedy-algorithms-set-6-dijkstras-shortest-path-algorithm/)
+- [Topcoder](https://www.topcoder.com/community/competitive-programming/tutorials/introduction-to-graphs-and-their-data-structures-section-3/#dijkstra)
  
 #### Source Codes
 - Bedir - [C++](https://github.com/BedirT/AlgorithmsL/blob/master/Algorithms/Graph/dijkstra.cpp)
@@ -62,6 +63,7 @@
 - [GeeksForGeeks](http://www.geeksforgeeks.org/dynamic-programming-set-16-floyd-warshall-algorithm/)
 - [Youtube - Romesh Malinga Perera](https://www.youtube.com/watch?v=9QV6QpyhN0o)
 - [Youtube - Quinston Pimenta](https://www.youtube.com/watch?v=K6rI0umX-28)
+- [Topcoder](https://www.topcoder.com/community/competitive-programming/tutorials/introduction-to-graphs-and-their-data-structures-section-3/#floydWarshall)
  
 #### Source Codes
 - Bedir - [C++](https://github.com/BedirT/Algorithms_and_DS/blob/master/Algorithms/Dynamic/Floyd%20Warshall.cpp)

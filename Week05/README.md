@@ -18,6 +18,7 @@
 - [KhanAcademy](https://www.khanacademy.org/computing/computer-science/algorithms/breadth-first-search/a/the-breadth-first-search-algorithm)
 - [GeeksforGeeks](https://www.geeksforgeeks.org/breadth-first-traversal-for-a-graph/)
 - [HackerEarth](https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/tutorial/)
+- [Topcoder](https://www.topcoder.com/community/competitive-programming/tutorials/introduction-to-graphs-and-their-data-structures-section-2/#breadth)
  
 #### Source Codes
 - Bedir 
@@ -43,6 +44,7 @@
 - [Youtube - Joe James](https://www.youtube.com/watch?v=tlPuVe5Otio)
 - [GeeksForGeeks](http://www.geeksforgeeks.org/depth-first-traversal-for-a-graph/)
 - [VisualAlgo](http://visualgo.net/dfsbfs)
+-[Topcoder](https://www.topcoder.com/community/competitive-programming/tutorials/introduction-to-graphs-and-their-data-structures-section-2/#depth)
  
 #### Source Codes
 - Bedir - [C++](https://github.com/BedirT/AlgorithmsL/blob/master/Algorithms/Graph/dfs.cpp)

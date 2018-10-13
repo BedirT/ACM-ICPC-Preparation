@@ -9,4 +9,6 @@
 - [Youtube - Undefined Behavior](https://www.youtube.com/watch?v=MyeV2_tGqvw)
 - [Rob-Bell](https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/)
 - [Khan Academy](https://www.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation/a/big-o-notation)
+- [Topcoder Section 1](https://www.topcoder.com/community/competitive-programming/tutorials/computational-complexity-section-1/)
+- [Topcoder Section 2](https://www.topcoder.com/community/competitive-programming/tutorials/computational-complexity-section-2/)
 
