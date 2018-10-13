@@ -60,3 +60,4 @@
 - [Count Luck](https://www.hackerrank.com/challenges/count-luck)
 - [Connected Cell in a Grid](https://www.hackerrank.com/challenges/connected-cell-in-a-grid)
 - [Graph Coloring](http://codeforces.com/problemset/problem/662/B)
+End of tutorial
