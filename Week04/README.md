@@ -18,6 +18,11 @@
 
 - [MERGESORT](http://www.spoj.com/problems/MERGSORT/)
 - [Merge Sort](https://www.codechef.com/problems/MRGSRT)
+- [Counting Inversions in an Array](https://www.spoj.com/problems/INVCNT/)
+	- [Java solution](https://github.com/rajat123456/General-Competitive-Programming-Questions/blob/master/SPOJ(INVCNT).java)
+- [Maximum SubArray](https://leetcode.com/problems/maximum-subarray/description/)
+	- [Java solution](https://github.com/rajat123456/General-Competitive-Programming-Questions/blob/master/(LeetCode)Maximum%20Sum%20Subaray.java)	
+
 
 
 ## Binary Search
@@ -38,7 +43,7 @@
 - Small interview question that will make you practice this topic: [Ordered Set](https://www.interviewcake.com/question/python/find-in-ordered-set)
 	- ( _Solution is as same as the normal source code_ )
 - [Search Insert Position](https://leetcode.com/problems/search-insert-position/)
-	- [Bedir's Solution](https://github.com/BedirT/AlgorithmsL/blob/master/Problems/Curriculum%20Q's/Week%203/Search%20Insert%20Position.cpp)
+        - [Bedir's Solution](https://github.com/BedirT/AlgorithmsL/blob/master/Problems/Curriculum%20Q's/Week%203/Search%20Insert%20Position.cpp)
 	- [Nadide's Solution](https://github.com/nadide/ACM-ICPC/blob/master/problems/other/insertPosition.c)
 - [10 beautiful practice question](http://www.infoarena.ro/blog/binary-search-shortlist)
 	- [Bedir's Solutions](https://github.com/BedirT/AlgorithmsL/tree/master/Problems/Curriculum%20Q's/Week%203/Binary%20Search%20Shortlist)
@@ -47,4 +52,5 @@
 	- [Nadide's solution](https://github.com/nadide/ACM-ICPC/blob/master/problems/hackerrank/X_iceCreamParlor.c)
 - [Maximum Subarray Sum](https://www.hackerrank.com/challenges/maximum-subarray-sum)
 	- [Nadide's solution](https://github.com/nadide/ACM-ICPC/blob/master/problems/hackerrank/X_maximumSubarraySum.cpp)
-    
+- [Aggressive Cows](https://www.spoj.com/problems/AGGRCOW/)
+	- [Java solution](https://github.com/rajat123456/General-Competitive-Programming-Questions/blob/master/(SPOJ)Aggressive%20Cows.java)

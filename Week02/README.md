@@ -23,7 +23,6 @@
 - [Complicated GCD](http://codeforces.com/contest/664/problem/A)
     - [Bedir's Solution](https://github.com/BedirT/AlgorithmsL/blob/master/Problems/Curriculum%20Q's/Week%201/Complicated%20GCD.cpp)   
 
-
 ### Least Common Multiple (LCM)
 
 #### Source Codes
@@ -34,12 +33,14 @@
 
 
 
+
 ## Long Arithmetic (Multi, Sum, Div, Sub)
 
-#### [Tutorial]()
+#### [Tutorial]() 
 
 #### Other Study Sources
 
+- [HackerEarth](https://www.hackerearth.com/practice/notes/get-the-modulo-of-a-very-large-number-that-cannot-be-stored-in-any-data-type-in-cc-1/) 
 
 ### Summation
  
@@ -64,3 +65,7 @@
 - [Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials?h_r=internal-search)
 	- [Bedir's Solution](https://github.com/BedirT/AlgorithmsL/blob/master/Problems/HackerRank/Algorithms/Implementation/Extra%20Long%20Factorial.cpp)
 	- [Nadide's Solution](https://github.com/nadide/ACM-ICPC/blob/master/problems/hackerrank/extraLongFactorials.c)
+- [GCD of Large Number](https://www.codechef.com/problems/GCD2)
+	- [Editorial](https://www.geeksforgeeks.org/gcd-of-two-numbers-when-one-of-them-can-be-very-large-2/)
+- [Modular GCD](https://www.codechef.com/AUG18B/problems/GCDMOD)
+
