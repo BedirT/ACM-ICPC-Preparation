@@ -81,7 +81,7 @@
 - [Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/)
 	- [Bedir's Solution](https://github.com/BedirT/AlgorithmsL/blob/master/Problems/Curriculum%20Q's/Week%207/Range%20Sum%20Query%20-%20Mutable.cpp)
 - [Mstick](https://discuss.codechef.com/questions/9722/mstick-editorial)
-- [Range Minimum Query](https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/range-minimum-query/)
+- [Minimum in SubArray](https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/range-minimum-query/)
 	- [Java Solution](https://github.com/rajat123456/General-Competitive-Programming-Questions/blob/master/HackerEarth(Minimum%20in%20SubArray).java)
   
   
