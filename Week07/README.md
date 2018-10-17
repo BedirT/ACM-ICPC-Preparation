@@ -12,6 +12,7 @@
 #### Source Codes
 - [BedirT - Optimized Knapsack](https://github.com/BedirT/Algorithms_and_DS/blob/master/Algorithms/Dynamic/Optimized%20Knapsack.cpp)
 - [BedirT - Knapsack](https://github.com/BedirT/Algorithms_and_DS/blob/master/Algorithms/Dynamic/Knapsack%20Algorithm.cpp)
+- [Java Solution Using Top Down Memoization DP](https://github.com/rajat123456/Dynamic-Programming/blob/master/01%20Knapsack/Using%20Top%20Down%20Memoization%20DP.java)
 
 #### Questions
 - [13-Dots](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1760)
