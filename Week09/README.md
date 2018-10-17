@@ -51,9 +51,11 @@
 #### [Tutorial]()
 
 #### Other Study Sources
- 
+- [HackerEarth](https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/tutorial/)
 #### Source Codes
-
+- [Building Segment Tree](https://github.com/rajat123456/Tree-Data-Structure-in-Java/blob/master/Building%20Segment%20Tree.java)
+- [Query on Segment Tree](https://github.com/rajat123456/Tree-Data-Structure-in-Java/blob/master/Query%20on%20Segment%20Tree.java)
+- [Update on Segment Tree](https://github.com/rajat123456/Tree-Data-Structure-in-Java/blob/master/Update%20on%20Segment%20Tree.java)
 #### Questions
 
 
@@ -79,6 +81,8 @@
 - [Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/)
 	- [Bedir's Solution](https://github.com/BedirT/AlgorithmsL/blob/master/Problems/Curriculum%20Q's/Week%207/Range%20Sum%20Query%20-%20Mutable.cpp)
 - [Mstick](https://discuss.codechef.com/questions/9722/mstick-editorial)
+- [Range Minimum Query](https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/range-minimum-query/)
+	- [Java Solution](https://github.com/rajat123456/General-Competitive-Programming-Questions/blob/master/HackerEarth(Minimum%20in%20SubArray).java)
   
   
 
