@@ -18,6 +18,11 @@
 
 - [MERGESORT](http://www.spoj.com/problems/MERGSORT/)
 - [Merge Sort](https://www.codechef.com/problems/MRGSRT)
+- [Counting Inversions in an Array](https://www.spoj.com/problems/INVCNT/)
+	- [Java solution](https://github.com/rajat123456/General-Competitive-Programming-Questions/blob/master/SPOJ(INVCNT).java)
+- [Maximum SubArray](https://leetcode.com/problems/maximum-subarray/description/)
+	- [Java solution](https://github.com/rajat123456/General-Competitive-Programming-Questions/blob/master/(LeetCode)Maximum%20Sum%20Subaray.java)	
+
 
 
 ## Binary Search
@@ -47,4 +52,5 @@
 	- [Nadide's solution](https://github.com/nadide/ACM-ICPC/blob/master/problems/hackerrank/X_iceCreamParlor.c)
 - [Maximum Subarray Sum](https://www.hackerrank.com/challenges/maximum-subarray-sum)
 	- [Nadide's solution](https://github.com/nadide/ACM-ICPC/blob/master/problems/hackerrank/X_maximumSubarraySum.cpp)
-    
+- [Aggressive Cows](https://www.spoj.com/problems/AGGRCOW/)
+	- [Java solution](https://github.com/rajat123456/General-Competitive-Programming-Questions/blob/master/(SPOJ)Aggressive%20Cows.java)

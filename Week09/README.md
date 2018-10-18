@@ -42,6 +42,8 @@
 - [Tree: Huffman Decoding](https://www.hackerrank.com/challenges/tree-huffman-decoding)
 - [Swap Nodes (Algo)](https://www.hackerrank.com/challenges/swap-nodes-algo)
 - [Is This a Binary Search Tree?](https://www.hackerrank.com/challenges/is-binary-search-tree)
+- [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/)
+	- [Java Solution](https://github.com/rajat123456/General-Competitive-Programming-Questions/blob/master/LeetCode(Balanced%20Binary%20Tree).java)
 
 
 ## Segment Trees (DS)
@@ -49,9 +51,11 @@
 #### [Tutorial]()
 
 #### Other Study Sources
- 
+- [HackerEarth](https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/tutorial/)
 #### Source Codes
-
+- [Building Segment Tree](https://github.com/rajat123456/Tree-Data-Structure-in-Java/blob/master/Building%20Segment%20Tree.java)
+- [Query on Segment Tree](https://github.com/rajat123456/Tree-Data-Structure-in-Java/blob/master/Query%20on%20Segment%20Tree.java)
+- [Update on Segment Tree](https://github.com/rajat123456/Tree-Data-Structure-in-Java/blob/master/Update%20on%20Segment%20Tree.java)
 #### Questions
 
 
@@ -77,6 +81,8 @@
 - [Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/)
 	- [Bedir's Solution](https://github.com/BedirT/AlgorithmsL/blob/master/Problems/Curriculum%20Q's/Week%207/Range%20Sum%20Query%20-%20Mutable.cpp)
 - [Mstick](https://discuss.codechef.com/questions/9722/mstick-editorial)
+- [Minimum in SubArray](https://www.hackerearth.com/practice/data-structures/advanced-data-structures/segment-trees/practice-problems/algorithm/range-minimum-query/)
+	- [Java Solution](https://github.com/rajat123456/General-Competitive-Programming-Questions/blob/master/HackerEarth(Minimum%20in%20SubArray).java)
   
   
 
