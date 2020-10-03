@@ -38,6 +38,7 @@
 #### Other Study Sources
 - [Stackoverflow - Check Answers](http://stackoverflow.com/questions/26344081/efficient-prime-factorization-for-large-numbers)
 - [Competitive Programming 3 by Steven & Felix Halim - Page 212](https://www.amazon.com/Competitive-Programming-3rd-Steven-Halim/dp/B00FG8MNN8)
+- [GeeksForGeeks](https://www.geeksforgeeks.org/prime-factorization-using-sieve-olog-n-multiple-queries/)
  
 #### Source Codes
 - Bedir - [C++](https://github.com/NAU-ACM/ACM-ICPC-Preparation/tree/master/Week1/Prime-Factorization/primeFactorization.cpp)
