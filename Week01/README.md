@@ -54,6 +54,7 @@
 #### Other Study Sources
 - [Topcoder](https://www.topcoder.com/community/data-science/data-science-tutorials/primality-testing-non-deterministic-algorithms/) 
 - [Video Tutorial](https://www.youtube.com/watch?v=nO7_qu2kd1Q)
+- [GeeksForGeeks](https://www.geeksforgeeks.org/modular-exponentiation-power-in-modular-arithmetic/)
 
 #### Source Codes
 - Nadide - [C++](https://github.com/nadide/ACM-ICPC/blob/master/codes/math_modExponent.cpp)
