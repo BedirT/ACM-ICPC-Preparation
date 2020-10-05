@@ -5,7 +5,7 @@
 Sieve of Eratosthenes is an algorithm for finding all the prime numbers in a segment __[ 1 ; n ]__ using __O(n _log log_ n)__ operations.
 
 The idea is simple: at the beginning we write down a row of numbers and eliminate all numbers divisible by 2, 
-except number 2 itself,  then divisible by 3, except number 3 itself, next by 7, 11, 
+except number 2 itself,  then divisible by 3, except number 3 itself, next by 5, 7, 11, 
 and all the remaining prime numbers till **_n_**.
 
 ##Implementation
