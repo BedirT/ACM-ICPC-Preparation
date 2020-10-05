@@ -38,6 +38,7 @@
 #### Other Study Sources
 - [Stackoverflow - Check Answers](http://stackoverflow.com/questions/26344081/efficient-prime-factorization-for-large-numbers)
 - [Competitive Programming 3 by Steven & Felix Halim - Page 212](https://www.amazon.com/Competitive-Programming-3rd-Steven-Halim/dp/B00FG8MNN8)
+- [GeeksForGeeks](https://www.geeksforgeeks.org/prime-factorization-using-sieve-olog-n-multiple-queries/)
  
 #### Source Codes
 - Bedir - [C++](https://github.com/NAU-ACM/ACM-ICPC-Preparation/tree/master/Week1/Prime-Factorization/primeFactorization.cpp)
@@ -53,6 +54,7 @@
 #### Other Study Sources
 - [Topcoder](https://www.topcoder.com/community/data-science/data-science-tutorials/primality-testing-non-deterministic-algorithms/) 
 - [Video Tutorial](https://www.youtube.com/watch?v=nO7_qu2kd1Q)
+- [GeeksForGeeks](https://www.geeksforgeeks.org/modular-exponentiation-power-in-modular-arithmetic/)
 
 #### Source Codes
 - Nadide - [C++](https://github.com/nadide/ACM-ICPC/blob/master/codes/math_modExponent.cpp)
