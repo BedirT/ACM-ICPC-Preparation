@@ -41,7 +41,7 @@
 - [GeeksForGeeks](https://www.geeksforgeeks.org/prime-factorization-using-sieve-olog-n-multiple-queries/)
  
 #### Source Codes
-- Bedir - [C++](https://github.com/NAU-ACM/ACM-ICPC-Preparation/tree/master/Week1/Prime-Factorization/primeFactorization.cpp)
+- Bedir - [C++](https://github.com/BedirT/ACM-ICPC-Preparation/blob/master/Week01/Prime-Factorization/primeFactorization.cpp)
 
 #### Questions
 - [Medium Factorization](http://www.spoj.com/problems/FACTCG2/)
