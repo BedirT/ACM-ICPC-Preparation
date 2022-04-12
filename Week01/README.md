@@ -11,9 +11,9 @@
 - [Brilliant](https://brilliant.org/wiki/sieve-of-eratosthenes/)
 
 #### Source Codes
-- C++ | [s0](vanilla_implementations/SieveOfEratosthenes.cpp)
-- C | [s0](https://github.com/nadide/ACM-ICPC/blob/master/codes/math_primeNumbers.c)
 - Python | [s0](vanilla_implementations/sieve_of_eratosthenes.py)
+- C++ | [s0](vanilla_implementations/sieveOfEratosthenes.cpp)
+- C | [s0](https://github.com/nadide/ACM-ICPC/blob/master/codes/math_primeNumbers.c)
 - Java | [s0](https://github.com/rajat123456/General-Competitive-Programming-Questions/blob/master/Sieve%20of%20Eratosthenes.java)
 
 #### Questions
@@ -41,7 +41,7 @@
 - [GeeksForGeeks](https://www.geeksforgeeks.org/prime-factorization-using-sieve-olog-n-multiple-queries/)
  
 #### Source Codes
-- C++ | [s0](https://github.com/NAU-ACM/ACM-ICPC-Preparation/tree/master/Week1/Prime-Factorization/primeFactorization.cpp)
+- C++ | [s0](vanilla_implementations/primeFactorization.cpp)
 
 #### Questions
 - [Medium Factorization](http://www.spoj.com/problems/FACTCG2/)
@@ -59,7 +59,7 @@
 - [Youtube - mycodeschool](https://www.youtube.com/watch?v=nO7_qu2kd1Q)
 
 #### Source Codes
-- C++ | [s0](https://github.com/nadide/ACM-ICPC/blob/master/codes/math_modExponent.cpp)
+- C++ | [s0](https://github.com/nadide/ACM-ICPC/blob/master/codes/math_modExponent.cpp), [s1](vanilla_implementations/modularExponentiation.cpp)
 
 #### Questions
 - [Power of Large Numbers](https://www.hackerrank.com/challenges/power-of-large-numbers)
