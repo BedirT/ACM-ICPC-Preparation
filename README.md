@@ -1,33 +1,32 @@
 ![ACM-ICPC](https://github.com/NAU-ACM/ACM-ICPC-Preparation/blob/master/acm_icpc_prep.jpg "ACM-ICPC")
 
 # ACM-ICPC Preparation 
-![](https://img.shields.io/badge/NAU-in%20progress-blue.svg) ![](https://img.shields.io/badge/licence-MIT-green.svg) ![](https://img.shields.io/badge/Weeks%20Completed-8%2F20-orange.svg)
+![](https://img.shields.io/badge/licence-MIT-green.svg) ![](https://img.shields.io/badge/Weeks%20Completed-8%2F20-orange.svg) ![](https://img.shields.io/badge/Revisions-2%2F20-red.svg)
 
-This program has been developed to learn Algorithms for use in Competitive Prorgamming, **but can be used for:**
-  - Competitive Programming
+This curriculum has been developed to learn Algorithms to use in Competitive Programming, **but can also be used for:**
   - Practicing for Interviews
   - Improving Algorithmic Thinking
   - Practicing for College Classes
-  - FUN
 
-**The course requires:** 
-  - To know at least one programming language well. (_You have to be able to use the language efficiently._)
-  - You have to be familiar with some of the basic Data Structures (Array, Stack, Queue, etc.) (_Although if you don't know one of them, you may learn it when you come across it._)
+**Prerequisites:** 
+  - To know at least one programming language. (_You have to be able to use the language efficiently._)
+  - You have to be familiar with some of the primary Data Structures (Array, Stack, Queue, etc.) (_Although if you don't know some, you may learn when you come across them._)
 
-###### _PS: I am saying "Any programming language" but in this course mostly we used C, C++ and some Java, but you can still follow the curriculum without any knowledge of these languages_
+The concept of this repository is to have well-structured content divided into parts that one can follow even if they are busy. Here we collected sources we find well prepared to learn the proposed topics. The curriculum has different data structures and algorithms. 
 
-In the program there is only direction to resources, we did not add much content apart from what already existed. We just collected good sources to learn in one place, so that one can follow up and learn. The course includes algorithms and a bit data structures. You need to follow the the curriculum week by week.
+**Estimated time required for a week is 6-7 hours.** (To complete the curriculum in the given time)
 
-**Basic following guide would be to:**
-  1. See the sources to study
-  2. Get the logic and try to code it without looking other code
-  3. When you are stuck(you really should try first) or when you are done, look at the source code, and compare it with yours so that you can see what would be the best approach for that algorithm. You may not like others, or you may find some of them useful.
-  4. After you feel comforatable with the code, try to solve the questions.
-  5. When you are done with solving or are stuck(again ...) check other solutions and try to understand your mistake or to see if a better aproach exists.
+**Basic usage guide:**
+Using this repository depends on what the user wants to do with it. Here we are suggesting the following for people who want to slowly gain knowledge of the topics while continuing their studies etc.:
+  1. Check out the written or video sources provided for a given topic depending on the preference. Go over as many as needed to gain a good understanding of the topic.
+  2. Without checking the source code, try to replicate the algorithm or data structure on your own.
+  3. When stuck or when done, look at the source codes provided, and compare them with yours to see what might be your mistake. Try to fix it.
+  4. After you feel comfortable with the code, try to solve the given problems.
+  5. When you are done with solving or are stuck at some point, check given solutions and try to understand your mistake or see if a better approach exists.
 
 ## Resources
 
-In this course we will use some tools for the questions. As I mentioned above all of these questions already exist, we just highlight them so that you can reach them easier. Here are the websites/tools that we use through this course:
+Here are some of the websites/tools that we use through this curriculum:
 
   - [Leetcode](https://leetcode.com)
   - [Spoj](http://www.spoj.com)
@@ -37,18 +36,15 @@ In this course we will use some tools for the questions. As I mentioned above al
   - [Lightoj](http://www.lightoj.com)
   - [ACM-Timus](http://acm.timus.ru)
 
-I gave these tools name because you may not be able to submit your solution or display the question for some websites. It would be better if you just sign up. Although it is not neccesary...
-
 ## Contribution
 
-We are open to any support. If you have anything to add, do not hesitate to offer! For further information you can check [Code of Conduct](CODE_OF_CONDUCT.md)
+If you have anything to add, do not hesitate to offer! You can check [Code of Conduct](CODE_OF_CONDUCT.md). You can submit a PR or an issue; I will try to personally review all.
 
 ## Topics
 
-Here are the topics we included in this curriculum.
+Here are the topics we currently include in the curriculum.
 
-### DS
-
+### Data Structures
   - Stacks
   - Queues
   - Priority queue
@@ -65,8 +61,7 @@ Here are the topics we included in this curriculum.
   - Disjoint Data Structure
   - C++ STL (optional)
 
-### Algo
-
+### Algorithms
   - Number Theory 
     - Prime Numbers (Sieve of Eratosthenes)
     - GCD and LCM Euclid’s Algorithm
@@ -74,9 +69,9 @@ Here are the topics we included in this curriculum.
     - Long arithmetic (Multi, Add)
     - Efficient Prime Factorization
 
-  - Combinatorics(Probability-Combinations-Permutations-Matrix..)
+  - Combinatorics (Probability-Combinations-Permutations-Matrix..)
 
-  - Computational geometry
+  - Computational Geometry
     - Primitive Operations
       - Intuition
       - Polygon Inside, Outside
@@ -86,12 +81,12 @@ Here are the topics we included in this curriculum.
     - Closest pair problem
     - Line intersection
 
-  - Sorting
+  - Sort
     - QuickSort
     - Counting Sort
     - Merge Sort
 
-  - Searching
+  - Search
     - Binary Search
     - Ternary Search
 
@@ -105,7 +100,7 @@ Here are the topics we included in this curriculum.
     - LCA (Lowest Common Ancestor)
     - Max Flow / Min Cut
 
-  - Dynamic programming
+  - Dynamic Programming
     - Knapsack
     - Matrix chain multiplication
     - Coin Change
@@ -140,7 +135,7 @@ Here are the topics we included in this curriculum.
     - Flood Fill - Graph
 
 
-## Here is our Curriculum
+## Curriculum
 |Week|Topics|Optional Topics|
 | --- | --- | --- |
 |[**Heads Up **](https://github.com/NAU-ACM/ACM-ICPC-Preparation/tree/master/Week00)|<ul><li>Big O Notation</li></ul>||
@@ -165,8 +160,4 @@ Here are the topics we included in this curriculum.
 |[**19.Week**](https://github.com/NAU-ACM/ACM-ICPC-Preparation/tree/master/Week19)|<ul><li>Bit Manipulation</li></ul>|<ul><li>Palindromic Tree</li><li>AVL Trees</li></ul>|
 |[**20.Week**](https://github.com/NAU-ACM/ACM-ICPC-Preparation/tree/master/Week20)|<ul><li>Heavy Light Decomposition</li><li>Dynamic Programming by Profile</li></ul>|<ul><li>Graph Coloring</li></ul>|
 
-
 ### [Contributers](https://github.com/NAU-ACM/ACM-ICPC-Preparation/graphs/contributors)
-
-###### A [NAU-ACM](https://nauacmrocks.azurewebsites.net) Project
-
