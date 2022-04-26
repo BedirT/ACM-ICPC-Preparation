@@ -3,7 +3,8 @@
 ## GCD and LCM Euclid’s Algorithm
 
 #### Video Sources
-- [Youtube - Learn Math Tutorials](https://www.youtube.com/watch?v=JUzYl1TYMcU)
+- [Youtube - Proof of Concept (GCD, LCM)](https://www.youtube.com/watch?v=XeaYoq54rCg)
+- [Youtube - Proof of Concept (Euclid's Algorithm)](https://www.youtube.com/watch?v=Jwf6ncRmhPg)
 
 #### Written Sources
 - [GeeksforGeeks](https://www.geeksforgeeks.org/euclidean-algorithms-basic-and-extended/)
@@ -17,9 +18,11 @@
 
 #### Questions    
 - [Sherlock and GCD](https://www.hackerrank.com/challenges/sherlock-and-gcd/problem?h_r=internal-search)
+    - [Python](solutions/sherlock_and_gcd.py)
     - [C++](https://github.com/BedirT/AlgorithmsL/blob/master/Problems/HackerRank/Math/Sherlock%20and%20GCD.cpp)
     - [C](https://github.com/nadide/ACM-ICPC/blob/master/problems/hackerrank/mathematics/sherlockAndGCD.c)
 - [Complicated GCD](http://codeforces.com/contest/664/problem/A)
+    - [Python](solutions/complicated_gcd.py)
     - [C++](https://github.com/BedirT/AlgorithmsL/blob/master/Problems/Curriculum%20Q's/Week%201/Complicated%20GCD.cpp)   
 
 ### Least Common Multiple (LCM)
@@ -55,3 +58,4 @@
 	- [C](https://github.com/nadide/ACM-ICPC/blob/master/problems/hackerrank/extraLongFactorials.c)
 - [GCD of Large Number](https://www.codechef.com/problems/GCD2)
 - [Modular GCD](https://www.codechef.com/AUG18B/problems/GCDMOD)
+    - [Python](solutions/modular_gcd.py)
