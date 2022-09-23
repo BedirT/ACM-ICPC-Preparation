@@ -8,7 +8,7 @@
 #### Written Sources
 - [algolist.net](http://www.algolist.net/Algorithms/Sorting/Quicksort) 
 - [GeeksforGeeks](http://quiz.geeksforgeeks.org/quick-sort/)
-- [Topcoder](https://www.topcoder.com/community/competitive-programming/tutorials/sorting/)
+- [Topcoder](https://www.topcoder.com/thrive/articles/Sorting)
  
 #### Source Codes
 - C++ | [s0](https://github.com/BedirT/AlgorithmsL/blob/master/Algorithms/Sorting/qSort.cpp)
