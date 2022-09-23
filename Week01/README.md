@@ -17,18 +17,9 @@
 - Java | [s0](https://github.com/rajat123456/General-Competitive-Programming-Questions/blob/master/Sieve%20of%20Eratosthenes.java)
 
 #### Questions
-- [Tiny Implementation](https://wiki.haskell.org/99_questions/Solutions/39)
-	- [Python](solutions/tiny_implementation.py)
-	- [C++](https://github.com/BedirT/AlgorithmsL/blob/master/Problems/Curriculum%20Q's/Week%204/sieve%20question.cpp)
-	- [Java](https://github.com/rajat123456/General-Competitive-Programming-Questions/blob/master/Prime%20within%20Range.java)
-- [Distinct Primes](http://www.spoj.com/problems/AMR11E/)
-	- [Python](solutions/distinct_primes.py)
-	- [C++](https://github.com/BedirT/AlgorithmsL/blob/master/Problems/Curriculum%20Q's/Week%204/AMR11E%20-%20Distinct%20Primes.cpp)
-	- [Java](https://github.com/rajat123456/General-Competitive-Programming-Questions/blob/master/SPOJ(Distinct%20Primes).java)
-- [Noldbach problem](http://codeforces.com/problemset/problem/17/A?locale=en)
-	- [Python](solutions/noldbach_problem.py)
-	- [C++](https://github.com/NAU-ACM/Competitive-Programming/blob/master/CodeForces/Practices/Noldbach%20problem.cpp)
-	- [Java](https://github.com/rajat123456/General-Competitive-Programming-Questions/blob/master/Codeforces(Noldbach%20Problem).java)
+- [Tiny Implementation](https://wiki.haskell.org/99_questions/Solutions/39) | [Python](solutions/tiny_implementation.py), [C++](https://github.com/BedirT/AlgorithmsL/blob/master/Problems/Curriculum%20Q's/Week%204/sieve%20question.cpp), [Java](https://github.com/rajat123456/General-Competitive-Programming-Questions/blob/master/Prime%20within%20Range.java)
+- [Distinct Primes](http://www.spoj.com/problems/AMR11E/) | [Python](solutions/distinct_primes.py), [C++](https://github.com/BedirT/AlgorithmsL/blob/master/Problems/Curriculum%20Q's/Week%204/AMR11E%20-%20Distinct%20Primes.cpp), [Java](https://github.com/rajat123456/General-Competitive-Programming-Questions/blob/master/SPOJ(Distinct%20Primes).java)
+- [Noldbach problem](http://codeforces.com/problemset/problem/17/A?locale=en) | [Python](solutions/noldbach_problem.py), [C++](https://github.com/NAU-ACM/Competitive-Programming/blob/master/CodeForces/Practices/Noldbach%20problem.cpp), [Java](https://github.com/rajat123456/General-Competitive-Programming-Questions/blob/master/Codeforces(Noldbach%20Problem).java)
 
 
 
@@ -43,9 +34,7 @@
 - C++ | [s0](vanilla_implementations/primeFactorization.cpp)
 
 #### Questions
-- [Medium Factorization](http://www.spoj.com/problems/FACTCG2/)
-	- [Python](solutions/medium_factorization.py)
-	- [C++](https://github.com/NAU-ACM/Competitive-Programming/blob/master/SPOJ/Medium%20Factorization.cpp)
+- [Medium Factorization](http://www.spoj.com/problems/FACTCG2/) | [Python](solutions/medium_factorization.py), [C++](https://github.com/NAU-ACM/Competitive-Programming/blob/master/SPOJ/Medium%20Factorization.cpp)
 
 ## Modular Exponentiation
 
@@ -62,5 +51,4 @@
 - C++ | [s0](https://github.com/nadide/ACM-ICPC/blob/master/codes/math_modExponent.cpp), [s1](vanilla_implementations/modularExponentiation.cpp)
 
 #### Questions
-- [Power of Large Numbers](https://www.hackerrank.com/challenges/power-of-large-numbers)
-	- [Python](https://github.com/NAU-ACM/Competitive-Programming/blob/master/HackerRank/Practices/Math/PowerOfLargeNumbers.py)
+- [Power of Large Numbers](https://www.hackerrank.com/challenges/power-of-large-numbers) | [Python](https://github.com/NAU-ACM/Competitive-Programming/blob/master/HackerRank/Practices/Math/PowerOfLargeNumbers.py)
