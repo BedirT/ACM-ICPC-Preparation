@@ -11,8 +11,8 @@
 
 #### Questions
 - [Redundant Brackets](https://careercup.com/question?id=5769760746766336) | [Java](https://github.com/rajat123456/Stacks-And-Queues/blob/master/Redundant%20Brackets%20Teaser.java)
-- [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/description/)
-- [Stock Span Problem](https://www.geeksforgeeks.org/the-stock-span-problem/)
+- [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/description/) | [Python](solutions/largest_rectangle.py)
+- [Stock Span Problem](https://www.geeksforgeeks.org/the-stock-span-problem/) | [Python](solutions/stock_span_problem.py)
 
 
 ## Breadth First Search
