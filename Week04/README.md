@@ -12,15 +12,13 @@
 - [GeeksforGeeks](https://www.geeksforgeeks.org/merge-sort/)
 
 #### Source Codes
+- [Python](vanilla_implementations/merge_sort.py)
 
-#### Questions
-
-- [MERGESORT](http://www.spoj.com/problems/MERGSORT/)
-- [Merge Sort](https://www.codechef.com/problems/MRGSRT)
+#### Questions 
+- [MERGESORT](http://www.spoj.com/problems/MERGSORT/) | (_Same as the source code_)
+- [Merge Sort](https://www.codechef.com/problems/MRGSRT) | [Python](solutions/merge_sort_codechef.py)
 - [Counting Inversions in an Array](https://www.spoj.com/problems/INVCNT/) | [Java](https://github.com/rajat123456/General-Competitive-Programming-Questions/blob/master/SPOJ(INVCNT).java)
 - [Maximum SubArray](https://leetcode.com/problems/maximum-subarray/description/) | [Java](https://github.com/rajat123456/General-Competitive-Programming-Questions/blob/master/(LeetCode)Maximum%20Sum%20Subaray.java)	
-
-
 
 ## Binary Search
 
@@ -38,7 +36,7 @@
 
 #### Questions
 - Small interview question that will make you practice this topic: [Ordered Set](https://www.interviewcake.com/question/python/find-in-ordered-set)
-	- ( _Solution is same as the normal source code_ )
+	- ( _Same as the source code_ )
 - [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [C++](https://github.com/BedirT/AlgorithmsL/blob/master/Problems/Curriculum%20Q's/Week%203/Search%20Insert%20Position.cpp), [C](https://github.com/nadide/ACM-ICPC/blob/master/problems/other/insertPosition.c)
 - [10 beautiful practice question](http://www.infoarena.ro/blog/binary-search-shortlist) | [C++](https://github.com/BedirT/AlgorithmsL/tree/master/Problems/Curriculum%20Q's/Week%203/Binary%20Search%20Shortlist)
 - [Ice Cream Parlor](https://www.hackerrank.com/challenges/icecream-parlor) | [C++](https://github.com/NAU-ACM/Competitive-Programming/blob/master/HackerRank/Practices/Algorithms/Search/Ice%20Cream%20Parlor.cpp), [C](https://github.com/nadide/ACM-ICPC/blob/master/problems/hackerrank/X_iceCreamParlor.c)
