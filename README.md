@@ -1,7 +1,7 @@
 ![ACM-ICPC](https://github.com/NAU-ACM/ACM-ICPC-Preparation/blob/master/acm_icpc_prep.jpg "ACM-ICPC")
 
 # ACM-ICPC Preparation 
-![](https://img.shields.io/badge/licence-MIT-green.svg) ![](https://img.shields.io/badge/Weeks%20Completed-8%2F20-orange.svg) ![](https://img.shields.io/badge/Revisions-2%2F20-red.svg)
+![](https://img.shields.io/badge/licence-MIT-green.svg) ![](https://img.shields.io/badge/Weeks%20Completed-8%2F20-orange.svg) ![](https://img.shields.io/badge/Revisions-4%2F20-red.svg)
 
 This curriculum has been developed to learn Algorithms to use in Competitive Programming, **but can also be used for:**
   - Practicing for Interviews
@@ -10,7 +10,6 @@ This curriculum has been developed to learn Algorithms to use in Competitive Pro
 
 **Prerequisites:** 
   - To know at least one programming language. (_You have to be able to use the language efficiently._)
-  - You have to be familiar with some of the primary Data Structures (Array, Stack, Queue, etc.) (_Although if you don't know some, you may learn when you come across them._)
 
 The concept of this repository is to have well-structured content divided into parts that one can follow even if they are busy. Here we collected sources we find well prepared to learn the proposed topics. The curriculum has different data structures and algorithms. 
 
