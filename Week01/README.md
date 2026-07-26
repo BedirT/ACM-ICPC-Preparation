@@ -51,4 +51,4 @@
 - C++ | [s0](https://github.com/nadide/ACM-ICPC/blob/master/codes/math_modExponent.cpp), [s1](vanilla_implementations/modularExponentiation.cpp)
 
 #### Questions
-- [Power of Large Numbers](https://www.hackerrank.com/challenges/power-of-large-numbers) | [Python](https://github.com/NAU-ACM/Competitive-Programming/blob/master/HackerRank/Practices/Math/PowerOfLargeNumbers.py)
+- [Power of Large Numbers](https://www.hackerrank.com/challenges/power-of-large-numbers) | [Python](https://github.com/NAU-ACM/Competitive-Programming/blob/master/HackerRank/Practices/Math/PowerOfLargeNumbers.py) | [C++](solutions/powerOfLargeNumbers.cpp)
