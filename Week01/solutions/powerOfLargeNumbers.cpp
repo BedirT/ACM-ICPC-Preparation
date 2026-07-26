@@ -1,12 +1,13 @@
 // https://www.hackerrank.com/challenges/power-of-large-numbers/problem
-#include <bits/stdc++.h>
+#include <iostream>
+#include <string>
 using namespace std;
 
 // key things to note:
 // we can take x mod 1e9 + 7, won't affect result at all
 // because 1e9 + 7 is prime, fermat's little theorem applies
 // fermat's little theorem states that for a % p != 0, (a ^ p) % p = a
-// thus (a ^ p - 1) % p = 1
+// thus (a ^ (p - 1)) % p = 1
 // thus we can take y mod 1e9 + 6
 // then we can take x mod 1e9 + 7 and y mod 1e9 + 6 and perform modular exponentiation
  
