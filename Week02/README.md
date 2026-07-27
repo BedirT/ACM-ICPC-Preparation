@@ -50,4 +50,4 @@
 #### Questions
 - [Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials/problem?h_r=internal-search) | [C++](https://github.com/BedirT/AlgorithmsL/blob/master/Problems/HackerRank/Algorithms/Implementation/Extra%20Long%20Factorial.cpp), [C](https://github.com/nadide/ACM-ICPC/blob/master/problems/hackerrank/extraLongFactorials.c)
 - [GCD of Large Number](https://www.codechef.com/problems/GCD2) | [C++](solutions/gcd_of_large_number.cc)
-- [Modular GCD](https://www.codechef.com/AUG18B/problems/GCDMOD) | [Python](solutions/modular_gcd.py)
+- [Modular GCD](https://www.codechef.com/AUG18B/problems/GCDMOD) | [Python](solutions/modular_gcd.py) | [C++](solutions/modularGCD.cpp)
