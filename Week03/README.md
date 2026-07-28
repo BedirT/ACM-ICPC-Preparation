@@ -17,7 +17,7 @@
 #### Questions
 - [Quicksort 1 - Partition](https://www.hackerrank.com/challenges/quicksort1) | [C++](https://github.com/BedirT/AlgorithmsL/blob/master/Problems/HackerRank/Algorithms/Sorting/Quicksort%201%20-%20Partition.cpp), [C](https://github.com/nadide/ACM-ICPC/blob/master/problems/hackerrank/sorting/quickSort1_partition.c)
 - [Quicksort 2 - Sorting](https://www.hackerrank.com/challenges/quicksort2) | [C++](https://github.com/BedirT/AlgorithmsL/blob/master/Problems/HackerRank/Algorithms/Sorting/Quicksort%202%20-%20Sorting.cpp), [C](https://github.com/nadide/ACM-ICPC/blob/master/problems/hackerrank/sorting/quickSort2_sorting.c)
-- [Quicksort In-Place ](https://www.hackerrank.com/challenges/quicksort3) | [C](https://github.com/nadide/ACM-ICPC/blob/master/problems/hackerrank/sorting/quickSort_inPlace.c)
+- [Quicksort In-Place ](https://www.hackerrank.com/challenges/quicksort3) | [C++](solutions/quicksort-in-place.cpp), [C](https://github.com/nadide/ACM-ICPC/blob/master/problems/hackerrank/sorting/quickSort_inPlace.c)
 
 
 ## Counting Sort
@@ -38,4 +38,4 @@
 - [Counting Sort 1](https://www.hackerrank.com/challenges/countingsort1) | [C++](https://github.com/BedirT/AlgorithmsL/blob/master/Problems/HackerRank/Algorithms/Sorting/Counting%20Sort%201.cpp), [C](https://github.com/nadide/ACM-ICPC/blob/master/problems/hackerrank/sorting/countingSort1.c)
 - [Counting Sort 2](https://www.hackerrank.com/challenges/countingsort2) | [C++](https://github.com/BedirT/AlgorithmsL/blob/master/Problems/HackerRank/Algorithms/Sorting/Counting%20Sort%202.cpp), [C](https://github.com/nadide/ACM-ICPC/blob/master/problems/hackerrank/sorting/countingSort2.c)   
 - [Counting Sort 3](https://www.hackerrank.com/challenges/countingsort3) | [C++](https://github.com/BedirT/AlgorithmsL/blob/master/Problems/HackerRank/Algorithms/Sorting/Counting%20Sort%203.cpp), [C](https://github.com/nadide/ACM-ICPC/blob/master/problems/hackerrank/sorting/countingSort3.c)
-- [The Full Counting Sort](https://www.hackerrank.com/challenges/countingsort4) | [Java](https://github.com/BedirT/AlgorithmsL/blob/master/Problems/HackerRank/Algorithms/Sorting/CountingSort4.java), [C](https://github.com/nadide/ACM-ICPC/blob/master/problems/hackerrank/sorting/theFullCountingSort.c)
+- [The Full Counting Sort](https://www.hackerrank.com/challenges/countingsort4) | [Java](https://github.com/BedirT/AlgorithmsL/blob/master/Problems/HackerRank/Algorithms/Sorting/CountingSort4.java), [C++](/solutions/the-full-counting-sort.cpp), [C](https://github.com/nadide/ACM-ICPC/blob/master/problems/hackerrank/sorting/theFullCountingSort.c)
