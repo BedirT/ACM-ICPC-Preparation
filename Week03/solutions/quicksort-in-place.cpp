@@ -3,6 +3,7 @@
 #include <iostream>
 #include <vector>
 #include <stack>
+#include <utility>
 using namespace std;
 
 int main()
@@ -30,16 +31,16 @@ int main()
     // at the end when we reach the pivot itself, swap with index at # less than pivot
     // then add right and left to stack
 
-    // this does it linearly rather than recursively, recursive soln has same idea though
+    // this does it iteratively rather than recursively, recursive soln has same idea though
 
     while(!s.empty())
     {
         auto [ l, r ] = s.top();
         s.pop();
-        int pivot = arr[r];
+        
         if(l >= r)
             continue;
-            
+        int pivot = arr[r];
         // handle size 2 arr
         if(r-l == 1)
         {
