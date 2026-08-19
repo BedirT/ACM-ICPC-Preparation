@@ -1,7 +1,16 @@
-![ACM-ICPC](https://github.com/NAU-ACM/ACM-ICPC-Preparation/blob/master/acm_icpc_prep.jpg "ACM-ICPC")
+<img width="1733" height="907" alt="banner" src="https://github.com/user-attachments/assets/d097b3e8-bd9c-439f-afc7-459c38c0253f" />
 
-# ACM-ICPC Preparation 
-![](https://img.shields.io/badge/licence-MIT-green.svg) ![](https://img.shields.io/badge/Weeks%20Completed-8%2F20-orange.svg) ![](https://img.shields.io/badge/Revisions-4%2F20-red.svg)
+<div align="center">
+
+  <h1>ACM-ICPC Preparation</h1>
+
+  <p>
+    <img src="https://img.shields.io/badge/licence-MIT-green.svg" alt="MIT Licence">
+    <img src="https://img.shields.io/badge/Weeks%20Completed-8%2F20-orange.svg" alt="Weeks Completed: 8/20">
+    <img src="https://img.shields.io/badge/Revisions-4%2F20-red.svg" alt="Revisions: 4/20">
+  </p>
+
+</div>
 
 This curriculum has been developed to learn Algorithms to use in Competitive Programming, **but can also be used for:**
   - Practicing for Interviews
