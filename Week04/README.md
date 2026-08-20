@@ -2,6 +2,9 @@
 
 ## Merge Sort
 
+#### Divide and Conquer (Precursor)
+- [GeeksforGeeks](https://www.geeksforgeeks.org/dsa/introduction-to-divide-and-conquer-algorithm/)
+
 #### Video Sources
 - [Youtube - Michael Sambol (3 min)](https://www.youtube.com/watch?v=4VqmGXwpLqc)
 - [Hackerrank](https://www.youtube.com/watch?v=KF2j-9iSf4Q)

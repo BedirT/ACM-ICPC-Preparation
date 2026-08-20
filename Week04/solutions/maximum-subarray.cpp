@@ -3,6 +3,8 @@
 // note that we COULD do kadane's, but because this is in the mergesort section
 // i'm going to use divide and conquer for this problem (although sorting isn't involved)
 
+#include <algorithm>
+#include <climits>
 #include <iostream>
 #include <vector>
 using namespace std;

@@ -8,7 +8,7 @@ using namespace std;
 // overall idea of this problem is that validation is trivial in linear time
 // i.e. given k, can we place all cows >= k distance apart?
 // thus we can simply binary search for this value k
-// low is 1, right is ceiling((furthest right - furthest left)/c)
+// low is 0, right is rightmost stall - leftmost stall
 // then bin search, if we can place all cows >= mid then left = mid
 // else right = mid - 1
 
@@ -24,7 +24,7 @@ void solve ()
 
     // run binsearch on stalls
 
-    int l = 1, r = (stalls[n - 1] - stalls[0] + c)/c;
+    int l = 0, r = stalls[n - 1] - stalls[0];
 
     while(l < r)
     {

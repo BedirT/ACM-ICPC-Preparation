@@ -1,7 +1,6 @@
 // https://www.codechef.com/problems/MRGSRT
 
 #include <iostream>
-#include <vector>
 using namespace std;
 
 void solve()
