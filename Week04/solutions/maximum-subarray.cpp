@@ -1,7 +1,7 @@
 // https://leetcode.com/problems/maximum-subarray/description/
 
-// note that we COULD do kadane's, but because this is in the mergesort section
-// i'm going to use divide and conquer for this problem (although sorting isn't involved)
+// Kadane's algorithm is faster, but this solution uses divide and conquer
+// to practice the technique introduced in this section.
 
 #include <algorithm>
 #include <climits>

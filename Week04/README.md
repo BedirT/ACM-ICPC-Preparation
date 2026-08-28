@@ -1,9 +1,11 @@
 # Week 4
 
-## Merge Sort
+## Divide and Conquer
 
-#### Divide and Conquer (Precursor)
-- [GeeksforGeeks](https://www.geeksforgeeks.org/dsa/introduction-to-divide-and-conquer-algorithm/)
+#### Written Sources
+- [Brilliant](https://brilliant.org/wiki/divide-and-conquer/)
+
+### Merge Sort
 
 #### Video Sources
 - [Youtube - Michael Sambol (3 min)](https://www.youtube.com/watch?v=4VqmGXwpLqc)
@@ -17,9 +19,13 @@
 #### Source Codes
 - [Python](vanilla_implementations/merge_sort.py)
 
-#### Questions 
+#### Questions
 - [MERGESORT](http://www.spoj.com/problems/MERGSORT/) | [C++](solutions/mergesort-spoj.cpp) |(_Same as the source code for Python_)
 - [Merge Sort](https://www.codechef.com/problems/MRGSRT) | [C++](solutions/mergesort-codechef.cpp) | [Python](solutions/merge_sort_codechef.py)
+
+### Applications
+
+#### Questions
 - [Counting Inversions in an Array](https://www.spoj.com/problems/INVCNT/) | [C++](solutions/inversion-count.cpp) | [Java](https://github.com/rajat123456/General-Competitive-Programming-Questions/blob/master/SPOJ(INVCNT).java)
 - [Maximum SubArray](https://leetcode.com/problems/maximum-subarray/description/) | [C++](solutions/maximum-subarray.cpp) | [Java](https://github.com/rajat123456/General-Competitive-Programming-Questions/blob/master/(LeetCode)Maximum%20Sum%20Subaray.java)	
 
