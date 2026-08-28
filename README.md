@@ -89,6 +89,8 @@ Here are the topics we currently include in the curriculum.
     - Closest pair problem
     - Line intersection
 
+  - Divide and Conquer
+
   - Sort
     - QuickSort
     - Counting Sort
@@ -150,7 +152,7 @@ Here are the topics we currently include in the curriculum.
 |[**1.Week**](https://github.com/NAU-ACM/ACM-ICPC-Preparation/tree/master/Week01)|<ul><li>Prime Numbers (Sieve of Eratosthenes)</li><li>Efficient Prime Factorization</li><li>Modular Exponentiation</li></ul>||
 |[**2.Week**](https://github.com/NAU-ACM/ACM-ICPC-Preparation/tree/master/Week02)|<ul><li>GCD and LCM Euclid’s Algorithm</li><li>Long arithmetic (Multi, Sum, Div, Sub)</li></ul>|<ul><li>C++ STL:Vector</li><li>C++ STL:Pairs</li><li>C++ STL:Iterators</li></ul>|
 |[**3.Week**](https://github.com/NAU-ACM/ACM-ICPC-Preparation/tree/master/Week03)|<ul><li>QuickSort</li><li>Counting Sort</li></ul>|<ul><li>C++ STL:String</li><li>C++ STL:Set</li><li>C++ STL:Map</li></ul>|
-|[**4.Week**](https://github.com/NAU-ACM/ACM-ICPC-Preparation/tree/master/Week04)|<ul><li>Merge Sort</li><li>Binary Search</li></ul>|<ul><li>Ternary Search</li></ul>|
+|[**4.Week**](https://github.com/NAU-ACM/ACM-ICPC-Preparation/tree/master/Week04)|<ul><li>Divide and Conquer<ul><li>Merge Sort</li></ul></li><li>Binary Search</li></ul>|<ul><li>Ternary Search</li></ul>|
 |[**5.Week**](https://github.com/NAU-ACM/ACM-ICPC-Preparation/tree/master/Week05)|<ul><li>Queue (DS)</li><li>Stack (DS)</li><li>Breadth First Search</li><li>Depth First Search</li></ul>|<ul><li>C++ STL: Queue</li><li>C++ STL: Stack</li></ul>|
 |[**6.Week**](https://github.com/NAU-ACM/ACM-ICPC-Preparation/tree/master/Week06)|<ul><li>Linked List (DS)</li><li>Dijkstra’s Shortest Path</li><li>Minimum Spanning Tree (MST)</li><li>Floyd Warshall</li></ul>|<ul><li>Cycle Detection (Union Find)</li></ul>|
 |[**7.Week**](https://github.com/NAU-ACM/ACM-ICPC-Preparation/tree/master/Week07)|<ul><li>Knapsack</li><li>Coin Change</li><li>Kadane</li></ul>||
