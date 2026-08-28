@@ -27,8 +27,8 @@
 - C++ | [s0](https://github.com/BedirT/AlgorithmsL/blob/master/Algorithms/Math/GCD%20and%20LCM%20Euclid%20Algorithm.cpp), [s1](https://github.com/nadide/ACM-ICPC/blob/master/codes/math_LCM.cpp)
 
 #### Questions
-- [Nth Magical Number](https://leetcode.com/problems/nth-magical-number/)
-- [Ugly Number](https://leetcode.com/problems/ugly-number-iii/)
+- [Nth Magical Number](https://leetcode.com/problems/nth-magical-number/) | [C++](solutions/nth-magical-number.cpp)
+- [Ugly Number](https://leetcode.com/problems/ugly-number-iii/) | [C++](solutions/nth-ugly-number.cpp)
 
 
 ## Long Arithmetic (Multi, Sum, Sub)
