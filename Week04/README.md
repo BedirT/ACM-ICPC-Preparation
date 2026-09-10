@@ -1,6 +1,11 @@
 # Week 4
 
-## Merge Sort
+## Divide and Conquer
+
+#### Written Sources
+- [Brilliant](https://brilliant.org/wiki/divide-and-conquer/)
+
+### Merge Sort
 
 #### Video Sources
 - [Youtube - Michael Sambol (3 min)](https://www.youtube.com/watch?v=4VqmGXwpLqc)
@@ -14,11 +19,15 @@
 #### Source Codes
 - [Python](vanilla_implementations/merge_sort.py)
 
-#### Questions 
-- [MERGESORT](http://www.spoj.com/problems/MERGSORT/) | (_Same as the source code_)
-- [Merge Sort](https://www.codechef.com/problems/MRGSRT) | [Python](solutions/merge_sort_codechef.py)
-- [Counting Inversions in an Array](https://www.spoj.com/problems/INVCNT/) | [Java](https://github.com/rajat123456/General-Competitive-Programming-Questions/blob/master/SPOJ(INVCNT).java)
-- [Maximum SubArray](https://leetcode.com/problems/maximum-subarray/description/) | [Java](https://github.com/rajat123456/General-Competitive-Programming-Questions/blob/master/(LeetCode)Maximum%20Sum%20Subaray.java)	
+#### Questions
+- [MERGESORT](http://www.spoj.com/problems/MERGSORT/) | [C++](solutions/mergesort-spoj.cpp) |(_Same as the source code for Python_)
+- [Merge Sort](https://www.codechef.com/problems/MRGSRT) | [C++](solutions/mergesort-codechef.cpp) | [Python](solutions/merge_sort_codechef.py)
+
+### Applications
+
+#### Questions
+- [Counting Inversions in an Array](https://www.spoj.com/problems/INVCNT/) | [C++](solutions/inversion-count.cpp) | [Java](https://github.com/rajat123456/General-Competitive-Programming-Questions/blob/master/SPOJ(INVCNT).java)
+- [Maximum SubArray](https://leetcode.com/problems/maximum-subarray/description/) | [C++](solutions/maximum-subarray.cpp) | [Java](https://github.com/rajat123456/General-Competitive-Programming-Questions/blob/master/(LeetCode)Maximum%20Sum%20Subaray.java)	
 
 ## Binary Search
 
