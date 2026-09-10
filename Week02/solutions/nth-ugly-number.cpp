@@ -1,11 +1,25 @@
 // https://leetcode.com/problems/ugly-number-iii/description/
 
-#include <bits/stdc++.h>
+#include <iostream>
 using namespace std;
+
+long long gcd (long long a, long long b)
+{
+    while (b != 0)
+    {
+        a %= b;
+        swap(a, b);
+    }
+    return a;
+}
+
+long long lcm (long long a, long long b)
+{
+    return (a / gcd(a, b)) * b;
+}
 
 int solve(int n, int a, int b, int c)
 {
-    long long ln = n;
     long long la = a;
     long long lb = b;
     long long lc = c;

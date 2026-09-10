@@ -28,7 +28,7 @@
 
 #### Questions
 - [Nth Magical Number](https://leetcode.com/problems/nth-magical-number/) | [C++](solutions/nth-magical-number.cpp)
-- [Ugly Number](https://leetcode.com/problems/ugly-number-iii/) | [C++](solutions/nth-ugly-number.cpp)
+- [Ugly Number III](https://leetcode.com/problems/ugly-number-iii/) | [C++](solutions/nth-ugly-number.cpp)
 
 
 ## Long Arithmetic (Multi, Sum, Sub)
