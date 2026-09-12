@@ -50,4 +50,4 @@
 - [10 beautiful practice question](http://www.infoarena.ro/blog/binary-search-shortlist) | [C++](https://github.com/BedirT/AlgorithmsL/tree/master/Problems/Curriculum%20Q's/Week%203/Binary%20Search%20Shortlist)
 - [Ice Cream Parlor](https://www.hackerrank.com/challenges/icecream-parlor) | [C++](https://github.com/NAU-ACM/Competitive-Programming/blob/master/HackerRank/Practices/Algorithms/Search/Ice%20Cream%20Parlor.cpp), [C](https://github.com/nadide/ACM-ICPC/blob/master/problems/hackerrank/X_iceCreamParlor.c)
 - [Maximum Subarray Sum](https://www.hackerrank.com/challenges/maximum-subarray-sum) | [C++](https://github.com/nadide/ACM-ICPC/blob/master/problems/hackerrank/X_maximumSubarraySum.cpp)
-- [Aggressive Cows](https://www.spoj.com/problems/AGGRCOW/) | [C++](solutions/aggressive-cows.cpp) | [Java](https://github.com/rajat123456/General-Competitive-Programming-Questions/blob/master/(SPOJ)Aggressive%20Cows.java)
+- [Aggressive Cows](https://www.spoj.com/problems/AGGRCOW/) | [Java](https://github.com/rajat123456/General-Competitive-Programming-Questions/blob/master/(SPOJ)Aggressive%20Cows.java)
