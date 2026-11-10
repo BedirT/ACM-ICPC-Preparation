@@ -32,6 +32,25 @@ Using this repository depends on what the user wants to do with it. Here we are 
   4. After you feel comfortable with the code, try to solve the given problems.
   5. When you are done with solving or are stuck at some point, check given solutions and try to understand your mistake or see if a better approach exists.
 
+## **Website & Autofill Extension**
+
+[![Apply to jobs in seconds with Zapply.](apply-faster-banner.png)](https://app.zapply.jobs/onboarding/?ref=github-cta-BedirT)
+
+Explore Zapply’s website and check out:
+- Our Chrome extension, which autofills job applications in seconds.
+- A dedicated job board featuring the latest openings across various roles.
+- User accounts with multiple profiles for different resume types and roles.
+- Job application tracking with streaks and commitment awards.
+
+Experience an advanced career journey with us! 🚀
+
+<p align="center">
+  <a href="https://app.zapply.jobs/onboarding/?ref=github-cta-BedirT">
+    <img src="get-started-button.png" alt="Visit Zapply" width="700">
+  </a>
+</p>
+<p align="right"><sub>Sponsored by Zapply</sub></p>
+
 ## Resources
 
 Here are some of the websites/tools that we use through this curriculum:
