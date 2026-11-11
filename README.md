@@ -32,6 +32,8 @@ Using this repository depends on what the user wants to do with it. Here we are 
   4. After you feel comfortable with the code, try to solve the given problems.
   5. When you are done with solving or are stuck at some point, check given solutions and try to understand your mistake or see if a better approach exists.
 
+<sub><i>The following section is provided by our sponsor, Zapply, in their own words.</i></sub>
+
 ## **Website & Autofill Extension**
 
 [![Apply to jobs in seconds with Zapply.](apply-faster-banner.png)](https://app.zapply.jobs/onboarding/?ref=github-cta-BedirT)
